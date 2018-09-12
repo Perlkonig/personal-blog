@@ -25,6 +25,7 @@ I have fallen in love with [Grav CMS](https://getgrav.org). It's flat file, fast
 * [Blogroll](https://github.com/Perlkonig/grav-plugin-blogroll) (see the left-hand sidebar for an example)
 * [Classifier](https://github.com/Perlkonig/grav-plugin-classifier) [(demo)](./classifier)
 * [Count Views](https://github.com/Perlkonig/grav-plugin-count-views) [(demo)](./count-views)
+* [Fortune](https://github.com/Perlkonig/grav-plugin-fortune) [(demo)](./fortune)
 * [Google Charts](https://github.com/Perlkonig/grav-plugin-google-charts) [(demo)](./google-charts)
 * [Graveyard](https://github.com/Perlkonig/grav-plugin-graveyard) [(demo)](./graveyard)
 * [Header by Taxonomy](https://github.com/Perlkonig/grav-plugin-header-by-taxonomy) (The View Source plugin is enabled for all demo pages using this plugin)
