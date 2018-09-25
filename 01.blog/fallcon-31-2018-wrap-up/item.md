@@ -37,15 +37,15 @@ FallCon offers a number of different experiences:
 
 * And finally they have the vendor tables. Again, not really my thing, but I did discover some more game stores and [a Calgary-based maker of beautiful game tables](http://wheatlandwoodwork.ca/). So that was exciting :)
 
-[![Open gaming area](open-area.jpg?cropResize=300,300&classes=caption "Part of the open gaming area")](open-area.jpg)
+[![Open gaming area](open-area.jpg?cropResize=500,500&classes=caption "Part of the open gaming area")](open-area.jpg)
 
-[![Prototype and hosted games area](proto-hosted.jpg?cropResize=300,300&classes=caption "The prototype and part of the hosted games area")](proto-hosted.jpg)
+[![Prototype and hosted games area](proto-hosted.jpg?cropResize=500,500&classes=caption "The prototype and part of the hosted games area")](proto-hosted.jpg)
 
-[![Vendor demo area](vendor-demos.jpg?cropResize=300,300&classes=caption "Vendor demo area")](vendor-demos.jpg)
+[![Vendor demo area](vendor-demos.jpg?cropResize=500,500&classes=caption "Vendor demo area")](vendor-demos.jpg)
 
-[![From above: prototype and hosted games area](right-side.jpg?cropResize=300,300&classes=caption "Vendor demo, prototype, and hosted game area from above")](right-side.jpg)
+[![From above: prototype and hosted games area](right-side.jpg?cropResize=500,500&classes=caption "Vendor demo, prototype, and hosted game area from above")](right-side.jpg)
 
-[![From above: part of the game library](library.jpg?cropResize=300,300&classes=caption "Just part of the game library area, from above")](library.jpg)
+[![From above: part of the game library](library.jpg?cropResize=500,500&classes=caption "Just part of the game library area, from above")](library.jpg)
 
 ## Tips and Tricks
 
@@ -75,7 +75,7 @@ Here is the list of games I played in chronological order, and my thoughts about
 
 ### Escape Room
 
-[![Exterior of the escape room](escape-room.jpg?cropResize=300,300&classes=caption "Exterior of the escape room")](escape-room.jpg)
+[![Exterior of the escape room](escape-room.jpg?cropResize=500,500&classes=caption "Exterior of the escape room")](escape-room.jpg)
 
 For a couple of years now, a group of guys have designed and built an escape room for the convention. I couldn't take a picture inside, but here's a picture from the outside. They put a lot of effort into it, and it included all sorts of electronics, too. Believe it or not, it was my very first time in an actual escape room (though I've done various video game versions), so I can't compare it to anything, but I quite enjoyed myself. It was a steampunk theme, and the puzzles were naturally rooted in various board games. Decipher the clues to get the combinations to open the locks that lead to more clues until you find your way out. This was a great opportunity to try one of these without having to lay out tons of dough.
 
@@ -93,7 +93,7 @@ This is one I'm bringing to our work sessions as soon as it arrives.
 
 ### Village
 
-[![Village: Near the end of the game](village.jpg?cropResize=300,300&classes=caption "Village, near the end of the game")](village.jpg)
+[![Village: Near the end of the game](village.jpg?cropResize=500,500&classes=caption "Village, near the end of the game")](village.jpg)
 
 This was a pick-up game I found to round out my Friday night. It's a worker placement game with a unique time mechanic: your workers die. Your workers are divided into four generations, numbered 1 to 4. When you bring new workers in, you always choose the lowest numbered one you have available. And when you are forced to kill a worker, you do the same thing. (There's nothing special about workers in different generations. It's just a way to implement the time mechanic.)
 
@@ -109,20 +109,71 @@ I should preface my thoughts by saying I didn't read the rulebook. One of the ot
 
 ### Heaven and Ale
 
-[![Heaven and Ale: Near the end of the game](HeavenAndAle.jpg?cropResize=300,300&classes=caption "Heaven and Ale, near the end of the game")](HeavenAndAle.jpg)
+[![Heaven and Ale: Near the end of the game](HeavenAndAle.jpg?cropResize=500,500&classes=caption "Heaven and Ale, near the end of the game")](HeavenAndAle.jpg)
 
 This is medium-weight euro with consistent if thin theme. It was one of the most tense games I played during the con.
 
 The action happens on a central board. Players move around the board collecting various tokens. You can move as far forward as you want, but you can never move backwards. Tokens you collect get placed on your player board and, when triggered, increase your production of various resources. Your final score is a combination of your lowest-producing resource and your brewmaster rating. This means you can't ignore anything. There's also a race element as you approach the end of the game as certain tokens (in particular the purple action tokens) become rarer and rarer, and only two people can claim each of the achievements. 
 
-It's very competitive. If you can't let go of the tension that can build in games like this, then it may not be for you. It's not like drafting games where you can see what the next person needs and choose to not give it to them. There's too much going on. But you all need essentially the same things, so you have to be prepared to adapt when the one thing you need to complete your master plan is invariably taken before you can get there.
+It's very competitive. If you can't let go of the tension that can build in games like this, then it may not be for you. It's not like drafting games where you can see what the next person needs and choose to not give it to them. There's too much going on. And really, you all need essentially the same things, so you have to be prepared to adapt when the one thing you need to complete your master plan is invariably taken before you can get there. This is the sort of game where the spread between top and bottom scores is usually huge.
 
+I don't know if I'll be buying this one. I recently bought [Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/castles-burgundy), which, while I haven't played in a long time, I remember really enjoying. It's better reviewed than Heaven and Ale, and it seems to scratch a similar itch. I'll know more when I get Castles back to the table again. 
 
 ### Elder Sign
 
+[![Elder Sign](elder-sign.jpg?cropResize=500,500&classes=caption "Elder Sign")](elder-sign.jpg)
+
+Elder Sign is a cooperative dice game set in the Cthulhu universe. Each game is against a single elder god, each with their own game-altering effects. Each player is an investigator with unique powers and equipment. They take turns exploring rooms in a museum. Each room has a series of tasks you need to complete, represented by symbols of various kinds. You have to roll the necessary symbols using a pool of dice, but it's not like Yahtzee where you can keep some and then roll again. Every roll you must throw a die away. There are powers that let you "bank" a die, and if multiple investigators are in the same room, they can help each other out, but essentially you need to complete a task with a single roll of the dice.
+
+At the end of each day, you draw a card from the elder god's deck. Usually it does bad things to you like summon monsters or lock dice away. The investigators are trying to collect elder sign tokens to lock the elder god away. Otherwise the god is summoned and you have to fight him.
+
+You can [play this game on your phone](https://play.google.com/store/apps/details?id=com.fantasyflightgames.ESAndroid), and I did for quite a while, but it's ultimately a very boring game. I just don't find the decision of where to go next all that interesting. And there's very little skill needed for the actual dice part. And I'm saying this as a huge fan of Lovecraft's work. The theme is just not enough to make this game very interesting, I'm afraid.
+
 ### Terraforming Mars
 
+[![Terraforming Mars: Broken Token player mat](mars-organizer.jpg?cropResize=500,500&classes=caption "Terraforming Mars: Broken Token player mat")](mars-organizer.jpg)
+
+[![Terraforming Mars: End of the game](mars-end.jpg?cropResize=500,500&classes=caption "Terraforming Mars: End of the game")](mars-end.jpg)
+
+Terraforming Mars is super hot, but I've put off buying it because (a) I didn't know if I could get a 2+ hour heavy euro to the table often and (b) I had heard complaints about the player mats. The default ones are just flat cards, but cube placement is super important. A little tap of a flat card could ruin a game. There are relatively inexpensive plastic trays you can buy (e.g., [Game Trayz](https://www.gametrayz.com/)) and more expensive wooden options (e.g., [Broken Token](https://www.thebrokentoken.com/terraforming-mars-organizer/)), which is what I got to play with this time 'round. Games are expensive enough that I resist paying extra for things that really should be a part of the game itself.
+
+All that aside, let's get to the game itself.
+
+In this game players represent different corporations working to terraform Mars and earn the most prestige doing so. At it's heart, this is a card drafting game with a healthy dose of resource management and a pinch of area control. The game ends when all three environmental threholds are met (temperature, oxygen, and water).
+
+On your turn you take one or two actions or you pass. The most common action is playing a card. Cards do all sorts of different things. I only played once and only saw the basic cards, and there are too many to enumerate here. They might let you place things on the board, give you resources, change the rate at which you naturally produce resources, directly change one of the environmental meters, cause asteroids to strike, build factories to produce different resources, breed plant or animal life, etc. Other actions include converting certain resources into other forms (heat into global warming, plants into forests). After everyone has passed, there's a card drafting round to add new cards to your hand. 
+
+One unique aspect of this game is how it handles milestones and awards:
+
+* Milestones are rewards you can get for accomplishing certain tasks (like building eight structures or building three cities). There are five total, but only three will ever be awarded in a given game. When a player meets one of the criteria, they can spend an action and pay a little money to claim the reward.
+
+* Awards aren't given until the end of the game, and whoever meets the criteria gets the points. Again, there are five awards, but only up to three will ever be active in a game. To activate an award, it has to be funded. So a player has to spend an action and an increasing sum of money to activate it. This doesn't mean the funder gets it though! Strategically it would be unwise to fund an award you don't think you can earn, but the award goes to whoever meets the criteria, even if that person didn't fund it.
+
+You repeat this until the game ends, after which there's a final production round and a final planting round, then most points wins.
+
+My feelings are somewhat mixed, and I think I need to play it a few more times. I have certainly decided I won't buy it until there's a second printing, at which time I can only assume the company will fix the problem with the player mats. I can't help but compare this to Heaven and Ale; I played them almost back to back.
+
+Terraforming Mars is a longer game, but I don't think you get much for that extra time. I'm not against long play times fundamentally. But with such limited time, I try to maximize the fun-to-time-invested ratio. Heaven and Ale gave a similarly competetive experience in almost half the time.
+
+I found it easier to see what others were doing in Terraforming Mars. I felt like I actually had some control during the drafting phase. With Heaven and Ale I could quickly get a sense of opponents' scoring positions, but it was not clear what an opponent's strategy was or how I could thwart it.
+
+Which means that Terraforming Mars is a little more relaxed than Heaven and Ale. It rewards thoughtful strategy, and there seems to be little opportunity for wholesale change partway through. We played the basic game with generic corporations and starting cards as dealt. In the full game, each corporation has different starting powers, which will greatly guide your opening strategy. And you start with a draft, letting you develop your strategy from the beginning. I'm certain that would make a big difference. Heaven and Ale is more race like. You feel like you're just treading water, fighting to stay alive :)
+
+Ultimately, this is a game I want to play again, but I'm not prepared to invest in it myself just yet. We'll see what editions come in the future.
+
 ### Camel Up
+
+[![Camel Up at the end of the game, but no pyramid!](camel-up.jpg?cropResize=500,500&classes=caption "Camel Up at the end of the game, but no pyramid!")](camel-up.jpg)
+
+This was a brutally chaotic game that I loved and hated simultaneously. It was so painful! It reminded me why I don't gamble. I'd be broke!
+
+This is a game about camel racing. Camels of five different colours race around the track. Camels that share a space are stacked on top of each other. Camels on the top of the stack are considered as ahead of camels beneath them. The race takes place over several legs. Players bet on who will be first and second at the end of a leg and also bet on who will be first and last in the race overall.
+
+But the players don't control the camels! Each camel has a die, all of which are placed in a cardboard pyramid. The pyramid has an ingenious opening mechansim. You shake the pyramid, turn it upside down against the board, press the release, and a single die comes out. The camel moves that number of spaces (including any camels on its back) and the die is set aside. That is repeated until all five dice are produced, which signals the end of a leg.
+
+Bets on the outcome of the leg are paid out, the dice are put back into the pyramid, and you start a new leg until a camel crosses the finish line.
+
+I could not believe how swingy things were. Things can change in an instant. While I'm sure there's some skill in mathing things out, the game is extremely light and chaotic. It's tons of fun, but it hurts so bad when your bets fail. The further away I get from it, the more I think it's the sort of game I might buy for the kids. I think they'd get a real kick out it. And with the right grownup group it could work, too. There's an expansion that might make the game more interesting. I'm at least considering it.
 
 ### Unlock: Tombstone Express
 
