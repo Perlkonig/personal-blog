@@ -29,7 +29,7 @@ FallCon offers a number of different experiences:
 
 * They also have "hosted games" where a dedicated host teaches a group of people how to play a game, which you then sit down and play. This is my favourite part. It's an ideal way to learn a new game, and it's one of the few times I get to try a game before maybe buying it. There are multiple hosted sessions a day, and multiple different games being offered in each session, so you can almost fill up your entire schedule with hosted sessions. You also get to meet lots of different people.
 
-* Prototype corner is a space where game designers bring their unfinished and close-to-finished games for playtesting. It's not really my bag, but a good number of people participate. FallCon hosts the [Canadian Game Design Awards](https://www.fallcon.com/rules.html), which gets awarded at the convention. **TODO** This year it went to blah blah...
+* Prototype corner is a space where game designers bring their unfinished and close-to-finished games for playtesting. It's not really my bag, but a good number of people participate. FallCon hosts the [Canadian Game Design Awards](https://www.fallcon.com/rules.html), which gets awarded at the convention. This year it went to a game I can't wait to buy: [Crash Factor](http://www.massgammon.com/). The kids are going to love this one.
 
 * They've also introduced a few panels in recent years, mostly focused on game design. Great if you're into that sort of thing.
 
@@ -247,7 +247,7 @@ There are already three expansions for 7 Wonders: Leaders, Cities, and Babel. Le
 
 Armada is a pretty sizable addition. I'm sorry I forgot to take photos. Each player gets a new board with rows for each of the card colours (except resources). You start with a ship at the beginning of each track. Whenever you build a card of a corresponding colour, you can pay a certain cost printed on the board to advance your ship, which will earn you certain bonuses:
 
-* Advancing your red ship adds to your fleet strength. In addition to normal land-based military conflict with your neighbours, this adds a round of naval warfare, which is conducted against *all* players. Top players get bonuses. Bottom players get penalties.
+* Advancing your red ship adds to your fleet strength. In addition to normal land-based military conflict with your neighbours, this expansion adds a round of naval warfare, which is conducted against *all* players. Top players get bonuses. Bottom players get penalties.
 
 * Advancing the yellow ship increases your economic level. This is used by the new mechanics taxation (players pay to the bank a certain number of coins minus their economic level) and piracy (players pay to the bank coins equal to their economic level).
 
@@ -257,7 +257,7 @@ Armada is a pretty sizable addition. I'm sorry I forgot to take photos. Each pla
 
 The expansion also adds an eighth card per age. These new cards leverage the new mechanics.
 
-I enjoyed the game, but it sure felt like a lot to keep track of. And it's not that I don't like having lots to do, but the core mechanic is still a very simple and fast drafting game. There's just some tension between the lightness of the core mechanic and the amount of work you need to do to make effective drafting decisions. I would definitely play it again.
+I enjoyed the game, but it sure felt like a lot to keep track of. And it's not that I don't like having lots to do, but the core mechanic is still a very simple and fast drafting game. There's just some tension between the lightness of the core mechanic and the amount of work you need to do to make effective drafting decisions. I would definitely play it again, th ough.
 
 Ultimately, what makes this game great is how flexible it is. I still think the base 7 Wonders belongs in most people's collections. It's the quintessential drafting game. It's easy to teach, even to kids, but it rewards thoughtful play. And you can add as much or as little complexity with the expansions as you want. Most of them are modular, so you can pick and choose. To me Leaders is pretty much essential. But the rest you can take or leave depending on your group.
 
@@ -282,7 +282,7 @@ Then, any encounters still in front of you trigger and do whatever damage or oth
 
 Finally, you draw new cards and have an opportunity to spend your experience points in the marketplace, where you can buy cards to add to your deck.
 
-I had a great time. It was fun trying to puzzle out how to most efficiently take everything down. The cards I saw were interesting, and there seemed to be lots of replayability potential. The teacher sold it as one of the harder cooperative games out there (others include [Ghost Stories](https://boardgamegeek.com/boardgame/37046/ghost-stories) and [Robinson Crusoe](https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)), and I can certainly see how that can be true. We got lucky, I guess, and managed to pull it off. There's a certain amount of "luck of the draw" when it comes to encounter cards. If you get a rough draw taht first round, you're going to be hurting.
+I had a great time. It was fun trying to puzzle out how to most efficiently take everything down. The cards I saw were interesting, and there seemed to be lots of replayability potential. The teacher sold it as one of the harder cooperative games out there (others include [Ghost Stories](https://boardgamegeek.com/boardgame/37046/ghost-stories) and [Robinson Crusoe](https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)), and I can certainly see how that can be true. We got lucky, I guess, and managed to pull it off. There's a certain amount of "luck of the draw" when it comes to encounter cards. If you get a rough draw that first round, you're going to be hurting.
 
 This game intrigues me, and I've put it on my long-term To Buy list, but I've got a number of similar games already. [Sentinels of the Multiverse](https://boardgamegeek.com/boardgame/102652/sentinels-multiverse) is a personal favourite, and I just bought [Mansions of Madness](https://boardgamegeek.com/boardgame/205059/mansions-madness-second-edition), too. I'm also playing through [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven). But I'll definitely keep my eyes open. If I found a good deal, I'd probably snatch this up anyway.
 
