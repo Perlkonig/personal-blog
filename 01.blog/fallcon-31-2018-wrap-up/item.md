@@ -35,7 +35,7 @@ FallCon offers a number of different experiences:
 
 * Perhaps the second-most popular aspect of FallCon is the auction (Saturday evening) and flea market (Sunday morning). At the auction you can apparently get some great deals, but unless you're going to buy a bunch of games to quickly fill up your collection, I just don't find it worth my time (the auction can take 3 hours). I'd personally rather be playing games. The flea market is just that&mdash;a bunch of tables with people selling games. Again, some great deals to be had, if you're looking.
 
-* And finally they have the vendor tables. Again, not really my thing, but I did discover some more game stores and [a Calgary-based maker of beautiful game tables](http://wheatlandwoodwork.ca/). So that was exciting :)
+* And finally they have the vendor tables. Again, not really my thing, but I did discover some more game stores and [a Calgary-based maker of beautiful game tables](http://wheatlandwoodwork.ca/). So that was exciting :smile:
 
 [![Open gaming area](open-area.jpg?cropResize=500,500&classes=caption "Part of the open gaming area")](open-area.jpg)
 
@@ -174,7 +174,7 @@ Terraforming Mars is a longer game, but I don't think you get much for that extr
 
 I found it easier to see what others were doing in Terraforming Mars. I felt like I actually had some control during the drafting phase. With Heaven and Ale I could quickly get a sense of opponents' scoring positions, but it was not clear what an opponent's strategy was or how I could thwart it.
 
-Which means that Terraforming Mars is a little more relaxed than Heaven and Ale. It rewards thoughtful strategy, and there seems to be little opportunity for wholesale change partway through. We played the basic game with generic corporations and starting cards as dealt. In the full game, each corporation has different starting powers, which will greatly guide your opening strategy. And you start with a draft, letting you develop your strategy from the beginning. I'm certain that would make a big difference. Heaven and Ale is more race like. You feel like you're just treading water, fighting to stay alive :smile:
+Which means that Terraforming Mars is a little more relaxed than Heaven and Ale. It rewards thoughtful strategy, and there seems to be little opportunity for wholesale change partway through. We played the basic game with generic corporations and starting cards as dealt. In the full game, each corporation has different starting powers, which will greatly guide your opening strategy. And you start with a draft, letting you develop your strategy from the beginning. I'm certain that would make a big difference. Heaven and Ale is more race like. You feel like you're just treading water, fighting to stay alive :fa-smile:
 
 Ultimately, this is a game I want to play again, but I'm not prepared to invest in it myself just yet. We'll see what editions come in the future.
 
@@ -195,7 +195,7 @@ Bets on the outcome of the leg are paid out, the dice are put back into the pyra
 
 I could not believe how swingy things were. Things can change in an instant. While I'm sure there's some skill in mathing things out, the game is extremely light and chaotic. It's tons of fun, but it hurts so bad when your bets fail. The further away I get from it, the more I think it's the sort of game I might buy for the kids. I think they'd get a real kick out it. And with the right grownup group it could work, too. There's an expansion that might make the game more interesting. I'm at least considering it.
 
-It *did* make me want to flip a table, though, and I'm pretty even headed :smile:
+It *did* make me want to flip a table, though, and I'm pretty even headed :fa-smile:
 
 [(back to top)](#games)
 
