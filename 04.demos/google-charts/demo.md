@@ -137,3 +137,23 @@ Data and options are passed as a JSON object contained by the tag. Also has the 
     }
 }[/gchart]
 
+## Timeline
+
+Timelines require a little extra attention. Use one of the "View Source" links at the top of the page to see the shortcode. Also see [Google's documentation on serializing dates and times](https://developers.google.com/chart/interactive/docs/datesandtimes#dates-and-times-using-the-date-string-representation). 
+
+[gchart type=timeline id=test4]{
+    "data": [
+        [
+            {"type": "string", "label": "President"}, 
+            {"type": "date", "label": "Start"}, 
+            {"type": "date", "label": "End"}
+        ],
+        ["Washington", "Date(1789, 3, 30)", "Date(1797, 2, 4)"],
+        ["Adams",      "Date(1797, 2, 4)",  "Date(1801, 2, 4)"],
+        ["Jefferson",  "Date(1801, 2, 4)",  "Date(1809, 2, 4)"]
+    ],
+    "options": {
+        "title": "Presidential Terms"
+    }
+}[/gchart]
+
