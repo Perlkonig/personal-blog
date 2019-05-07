@@ -1,5 +1,5 @@
 ---
-title: 'Make Time for Games -- 2019'
+title: 'Make Time for Games – 2019'
 slug: maketime-2019
 date: 04-05-2019
 published: true
@@ -28,24 +28,6 @@ Some friends and I were complaining that we never had time to play games. I comm
 The base *7 Wonders* game is a card drafting game where you're passed a hand of cards, pick one, and then pass the remaining cards on. The cards are then played in various ways to score points.
 
 *7 Wonders Duel* is designed specifically for two players. The cards are laid out in various formations on the table and the players take turn drawing them, instead of passing hands back and forth. Numerous other adjustments are made, but the core of the game is the same. This is a great two-player game that is relatively simple to learn but still has some interesting tactical decisions. Highly recommended.
-
-## Legendary Encounters: An Alien Deck Building Game
-
-<https://boardgamegeek.com/boardgame/146652/legendary-encounters-alien-deck-building-game>
-
-There are a series of *Legendary* games (the main one being [Marvel Legendary](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)). This one mirrors the structure but uses the *Alien* movies as the scenarios.
-
-The players are working together to accomplish the various objectives of the scenario. (We played the scenario that matches the first movie. Apparently there are scenarios for the four main movies.) Like any deck builder, players start with a base weak deck and use those cards to purchase more powerful ones over time. Every player turn, new baddies make their way through various rooms, making their way to the combat area. Some of those baddies are event or hazard cards that trigger various events based on the scenario. A few are actually allies that can help you. But most are mean, vicious xenomorphs. You want to try to kill them before they reach the main combat area. Once they get *there*, they harm you, and they cause a *lot* of hurt.
-
-I love the theme. We played with four players and only had time for one game. We were slaughtered. Since the baddies enter play after every player turn, four players makes for a tough game. We got a bad draw of initial market cards, so we couldn't do much before we were overwhelmed.
-
-My issues with this game are the same for all the *Legendary* games: 
-
-* The card quality is quite low. I know they need to keep the costs down to hit a mass-market price point, but it shows. I really don't like the way they feel and handle.
-* The *Legendary* games don't have many mechanisms for culling your deck. Without that, you have to be very circumspect with what cards you buy.
-* While all deck builders have relatively high setup and teardown times, the *Legendary* games go the extra mile. There are a *lot* of different card types, but **THEY ALL HAVE THE SAME CARD BACKS**!! This is unforgiveable to me. I should be able to quickly separate out the Hive cards from the Barracks cards from the Strike cards, at the very least.
-
-I still had a good time, though. We didn't play with the secret objectives and "becoming an alien" rules. I can see that if you play this often with a regular group, you could really explore the theme.
 
 ## Azul: Stained Glass of Sintra
 
@@ -80,6 +62,24 @@ This is a relatively simple area control game. There are twelve different races 
 We played this with four players. Not everybody loved it, but I think this is a superb family game. Like with *Sintra*, your options each turn are relatively constrained, and the mechanics are easily taught, but I think there's still room for strategic thinking. There's definitely some randomness, but I don't think it's enough to completely overcome player skill. What I love is how different the races are and how completely they change how each game feels. There are twelve races, but you only play with a random six each game. There are lots of interesting interactions.
 
 I for one am very happy to have this in my collection, and it's one I expect to get many plays out of with the kids and softcore gamers.
+
+## Legendary Encounters: An Alien Deck Building Game
+
+<https://boardgamegeek.com/boardgame/146652/legendary-encounters-alien-deck-building-game>
+
+There are a series of *Legendary* games (the main one being [Marvel Legendary](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)). This one mirrors the structure but uses the *Alien* movies as the scenarios.
+
+The players are working together to accomplish the various objectives of the scenario. (We played the scenario that matches the first movie. Apparently there are scenarios for the four main movies.) Like any deck builder, players start with a base weak deck and use those cards to purchase more powerful ones over time. Every player turn, new baddies make their way through various rooms, making their way to the combat area. Some of those baddies are event or hazard cards that trigger various events based on the scenario. A few are actually allies that can help you. But most are mean, vicious xenomorphs. You want to try to kill them before they reach the main combat area. Once they get *there*, they harm you, and they cause a *lot* of hurt.
+
+I love the theme. We played with four players and only had time for one game. We were slaughtered. Since the baddies enter play after every player turn, four players makes for a tough game. We got a bad draw of initial market cards, so we couldn't do much before we were overwhelmed.
+
+My issues with this game are the same for all the *Legendary* games: 
+
+* The card quality is quite low. I know they need to keep the costs down to hit a mass-market price point, but it shows. I really don't like the way they feel and handle.
+* The *Legendary* games don't have many mechanisms for culling your deck. Without that, you have to be very circumspect with what cards you buy.
+* While all deck builders have relatively high setup and teardown times, the *Legendary* games go the extra mile. There are a *lot* of different card types, but **THEY ALL HAVE THE SAME CARD BACKS**!! This is unforgiveable to me. I should be able to quickly separate out the Hive cards from the Barracks cards from the Strike cards, at the very least.
+
+I still had a good time, though. We didn't play with the secret objectives and "becoming an alien" rules. I can see that if you play this often with a regular group, you could really explore the theme.
 
 ## Mission Red Planet
 
