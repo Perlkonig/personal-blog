@@ -27,10 +27,12 @@ According to my records (I now use [ScorePal on Android](https://play.google.com
 
 I've said it before and I'll say it again&mdash;no home should be without a few decks of regular old playing cards. I never travel without them. The best place I've found to learn new card games is [Pagat.com](https://www.pagat.com/). This trip I played the following card games:
 
-* [99](https://www.pagat.com/exact/99.html): A trick-taking game for exactly three players.
+* [99](https://www.pagat.com/exact/99.html): A trick-taking game for exactly three players. My parents were also visiting, and we played hours of this.
 * [Blackout](https://www.pagat.com/exact/ohhell.html): We played with a whopping nine people. Was fun, but a little much.
 * [Casino](https://www.pagat.com/fishing/casino.html): A tremendous two-player fishing game I used to play nonstop with my grandfather.
 * [German Whist](https://www.pagat.com/whist/german_whist.html): A two-player whist game. There's a variant my stepmom taught me that I don't see on Pagat. I like them both.
+* [Hearts](https://www.pagat.com/reverse/hearts.html): Adele was able to join my parents and me for cards, and this is always an easy one to teach and bang out.
+* [Spades](https://www.pagat.com/auctionwhist/spades.html): It was great to play physical Spades again. I need to get into shape if I'm going to beat my brother and his wife! (Apparently Spades is *the* game among US Marines.)
 
 ## Boardgame List
 
