@@ -25,7 +25,8 @@ I used to speak of plain language in terms of it being “the right thing to do�
 Willerton examines the different ways academics and technical writers approach the topic of plain language. He makes a passionate argument for looking at it from the angle of ethics. The core of Willerton’s book is a framework for determining when using plain language becomes an ethical imperative as opposed to simply a good thing to do. (For an actual book review, [see our own Iva Cheung’s blog](https://www.ivacheung.com/2015/08/book-review-plain-language-and-ethical-action/).)
 
 In government, the word ethics is powerful, as are frameworks. So, I leverage the materials in this book at every level of my plain language teaching. Perhaps you, too, will find it useful.
-The BUROC framework for plain language
+
+## The BUROC framework for plain language
 
 Willerton calls his framework the BUROC framework. If your writing falls under any of the following categories, you should consider it an ethical responsibility to use plain language.
 
