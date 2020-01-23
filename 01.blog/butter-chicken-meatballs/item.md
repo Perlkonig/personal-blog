@@ -2,6 +2,7 @@
 title: 'Recipes: Butter Chicken Meatballs'
 slug: butter-chicken-meatballs
 date: 22-01-2020
+published: true
 summary:
     enabled: true
     format: short
