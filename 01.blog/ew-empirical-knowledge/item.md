@@ -20,7 +20,7 @@ metadata:
 
 ===
 
-<p style="text-style: italic">This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s <a href="https://aarondalton.ca/empiricaleditors">“Empirical Research for Editors” list</a>.</p>
+<p style="font-style: italic">This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s <a href="https://aarondalton.ca/empiricaleditors">“Empirical Research for Editors” list</a>.</p>
 
 Do you have the curse of knowledge?
 
