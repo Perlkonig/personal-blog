@@ -16,7 +16,7 @@ metadata:
 
 ---
 
-## This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=6858), the official blog of the [Editors' Association of Canada](http://editors.ca).
+**This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=6858), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
 ===
 
