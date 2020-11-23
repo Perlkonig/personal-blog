@@ -46,7 +46,7 @@ code all your italic text using HTML.
 
 Again, we see the usefulness of the caret and ampersand combined (`^&`). And
 we also see that we can leave the **Find what** field blank to search just for
-formatting! Magically, all our italic text becomes **<i>italic</i>**.
+formatting! Magically, all our italic text becomes `<i>italic</i>`.
 
 ## Wildcards
 
