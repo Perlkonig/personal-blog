@@ -46,7 +46,7 @@ code all your italic text using HTML.
 
 Again, we see the usefulness of the caret and ampersand combined (`^&`). And
 we also see that we can leave the **Find what** field blank to search just for
-formatting! Magically, all our italic text becomes **\<i\>italic\</i\>**.
+formatting! Magically, all our italic text becomes **<i>italic</i>**.
 
 ## Wildcards
 
@@ -91,10 +91,7 @@ lookbehinds](https://www.rexegg.com/regex-lookarounds.html).
 
 Consider the following idiosyncratic citation style:
 
-O’Connell, S.C. (1994): Geological history of the Peace River Arch; *in*
-Geological atlas of the Western Canada Sedimentary Basin, G.D. Mossop and I.
-Shetsen (comp.), Canadian Society of Petroleum Geologists and Alberta Research
-Council, p. 431–438 [May 2016].
+> O’Connell, S.C. (1994): Geological history of the Peace River Arch; *in* Geological atlas of the Western Canada Sedimentary Basin, G.D. Mossop and I. Shetsen (comp.), Canadian Society of Petroleum Geologists and Alberta Research Council, p. 431–438 [May 2016].
 
 See that italic "*in*"? Positive lookbehinds to the rescue: `(?<=\;\ )in`
 matches *just* the word "in" if and only if it is preceded by a semicolon and a
