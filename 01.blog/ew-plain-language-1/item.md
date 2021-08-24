@@ -1,6 +1,6 @@
 ---
 title: 'Editors Weekly: What Is Plain Language? Part 1; A Definition'
-date: 22-06-2021
+date: 21-06-2021
 published: true
 visible: false
 summary:
