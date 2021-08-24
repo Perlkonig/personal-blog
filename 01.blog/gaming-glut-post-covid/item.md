@@ -1,7 +1,7 @@
 ---
 title: 'Gaming Glut: Post-Covid (Fall 2021)'
 slug: gaming-glut-post-covid
-date: 22-10-2017
+date: 24-08-2021
 published: true
 visible: false
 summary:
