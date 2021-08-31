@@ -16,14 +16,14 @@ metadata:
 
 ---
 
-*This article was *[*originally published on *The Editors' Weekly](http://blog.editors.ca/?p=9572)*, the official blog of the [Editors' Association of Canada](http://editors.ca).*
+**This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=9572), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
 ===
 
 ## What Is Plain Language? Part 2: Reading is a Skill
 
-**This is the second in [a series of articles discussing the basic principles of
-plain language](https://blog.editors.ca/?tag=plain-language) by Aaron Dalton.**
+*This is the second in [a series of articles discussing the basic principles of
+plain language](https://blog.editors.ca/?tag=plain-language) by Aaron Dalton.*
 
 ### Defining literacy
 
