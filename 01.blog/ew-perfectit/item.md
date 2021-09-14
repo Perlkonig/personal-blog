@@ -1,6 +1,6 @@
 ---
 title: 'Editors Weekly: Review; The Chicago Manual of Style for PerfectIt'
-date: 14-09-2019
+date: 14-09-2021
 published: true
 visible: false
 summary:
