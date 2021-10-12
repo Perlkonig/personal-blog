@@ -69,11 +69,7 @@ structure, and engaging titles and openings. The results clearly demonstrated
 that “stylish” writing abounds in the published literature. As Sword eloquently
 put it:
 
-“These statistics will, I hope, give courage to academics who want to write more
-engagingly but fear the consequences of violating disciplinary norms. A
-convention is not a compulsion; a trend is not a law. The signature research
-styles of our disciplines influence and define us, but they need not crush and
-confine us.” (p. 22)
+> “These statistics will, I hope, give courage to academics who want to write more engagingly but fear the consequences of violating disciplinary norms. A convention is not a compulsion; a trend is not a law. The signature research styles of our disciplines influence and define us, but they need not crush and confine us.” (p. 22)
 
 In addition to these sources, I have gradually amassed examples of our
 organization’s documents that have been well received by audiences. When authors
