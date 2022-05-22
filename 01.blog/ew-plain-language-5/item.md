@@ -118,6 +118,7 @@ material online about any one of them, so I will simply summarize here.
 
 -   [Plain Language and Ethical Action: A Dialogic Approach to Technical Content
     in the 21st
+
     Century](https://www.routledge.com/Plain-Language-and-Ethical-Action-A-Dialogic-Approach-to-Technical-Content/Willerton/p/book/9780415741040?PageSpeed=noscript)* *by
     Russell Willerton (New York: Routledge, 2015) **[The **[BUROC
     framework](http://blog.editors.ca/?p=6136)** and discussion of the ethical
