@@ -20,7 +20,7 @@ metadata:
 
 ===
 
-## What Is Plain Language? Part 3: Craftsmanship
+## What Is Plain Language? Part 4: Craftsmanship
 
 *This is the fourth in [a series of articles discussing the basic principles of
 plain language](https://blog.editors.ca/?tag=plain-language) by Aaron Dalton.*
