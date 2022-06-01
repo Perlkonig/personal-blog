@@ -7,9 +7,9 @@ My name is Aaron Dalton. I have a BA (Hon.) and an MA in musicology from the Uni
 
 I am a professional editor and typesetter, with expertise in music editing and typesetting. I am an active member of [the Editors’ Association of Canada](http://editors.ca). I’m currently an editor for [the Alberta Energy Regulator](http://www.aer.ca) (the successor to the Energy Resource Conservation Board of Alberta) in Calgary, Alberta. More information on my professional affiliations and activities can be found on [my LinkedIn page](http://ca.linkedin.com/in/acdalton).
 
-I am also relatively active on [GitHub](https://github.com/Perlkonig), where I manage [my boardgaming website](https://www.abstractplay.com) and contribute to projects like the [Grav blogging platform](https://getgrav.org/) and the [SQRL protocol](https://www.grc.com).
+I am also relatively active on [GitHub](https://github.com/Perlkonig), where I manage [my boardgaming website](https://www.abstractplay.com) and contribute to projects like the [Grav blogging platform](https://getgrav.org/) and the [SQRL protocol](https://www.grc.com/sqrl/sqrl.htm).
 
-If you know me personally, and would like to connect via social networks, [visit my Facebook profile](http://www.facebook.com/aaron.dalton.ca), [my Google+ profile](https://plus.google.com/101204112367013538850), or [connect via Twitter](http://twitter.com/#!/perlkonig).
+If you know me personally, and would like to connect via social networks, [visit my Facebook profile](http://www.facebook.com/aaron.dalton.ca) or [connect via Twitter](http://twitter.com/#!/perlkonig).
 
 Feel free to secure your communications with me using [public key encryption](https://www.gnupg.org/): 
 
