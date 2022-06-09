@@ -1,0 +1,21 @@
+name = "Aaron Dalton"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "Gamer, programmer, editor, baker"
+# company = 'Company'
+company = '<a href="https://aer.ca" target="_blank" rel="noopener noreferrer">Alberta Energy Regulator</a>'
+location = "Alberta, Canada"
+# alternatives:
+# location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
+# location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
+
+[social]
+  email = "aaron@daltons.ca"
+  facebook = "aaron.dalton.ca"
+  github = "Perlkonig"
+  twitter = "perlkonig"
+  linkedin = "acdalton"
+  # rss = "" # Disable RSS link
