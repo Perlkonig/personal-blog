@@ -38,7 +38,7 @@ diagram = true
 socialShare = true
 searchBar = true
 
-poweredBy = true
+poweredBy = false
 
 readingTime = true
 postDate = true
