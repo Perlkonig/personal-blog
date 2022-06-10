@@ -9,9 +9,9 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover6.jpg)
+![Book cover](cover6.jpg)
 
-Tad Williams, *Otherland *(4 vols: *City of Golden Shadow*, *River of Blue Fire*, *Mountain of Black Glass*, and *Sea of Silver Light*) (DAW, 1996, 1998, 1999, 2001).
+Tad Williams, *Otherland* (4 vols: *City of Golden Shadow*, *River of Blue Fire*, *Mountain of Black Glass*, and *Sea of Silver Light*) (DAW, 1996, 1998, 1999, 2001).
 
 An oldie but goodie. Published between 1994 and 2001, *Otherland* is a massive novel (3000ish pages across 4 volumes). It’s not a series. It really is one large story split up for reasons of practicality across multiple volumes. When I first started it and saw how long it was, I was not sure if Williams would be able to keep the pacing up and keep me interested over so many pages. I was very pleasantly surprised.
 

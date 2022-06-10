@@ -1,0 +1,25 @@
+{{ with .Site.Params.blogroll }}
+  {{ if .enabled }}
+    <section class="row card component">
+        <div class="card-header">
+        <h2 class="card-title">
+            {{ .title }}
+        </h2>
+        </div>
+        <div class="card-body blogroll">
+            <ul>
+            {{ range sort .sites "weight" }}
+                <li>
+                    <a href="{{ .url }}">
+                        {{ .name }}
+                        <div class="description">
+                            {{ .description }}
+                        </div>
+                    </a>
+                </li>
+            {{ end }}
+            </ul>
+        </div>
+    </section>
+  {{ end }}
+{{ end }}

@@ -11,7 +11,7 @@ Original recipe: <http://gracessweetlife.com/2010/05/dark-chocolate-almond-crack
 
 Made two different kinds of cookies today: Dark Chocolate Almond Crackles and Chocolate Thumbprints.
 
- [![](cookies-300x275.jpg "Almond Crackles and Thumbprints")](cookies.jpg)
+ [![Almond Crackles and Thumbprints](cookies-300x275.jpg "Almond Crackles and Thumbprints")](cookies.jpg)
 
 Almond Crackles: This is a straightforward recipe except for the blanched almonds. What a pain! It took 30+ minutes just to blanch 1 cup. You can buy blanched, but I’m told you lose a lot of flavour if you don’t do it yourself just before using them. \*shrugs\* The cookie is just not worth it to me if I have to blanch almonds. Perhaps next time I’ll try it with the skins on and see if that’s really bad. We’ll see. Note that the batter is really runny (more like a brownie consistency), so you really do have to refrigerate the dough for that hour or so before using.
 

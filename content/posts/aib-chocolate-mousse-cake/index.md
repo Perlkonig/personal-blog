@@ -19,10 +19,10 @@ Verdict: Delicious! Keeper!
 
 UPDATE (18 MAY 2012): I’ve made the cake a few times over the intervening months, but my most recent foray included some 70% dark chocolate (4 oz) in both of the bottom two layers. The final verdict was that it was a touch too bitter. It looks like straight semi-sweet is best (60% at the most). Also, make sure you have enough white chocolate. I undermeasured a little and the result was an insufficient contrast between the flavours.
 
-[![](cake-inpan-300x245.jpg "Still in the pan")](cake-inpan.jpg)Still in the pan
+[![Still in the pan](cake-inpan-300x245.jpg "Still in the pan")](cake-inpan.jpg)Still in the pan
 
-[![](cake-outofpan-300x127.jpg "Out of the pan")](cake-outofpan.jpg)Springform pan removed
+[![Springform pan removed](cake-outofpan-300x127.jpg "Out of the pan")](cake-outofpan.jpg)Springform pan removed
 
-[![](cake-interior-300x200.jpg "Interior shot")](cake-interior.jpg)Interior shot
+[![Interior shot](cake-interior-300x200.jpg "Interior shot")](cake-interior.jpg)Interior shot
 
-[![](cake-sliced-300x138.jpg "Cake slice")](cake-sliced.jpg)Cake slice
+[![Cake slice](cake-sliced-300x138.jpg "Cake slice")](cake-sliced.jpg)Cake slice

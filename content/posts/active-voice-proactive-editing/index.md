@@ -28,7 +28,7 @@ I’ve divided the model into three sections:
 * Implementation
 * Continuous improvement
 
-[![A model for developing writer training for staff writers](./pyramid.png "A model for developing writer training for staff writers")](./pyramid.png)
+[![A model for developing writer training for staff writers](pyramid.png?height=300px "A model for developing writer training for staff writers")](pyramid.png)
 
 ## Foundation
 

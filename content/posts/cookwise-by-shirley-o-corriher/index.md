@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover10-300x300.jpg "CookWise")
+![Book cover](cover10-300x300.jpg "CookWise")
 
 Shirley O. Corriher, *CookWise: The Secrets of Cooking Revealed* (New York: William Marrow, 2011).
 

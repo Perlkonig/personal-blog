@@ -11,7 +11,7 @@ This is another guest post by my wife, Adele.
 
 **Rating:** 5/5
 
-![](cover3-150x150.jpg "Secret Daughter")
+![Book cover](cover3-150x150.jpg "Secret Daughter")
 
 Shilpi Somaya Gowda, Secret Daughter (New York: William Morrow, 2010).
 

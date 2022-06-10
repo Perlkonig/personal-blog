@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1-150x150.jpg "Good Calories, Bad Calories")
+![Book cover](cover1-150x150.jpg "Good Calories, Bad Calories")
 
 Gary Taubes, *Good Calories, Bad Calories: Challenging the Conventional Wisdom on Diet, Weight Control, and Disease* (New York: Alfred A. Knopf, 2007).
 

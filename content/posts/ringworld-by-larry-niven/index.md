@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-176x300.jpg "Ringworld")
+![Book cover](cover-176x300.jpg "Ringworld")
 
  Larry Niven, *Ringworld* (New York: Del Rey, 1985).
 

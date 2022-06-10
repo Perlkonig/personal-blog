@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover2-209x300.jpg "The Unfinished Game")
+![Book cover](cover2-209x300.jpg "The Unfinished Game")
 
 Keith Devlin, *The Unfinished Game: Pascal, Fermat, and the Seventeenth-Century Letter that Made the World Modern; A Tale of How Mathematics is Really Done* (New York: Basic Books, 2008).
 

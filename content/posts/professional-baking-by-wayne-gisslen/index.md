@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover11-229x300.jpg "Professional Baking")
+![Book cover](cover11-229x300.jpg "Professional Baking")
 
 Wayne Gisslen, *Professional Baking*, 5th ed. (New Jersey: John Wiley & Sons, 2009).
 

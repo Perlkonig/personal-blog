@@ -7,7 +7,7 @@ tags:  [Goethe,romanticism,Sturm und Drang,unrated]
 author: aaron
 ---
 
-![](cover2-194x300.jpg "Sorrows of Young Werther")
+![Book cover](cover2-194x300.jpg "Sorrows of Young Werther")
 
 Johann Wolfgang von Goethe, *The Sorrows of Young Werther* (New York: Vintage Classics, 1990).
 

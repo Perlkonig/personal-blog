@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 1/5
 
-![](cover-198x300.jpg "The Lost Symbol")
+![Book cover](cover-198x300.jpg "The Lost Symbol")
 
 Dan Brown, *The Lost Symbol* (Random House, 2009).
 

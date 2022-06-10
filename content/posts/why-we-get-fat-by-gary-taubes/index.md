@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover5-150x150.jpg "Why We Get Fat")
+![Book cover](cover5-150x150.jpg "Why We Get Fat")
 
 Gary Taubes, *Why We Get Fat and What To Do About It* (New York: Alfred A. Knopf, 2011).
 

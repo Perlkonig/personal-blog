@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover1.jpg "Use of Weapons")
+![Book cover](cover1.jpg "Use of Weapons")
 
 Iain M. Banks, *Use of Weapons* (London: Orbit, 1992).
 

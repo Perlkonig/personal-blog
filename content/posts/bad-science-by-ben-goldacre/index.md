@@ -9,9 +9,9 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover4-150x150.jpg "Bad Science")
+![Book cover](cover4-150x150.jpg "Bad Science")
 
-Ben Goldacre,* Bad Science: Quacks, Hacks, and Big Pharma Flacks* (Toronto, ON: McClelland & Stewart, 2010).
+Ben Goldacre, *Bad Science: Quacks, Hacks, and Big Pharma Flacks* (Toronto, ON: McClelland & Stewart, 2010).
 
 I first saw Ben Goldacre on YouTube, where I saw his stand-up comedy routine in which he talks about the placebo effect. I decided to give his book a go. I liked it, but it came across overall as far too rantish for my taste. He does accomplish his goal, but he could have addressed some important issues at greater length.
 

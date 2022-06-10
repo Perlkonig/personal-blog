@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover11.jpg "Salt")
+![Book cover](cover11.jpg "Salt")
 
 Mark Kurlansky, *Salt: A World History* (A. Knopf Canada, 2002).
 

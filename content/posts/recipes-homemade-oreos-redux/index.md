@@ -11,4 +11,4 @@ When I started my [Adventures in Baking](../adventures-in-baking-aib-overview "A
 
 Anyway, the cookies tasted great!
 
-[![](oreos-300x222.jpg "Homemade Oreos")](oreos.jpg)
+[![Homemade Oreos](oreos-300x222.jpg "Homemade Oreos")](oreos.jpg)

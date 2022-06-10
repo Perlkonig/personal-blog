@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1-197x300.jpg "Almost Christian")
+![Book cover](cover1-197x300.jpg "Almost Christian")
 
  Kenda Creasy Dean, *Almost Christian: What the Faith of Our Teenagers is Telling the American Church* (Oxford University Press, 2010).
 

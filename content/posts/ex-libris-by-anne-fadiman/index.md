@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover8-199x300.jpg "Ex Libris")
+![Book cover](cover8-199x300.jpg "Ex Libris")
 
 Anne Fadiman, *Ex Libris: Confessions of a Common Reader* (New York: Farrar, Straus and Giroux, 1998).
 

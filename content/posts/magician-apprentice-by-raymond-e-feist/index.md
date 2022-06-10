@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 1/5
 
-![](cover-300x300.jpg "Magician: Apprentice")
+![Book cover](cover-300x300.jpg "Magician: Apprentice")
 
  Raymond E. Feist, *Magician: Apprentice*, The author’s preferred edition (New York: Bantam, 2004).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 2/5
 
-![](cover7-300x300.jpg "Manufacturing Consent")
+![Book cover](cover7-300x300.jpg "Manufacturing Consent")
 
 Edward S. Herman and Noam Chomsky, *Manufacturing Consent: The Political Economy of the Mass Media* (New York: Pantheon Books, 2002).
 

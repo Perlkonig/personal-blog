@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover6.jpg "Tripwire")
+![Book cover](cover6.jpg "Tripwire")
 
 Lee Child, *Tripwire* (New York: Berkeley Books, 2005).
 

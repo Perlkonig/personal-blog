@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 1/5
 
-![](cover2-300x300.jpg "Just My Type")
+![Book cover](cover2-300x300.jpg "Just My Type")
 
 Simon Garfield, *Just My Type: A Book About Fonts* (New York: Gotham Books, 2011).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover11-300x300.jpg "Tesla")
+![Book cover](cover11-300x300.jpg "Tesla")
 
 Robert Lomas, *The Man Who Invented the Twentieth Century: Nikola Tesla, Forgotten Genius of Electricity* (London: Headline, 1999).
 

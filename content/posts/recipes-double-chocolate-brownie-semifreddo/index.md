@@ -19,4 +19,4 @@ Actual yield: Doubled—4 litres
 
 Verdict: Super rich and smooth!
 
-[![](semifreddo-300x272.jpg "Chocolate Semifreddo")](semifreddo.jpg)
+[![Chocolate Semifreddo](semifreddo-300x272.jpg "Chocolate Semifreddo")](semifreddo.jpg)

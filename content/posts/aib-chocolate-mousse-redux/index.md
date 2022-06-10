@@ -11,6 +11,6 @@ author: aaron
 
 [This is the second time I have made the chocolate mousse.](../aib-chocolate-mousse/ "AiB: Chocolate Mousse") This time I did it as a layered parfait, and I used bittersweet chocolate. The bittersweet chocolate makes all the difference. Semi-sweet chocolate is just that little bit too sweet. Num!
 
-[![](parfait-oblique-225x300.jpg "Chocolate mousse parfait")](parfait-oblique.jpg)
+[![Chocolate mousse parfait](parfait-oblique-225x300.jpg "Chocolate mousse parfait")](parfait-oblique.jpg)
 
-[![](parfait-straight-240x300.jpg "Chocolate mousse parfait")](parfait-straight.jpg)
+[![Chocolate mousse parfait](parfait-straight-240x300.jpg "Chocolate mousse parfait")](parfait-straight.jpg)

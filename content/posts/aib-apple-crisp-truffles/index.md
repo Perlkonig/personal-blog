@@ -1,36 +1,10 @@
 ---
-
 title: 'AiB: Apple Crisp Truffles'
 slug: aib-apple-crisp-truffles
-
 date: 2011-09-19
-
-
-
-
-
-
-
-
-
-
-
 categories:  [Food]
 tags:  [Adventures in Baking]
 author: aaron
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 [Part of the Adventures in Baking (AiB) series.](../adventures-in-baking-aib-overview "Adventures in Baking (AiB): Overview")
@@ -42,4 +16,3 @@ Well I found something my wondrous [Vitamix](http://vitamix.com) does not do tha
 Actual yield: 6 2&Prime; diameter balls
 
 Verdict: Keeper. Some kids might even like ’em!
-

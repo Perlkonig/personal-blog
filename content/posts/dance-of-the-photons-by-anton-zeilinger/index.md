@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 1/5
 
-![](cover22.jpg "Dance of the Photons")
+![Book cover](cover22.jpg "Dance of the Photons")
 
 Anton Zeilinger, *Dance of the Photons: From Einstein to Quantum Teleportation* (New York: Farrar, Straus, and Giroux, 2010).
 

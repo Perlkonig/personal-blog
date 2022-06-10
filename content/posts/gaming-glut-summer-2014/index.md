@@ -13,7 +13,7 @@ Adele and I were able to visit with some close friends and their kids for a coup
 
 Of the games discussed in this post, these are the games I think *every* family should own:
 
-- [Dutch Blitz ](http://boardgamegeek.com/boardgame/148203/dutch-blitz)(playable with standard playing cards)
+- [Dutch Blitz](http://boardgamegeek.com/boardgame/148203/dutch-blitz) (playable with standard playing cards)
 - [Escape: The Curse of the Temple](http://boardgamegeek.com/boardgame/113294/escape-curse-temple)
 - [Hanabi](http://boardgamegeek.com/boardgame/1198/set)
 - [SET](http://boardgamegeek.com/boardgame/1198/set)

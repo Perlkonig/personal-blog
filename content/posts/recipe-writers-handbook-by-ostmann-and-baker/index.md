@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover4-198x300.jpg "Recipe Writer's Handbook")
+![Book cover](cover4-198x300.jpg "Recipe Writer's Handbook")
 
  Barbara Gibbs Ostmann and Jane L. Baker, *The Recipe Writer’s Handbook: Revised and Expanded* (New York: John Wiley & Sons, 2001).
 

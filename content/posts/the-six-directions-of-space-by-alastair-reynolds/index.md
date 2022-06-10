@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover4.jpg "The Six Directions of Space")
+![Book cover](cover4.jpg "The Six Directions of Space")
 
 Alastair Reynolds, *The Six Directions of Space* (Subterranean Press, 2008).
 

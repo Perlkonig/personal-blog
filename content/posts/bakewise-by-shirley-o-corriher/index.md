@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover5-300x300.jpg "BakeWise")
+![Book cover](cover5-300x300.jpg "BakeWise")
 
 Shirley O. Corriher, *BakeWise: The Hows and Whys of Successful Baking with Over 200 Magnificent Recipes* (New York: Scribner, 2008).
 

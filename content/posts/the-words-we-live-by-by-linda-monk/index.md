@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover1-249x300.jpg "Words We Live By")
+![Book cover](cover1-249x300.jpg "Words We Live By")
 
  Linda R. Monk, *The Words We Live By* (New York: Hyperion, 2003).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-300x300.jpg "SciFi, Vol. 1")
+![Book cover](cover-300x300.jpg "SciFi, Vol. 1")
 
 Robert Silverberg (ed.),  *Science Fiction Hall of Fame: Volume One, 1929–1964* (New York: Tom Doherty Associates, 1970).
 

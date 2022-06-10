@@ -23,6 +23,6 @@ Verdict: Perfect for the right occasion.
 
 P.S. I’m sorry my pictures are crap. I just can’t compete with Grace’s *mise en place*.
 
-[![](cake01-300x225.jpg "Whole Cake")](cake01.jpg)The entire assembled cake.
+[![The entire assembled cake](cake01-300x225.jpg "Whole Cake")](cake01.jpg)The entire assembled cake.
 
-[![](cake02-300x181.jpg "One slice")](cake02.jpg)One slice.
+[![One slice](cake02-300x181.jpg "One slice")](cake02.jpg)One slice.

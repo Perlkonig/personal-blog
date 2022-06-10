@@ -15,8 +15,8 @@ Yield: 1 × 9&Prime; quiche
 
 Verdict: Keeper
 
-[![](2012-06-24-09.41.00-300x225.jpg "Quiche: Just the shell")](2012-06-24-09.41.00.jpg)Quiche: Just the shell
+[![Just the shell](2012-06-24-09.41.00-300x225.jpg "Quiche: Just the shell")](2012-06-24-09.41.00.jpg)Quiche: Just the shell
 
-[![](2012-06-24-09.54.35-300x225.jpg "Quiche: Shell with cheese")](2012-06-24-09.54.35.jpg)Quiche: Shell with cheese
+[![Shell with cheese](2012-06-24-09.54.35-300x225.jpg "Quiche: Shell with cheese")](2012-06-24-09.54.35.jpg)Quiche: Shell with cheese
 
-[![](2012-06-24-11.25.14-300x225.jpg "Quiche: Finished")](2012-06-24-11.25.14.jpg)Quiche: Finished
+[![Finished](2012-06-24-11.25.14-300x225.jpg "Quiche: Finished")](2012-06-24-11.25.14.jpg)Quiche: Finished

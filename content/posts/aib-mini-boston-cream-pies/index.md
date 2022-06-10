@@ -17,4 +17,4 @@ Actual yield: 6 mini pies. This recipe yields three times more ganache than you 
 
 Verdict: Pretty good. At least I know how to make pastry cream now!
 
-[![](bostoncream-300x111.jpg "Mini Boston Cream Pies")](bostoncream.jpg)
+[![Mini Boston cream pies](bostoncream-300x111.jpg "Mini Boston Cream Pies")](bostoncream.jpg)

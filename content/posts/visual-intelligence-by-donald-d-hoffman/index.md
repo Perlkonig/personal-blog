@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-150x150.jpg "Visual Intelligence")
+![Book cover](cover-150x150.jpg "Visual Intelligence")
 
 Donald D. Hoffman, *Visual Intelligence: How We Create What We See* (New York: W. W. Norton & Co., 1998.
 

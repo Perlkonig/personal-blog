@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](merchants-of-culture-150x150.jpg "Merchants of Culture")
+![Book cover](merchants-of-culture-150x150.jpg "Merchants of Culture")
 
  John B. Thompson, *Merchants of Culture: The Publishing Business in the Twenty-First Century* (Cambridge, UK: Polity, 2010)
 

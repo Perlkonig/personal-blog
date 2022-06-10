@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover18.jpg "What Matters?")
+![Book cover](cover18.jpg "What Matters?")
 
 Wendell Berry, *What Matters? Economics for a Renewed Commonwealth* (Berkeley, CA: Counterpoint, 2010).
 

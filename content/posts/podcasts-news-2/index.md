@@ -24,7 +24,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 - Frequency: twice daily
 - Duration: 30 minutes
 
-**[CBC News: Hourly Edition](http://www.cbc.ca/podcasting/includes/hourlynews.xml) **
+**[CBC News: Hourly Edition](http://www.cbc.ca/podcasting/includes/hourlynews.xml)**
 
 - **Rating:** 1/3
 - Frequency: hourly

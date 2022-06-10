@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover5.jpg "The Prefect")
+![Book cover](cover5.jpg "The Prefect")
 
 Alastair Reynolds, *The Prefect* (Gollancz, 2008).
 

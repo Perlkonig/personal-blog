@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1-300x300.jpg "Essays 2003")
+![Book cover](cover1-300x300.jpg "Essays 2003")
 
 Robert Atwan and Anne Fadiman (eds.), *The Best American Essays 2003* (Boston: Houghton Mifflin Company, 2003).
 

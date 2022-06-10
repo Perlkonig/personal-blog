@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-225x300.png "Evolution of Language")
+![Book cover](cover-225x300.png "Evolution of Language")
 
 W. Tecumseh Fitch, *The Evolution of Language* (Cambridge University Press, 2010).
 

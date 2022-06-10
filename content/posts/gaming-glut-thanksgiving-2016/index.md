@@ -17,8 +17,8 @@ There are lots of online vendors. But if you can find a "friendly local game sto
 
 There are two online vendors that I personally use. I have no ties to these companies, and there are others out there. As always, caveat emptor.
 
-  * Canada: [Starlit Citadel](http://starlitcitadel.com)
-  * US: [Cool Stuff Inc](http://coolstuffinc.com)
+* Canada: [Starlit Citadel](http://starlitcitadel.com)
+* US: [Cool Stuff Inc](http://coolstuffinc.com)
 
 ## Why do you like games so much?
 
@@ -36,36 +36,36 @@ I realize I'm more enamoured with board games than most, but I think every famil
 
 If you just want to jump to Board Game Geek, here's the list of games, but I explain the various games and my thoughts about them further down.
 
-  * [Airlines Europe](https://boardgamegeek.com/boardgame/90419/airlines-europe)
-  * [Alhambra](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
-  * [Blam!](https://boardgamegeek.com/boardgame/17765/blam)
-  * [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
-  * [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne)
-  * Chess
-  * [Color Stix](https://boardgamegeek.com/boardgame/94456/color-stix)
-  * [Concept](https://boardgamegeek.com/boardgame/147151/concept)
-  * [Cornerstone](https://boardgamegeek.com/boardgame/38429/cornerstone)
-  * [Defenders of the Realm](https://boardgamegeek.com/boardgame/65532/defenders-realm)
-  * [Escape: Curse of the Temple](https://boardgamegeek.com/boardgame/113294/escape-curse-temple)
-  * [Evolution](https://boardgamegeek.com/boardgame/155703/evolution)
-  * [Fluxx](https://boardgamegeek.com/boardgame/258/fluxx)
-  * [Forbidden Desert](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
-  * [Hive](https://boardgamegeek.com/boardgame/2655/hive)
-  * [Incan Gold](http://boardgamegeek.com/boardgame/37759/incan-gold)
-  * James Bond
-  * [King of Tokyo](http://boardgamegeek.com/boardgame/70323/king-tokyo)
-  * [Magic Labyrinth](http://boardgamegeek.com/boardgame/41916/magic-labyrinth)
-  * [Monopoly Deal Card Game](http://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game)
-  * [Robinson Crusoe](http://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)
-  * [Set](http://boardgamegeek.com/boardgame/1198/set)
-  * [Splendor](http://boardgamegeek.com/boardgame/148228/splendor)
-  * [Survive: Escape from Atlantis](http://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
-  * [Ticket to Ride: Europe](http://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
+* [Airlines Europe](https://boardgamegeek.com/boardgame/90419/airlines-europe)
+* [Alhambra](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
+* [Blam!](https://boardgamegeek.com/boardgame/17765/blam)
+* [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
+* [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne)
+* Chess
+* [Color Stix](https://boardgamegeek.com/boardgame/94456/color-stix)
+* [Concept](https://boardgamegeek.com/boardgame/147151/concept)
+* [Cornerstone](https://boardgamegeek.com/boardgame/38429/cornerstone)
+* [Defenders of the Realm](https://boardgamegeek.com/boardgame/65532/defenders-realm)
+* [Escape: Curse of the Temple](https://boardgamegeek.com/boardgame/113294/escape-curse-temple)
+* [Evolution](https://boardgamegeek.com/boardgame/155703/evolution)
+* [Fluxx](https://boardgamegeek.com/boardgame/258/fluxx)
+* [Forbidden Desert](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
+* [Hive](https://boardgamegeek.com/boardgame/2655/hive)
+* [Incan Gold](http://boardgamegeek.com/boardgame/37759/incan-gold)
+* James Bond
+* [King of Tokyo](http://boardgamegeek.com/boardgame/70323/king-tokyo)
+* [Magic Labyrinth](http://boardgamegeek.com/boardgame/41916/magic-labyrinth)
+* [Monopoly Deal Card Game](http://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game)
+* [Robinson Crusoe](http://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)
+* [Set](http://boardgamegeek.com/boardgame/1198/set)
+* [Splendor](http://boardgamegeek.com/boardgame/148228/splendor)
+* [Survive: Escape from Atlantis](http://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
+* [Ticket to Ride: Europe](http://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
 
 ### Airlines Europe
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/90419/airlines-europe)
-  * Plays: 3
+* [Board Game Geek](https://boardgamegeek.com/boardgame/90419/airlines-europe)
+* Plays: 3
 
 This is a classic economic game around set collection&mdash;specifically stock holding. Players buy airplanes of various colours (different airlines) to connect cities on the board. Purchased airplanes increase the value of that airline's stock price. Players also draft and develop a stock portfolio in the various airlines. Three times per game, players' portfolios are scored. The player with the highest cumulative score at the end of the game wins. There's also a special airline (Air Abacus) that doesn't have planes but that inherently increases in value as the game progresses. But you have to discard regular stocks to get these shares.
 
@@ -75,8 +75,8 @@ This is a light-to-medium-weight game ideal for families. It only takes about an
 
 ### Alhambra
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
-  * Plays: 2
+* [Board Game Geek](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
+* Plays: 2
 
 This is a game of card drafting and tile placement. Players collect money in four different colours, which they use to buy tiles from the marketplace. The problem is, the market doesn't make change. So if you over pay, you're simply out that extra money. If you pay with exact change, then you get another turn. The tiles are then placed in your alhambra, according to various placement rules. Three times during the game, players' alhambras are scored. The player with the highest cumulative score at the end of the game wins.
 
@@ -86,8 +86,8 @@ I bought the "big box" edition that contains all the expansions, but I haven't y
 
 ### Blam!
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/17765/blam)
-  * Plays: many
+* [Board Game Geek](https://boardgamegeek.com/boardgame/17765/blam)
+* Plays: many
 
 In my mind, an essential in any family game closet is a collection of [Icehouse pieces (called Looney Pyramids now, I think)](http://www.looneylabs.com/looney-pyramids), produced by [Looney Labs](http://www.looneylabs.com/). They just finished a Kickstarter for a "big box" version of these pieces called [Pyramid Arcade](http://www.looneylabs.com/news/coming-fall-2016-pyramid-arcade). *I cannot recommend this highly enough!* I think every family should go out and buy this box!
 
@@ -99,8 +99,8 @@ The kids love the idea of explosions, and they actually struggle a little learni
 
 ### Bohnanza
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/11/bohnanza)
-  * Plays: 4 with me, and a couple more on their own
+* [Board Game Geek](https://boardgamegeek.com/boardgame/11/bohnanza)
+* Plays: 4 with me, and a couple more on their own
 
 This is perhaps the most-played game in my collection. Every single set of nieces and nephews ask if I brought "the bean game." [I've talked about this game specifically](../board-game-bohnanza) on my blog before, as well as in [other "gaming glut" posts](/search/query:gaming%20glut).
 
@@ -112,8 +112,8 @@ To me this is another game-closet essential. It just never gets old. I am never 
 
 ### Carcassonne
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/822/carcassonne)
-  * Plays: 1
+* [Board Game Geek](https://boardgamegeek.com/boardgame/822/carcassonne)
+* Plays: 1
 
 This is another family classic that will never leave my collection. It has been around since 2000 and is ranked as [the \#12 family game on Board Game Geek](https://boardgamegeek.com/familygames/browse/boardgame?sort=rank&rankobjecttype=family&rankobjectid=5499). It's a light-weight game ideal for new gamers, largely because the decision space is so narrow. The only reason I don't play it as much is because there are so many other games that fill this same niche.
 
@@ -129,8 +129,8 @@ This is a dry, heavy game that I don't necessarily recommend to people. Yes it's
 
 ### Color Stix
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/94456/color-stix)
-  * Plays: 2
+* [Board Game Geek](https://boardgamegeek.com/boardgame/94456/color-stix)
+* Plays: 2
 
 This is a game for the younger kids. It's 42 brightly coloured wooden sticks with seven coloured rectangles on each stick. Players each get a group of sticks and simultaneously try to arrange them to form large contiguous blocks of the same colours. You score each player, pass the sticks, and do it again. The highest cumulative score wins.
 
@@ -138,8 +138,8 @@ This is an excellent game for young kids. It introduces them to timed play and h
 
 ### Concept
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/147151/concept)
-  * Plays: at least 2 sessions of many rounds each
+* [Board Game Geek](https://boardgamegeek.com/boardgame/147151/concept)
+* Plays: at least 2 sessions of many rounds each
 
 This is more activity than game, though it does come with rules for competitive team play. I just never play it that way. Someone draws a card that contains 9 words and phrases of increasing difficulty and chooses one. Without speaking, the player places game pieces of various colours on a board of basic icons, trying to get the other players to guess the word or phrase. It's like a board version of charades, I guess.
 
@@ -147,8 +147,8 @@ The success of the game depends heavily on who's playing. You need to choose wor
 
 ### Cornerstone
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/38429/cornerstone)
-  * Plays: 2 (and the younger kids played a couple times on their own)
+* [Board Game Geek](https://boardgamegeek.com/boardgame/38429/cornerstone)
+* Plays: 2 (and the younger kids played a couple times on their own)
 
 This is a dexterity game. I prefer the team variant. Each player has pieces in weird shapes composed of 1 to 6 blocks&mdash;some uncoloured and others coloured with your colour. All the players jointly build a tower out of these pieces based on certain rules and then move their game piece up the tower. If a team knocks over the tower, the other team wins. Otherwise the winning team is the one who's game pieces are the highest up the tower.
 
@@ -156,8 +156,8 @@ Kids love dexterity games. This is no exception. It's the only game of this kind
 
 ### Defenders of the Realm
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/65532/defenders-realm)
-  * Plays: 2
+* [Board Game Geek](https://boardgamegeek.com/boardgame/65532/defenders-realm)
+* Plays: 2
 
 I love this game. I came to it late and missed out on the expansions. They're so hard to find now! And I just missed their Kickstarter! ARGH!
 
@@ -167,8 +167,8 @@ The game is medium weight and can take upwards of two hours to play until people
 
 ### Escape: The Curse of the Temple
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/113294/escape-curse-temple)
-  * Plays: 3
+* [Board Game Geek](https://boardgamegeek.com/boardgame/113294/escape-curse-temple)
+* Plays: 3
 
 This is another cooperative game and is played in real time. There's a thematic sound track that will guide you through a 10-minute play session. The players individually and frantically chuck dice to move around the temple, discover new rooms, and unlock the exit. Players can also help each other if they're in the same room, so often players break off into smaller teams.
 
@@ -176,8 +176,8 @@ It is frantic fun. The kids insisted we play until we won, which we finally did.
 
 ### Evolution
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/155703/evolution)
-  * Plays: 3, plus groups of kids played a couple of games on their own
+* [Board Game Geek](https://boardgamegeek.com/boardgame/155703/evolution)
+* Plays: 3, plus groups of kids played a couple of games on their own
 
 This is a game about survival of the fittest. The game contains a boatload of cards depicting various traits like carnivore (which lets you eat other players), climbing (which protects you from carnivores that can't themselves climb), warning call (that protects surrounding species from carnivores), and long neck (which lets you get food before anyone else). Each player builds species with various combinations of these traits and slowly builds up their population and body size. Each round, players secretly contribute a card to the vegetable food pile (which can be a negative number). Then players take turns feeding their species from the limited food supply, leveraging whatever traits they have. At the end of the round, any food you managed to eat goes into a bag. Whoever ate the most food over the course of the game (with some bonuses for surviving species) wins the game.
 
@@ -187,8 +187,8 @@ The kids (particularly the boys) really loved this game. It got lots of independ
 
 ### Fluxx
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/258/fluxx)
-  * Plays: 3
+* [Board Game Geek](https://boardgamegeek.com/boardgame/258/fluxx)
+* Plays: 3
 
 Fluxx has been around for almost 20 years and is made by [Looney Labs](http://looneylabs.com), the same people that make the [Icehouse Pyramids](http://www.looneylabs.com/news/coming-fall-2016-pyramid-arcade) I love so much. I broke it out the first night I arrived because we had little time. Fluxx now comes in dozens of themed varieties, like Monte Python, Cthulhu, Zombie, etc. With the kids I just played the vanilla version.
 
@@ -208,8 +208,8 @@ Kids like it because it's super easy to jump into. As long as they can read, the
 
 ### Forbidden Desert
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
-  * Plays: 4
+* [Board Game Geek](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
+* Plays: 4
 
 After asking if I brought the "bean game," the nine-year-old twins asked if I brought "the scientist game." I'm not sure where they got that description :) After some follow-up questions, I discovered they were talking about Forbidden Desert.
 
@@ -221,8 +221,8 @@ Most cooperative games can suffer from the "alpha player" problem, meaning one p
 
 ### Hive
 
-  * [Board Game Geek](https://boardgamegeek.com/boardgame/2655/hive)
-  * Plays: a couple training games
+* [Board Game Geek](https://boardgamegeek.com/boardgame/2655/hive)
+* Plays: a couple training games
 
 I love this game so much. It totally replaces Chess for me. It's basically bug chess. The pieces are nice heavy bakelite. There are three expansions I know about (that each introduce a single new piece), but the vanilla game is more than enough.
 
@@ -232,8 +232,8 @@ No this game doesn't have the history and depth of Chess, but it is still plenty
 
 ### Incan Gold
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/37759/incan-gold)
-  * Plays: 2
+* [Board Game Geek](http://boardgamegeek.com/boardgame/37759/incan-gold)
+* Plays: 2
 
 One particular set of nieces and nephews (9&ndash;13) love this game. The one nephew really gets worked up. "My heart is beating so fast," he says.
 
@@ -243,8 +243,8 @@ The game is quite tense and teaches kids about probability and risk management. 
 
 ### King of Tokyo
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/70323/king-tokyo)
-  * Plays: 3
+* [Board Game Geek](http://boardgamegeek.com/boardgame/70323/king-tokyo)
+* Plays: 3
 
 This is another light family game. (I new I'd only be playing with kids, so I left my heavier games at home.) The kids love this because it has fun monsters and big chunky dice. The nine-year-old boy took way too much pleasure in attacking his siblings.
 
@@ -254,8 +254,8 @@ This is a light game that is easily grasped by even young kids. Even grownups ca
 
 ### Magic Labyrinth
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/41916/magic-labyrinth)
-  * Plays: the younger kids played this on their own
+* [Board Game Geek](http://boardgamegeek.com/boardgame/41916/magic-labyrinth)
+* Plays: the younger kids played this on their own
 
 I've talked about this game before. It's designed for younger kids and is a real hit. It may be hard to find. Check out the BGG link for photos. It's hard to visualize.
 
@@ -265,41 +265,41 @@ If you have younger kids, this is definitely worth seeking out.
 
 ### Monopoly Deal
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game)
-  * Plays: 1
+* [Board Game Geek](http://boardgamegeek.com/boardgame/40398/monopoly-deal-card-game)
+* Plays: 1
 
 I was given this game a while back, but because of my aversion to Monopoly, I never opened it. I heard on some podcasts, though, that it was actually a good card game, so I thought we'd give it a try.
 
 The gameplay is quite simple: draw some cards, play up to three, and the winner is the first to collect three complete property sets of different colours. There are four types of cards:
 
-  * Money cards are played into your bank and are used to pay rents and other penalties to your opponents. All other cards also have monetary value and can be used to pay.
+* Money cards are played into your bank and are used to pay rents and other penalties to your opponents. All other cards also have monetary value and can be used to pay.
 
-  * Property cards match the properties found in the Monopoly game. The card tells you how many you need to complete the set. There are also special property cards that can be one of two different colours depending on how you orient the card when you play it.
+* Property cards match the properties found in the Monopoly game. The card tells you how many you need to complete the set. There are also special property cards that can be one of two different colours depending on how you orient the card when you play it.
 
-  * House/hotel cards can be played on a complete property set to increase the rent values.
+* House/hotel cards can be played on a complete property set to increase the rent values.
 
-  * And action cards do various things such as causing your opponents to pay you rent, swap properties, etc.
+* And action cards do various things such as causing your opponents to pay you rent, swap properties, etc.
 
 The kids liked it, but I could tell they didn't love it. It's a fast "take that" style game, so it's quite confrontational. Make sure the players can handle being picked on an little.
 
 ### James Bond (and other names)
 
-  * Plays: 3
+* Plays: 3
 
 This is a basic card game that, oddly enough, goes by different names in the different niece/nephew groups. (Actually, many of the card games I've taught them over the years get given different names by the different sets of kids.) I never travel anywhere without a deck of cards. I have one in the glove box of my car, in my daily satchel, and in my desk at work. Playing Cribbage and Casino with my grandpa is what got me into gaming in the first place, and my siblings and I passed many hours as kids playing cards. I still remember family Rook tournaments at Thanksgiving and Christmas.
 
 Anyway, James Bond is a speed game for 2 players (though you can play it with 3 and 4 as well if you want). Deal four cards face down to the middle of the table and then deal an equal number of four-card piles in front of each player (6 piles for two players, 4 for three players, 3 for four players). Turn over the cards in the middle and start the game. All players play simultaneously and as fast as they can. The first player to turn all of their piles into four-of-a-kinds wins.
 
-  * You can only look at or handle one pile at a time.
+* You can only look at or handle one pile at a time.
 
-  * You can exchange one card at a time from the pile in your hand with a card from the middle.
+* You can exchange one card at a time from the pile in your hand with a card from the middle.
 
 Kids love speed games, and ideally this is a game played by equal players. When playing with kids, I give myself an extra pile or two and just take it slow. They still seem to enjoy it. **No family game closet should be without a couple decks of cards!**
 
 ### Robinson Crusoe
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)
-  * Plays: 3
+* [Board Game Geek](http://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island)
+* Plays: 3
 
 This is the hardest but most thematic and fun cooperative game I've ever come across. After maybe a dozen plays over the years (I don't get much grownup game time), I've only ever beat the first scenario once. The 11 and 13 year olds found this game in my luggage and asked to play. I warned them that it was hard and complex, but they said they wanted something meatier. (Yes!) The hardest part of this game is learning to play it. Fortunately a second edition is coming out that will supposedly have a better rule book. It took some time to set up (especially since I hadn't played it in quite a while), but they persevered and we got three whole games in before dinner (though we didn't win once).
 
@@ -311,8 +311,8 @@ This is a complex, heavy game that isn't so scary once you actually figure it ou
 
 ### Set
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/1198/set)
-  * Plays: 1
+* [Board Game Geek](http://boardgamegeek.com/boardgame/1198/set)
+* Plays: 1
 
 Set is a great brain burner for kids and grownups alike. In the real-time game, I've found that teenagers are just as successful as grownups. Grownups will regularly beat younger kids, though. My favourite variant is [the two-player game Get Set](http://www.thegamesjournal.com/rules/GetSet.shtml) because it's not real time, so I can play with younger kids and they still have a chance at beating me.
 
@@ -322,8 +322,8 @@ I think this is another family game closet staple. It really engages the brain.
 
 ### Splendor
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/148228/splendor)
-  * Plays: 3, and groups of kids played a couple of games on their own
+* [Board Game Geek](http://boardgamegeek.com/boardgame/148228/splendor)
+* Plays: 3, and groups of kids played a couple of games on their own
 
 Splendor is an "engine building" game, meaning that you slowly build up a mechanism that feeds back into itself, netting you ever-increasing benefits. The endgame is triggered when someone's "engine" reaches 15 victory points. Once the game ends, the player with the most points wins.
 
@@ -333,8 +333,8 @@ This is a relatively light game. There's no direct player interaction. The most 
 
 ### Survive: Escape from Atlantis
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
-  * Plays: 4
+* [Board Game Geek](http://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
+* Plays: 4
 
 Man, do kids love this game! They just take so much pleasure in feeding their siblings to the sharks!
 
@@ -342,27 +342,27 @@ Each player has 10 plastic pieces with numbers from 1 to 6 printed on the bottom
 
 At the beginning of the game, the tiles are shuffled and laid out (it's different every game) and players take turns placing their pieces and boats on the board. (Once placed, you're not allowed to look at the pieces' values again.) Then on your turn you take three actions:
 
-  * First you move your pieces and boats that you control around the board according to the rules.
-  * Then you sink a tile, starting with the sand, then the jungle, then the mountain. On the flip side of these tiles are various icons that either add new objects to the game board or are defensive tiles you can save and play later.
-  * Then you roll dice and move creatures around the board to hurt your opponents or increase the safety of your own pieces.
+* First you move your pieces and boats that you control around the board according to the rules.
+* Then you sink a tile, starting with the sand, then the jungle, then the mountain. On the flip side of these tiles are various icons that either add new objects to the game board or are defensive tiles you can save and play later.
+* Then you roll dice and move creatures around the board to hurt your opponents or increase the safety of your own pieces.
 
 So yeah, there are creatures:
 
-  * Sharks (represented by these creepy black fin pieces) eat swimmers.
-  * Whales sink boats.
-  * Sea serpents do both.
+* Sharks (represented by these creepy black fin pieces) eat swimmers.
+* Whales sink boats.
+* Sea serpents do both.
 
 I also have the dolphin and giant squid expansions.
 
-  * I always play with the dolphins now. Dolphins protect swimmers from sharks and serpents.
-  * Giant squid can eat people out of boats or right off of dry land! Squid and whales kill each other.
+* I always play with the dolphins now. Dolphins protect swimmers from sharks and serpents.
+* Giant squid can eat people out of boats or right off of dry land! Squid and whales kill each other.
 
 It's a loud and bloody game. It's light and chaotic, but lots of fun. Families can't go wrong with this one.
 
 ### Ticket to Ride: Europe
 
-  * [Board Game Geek](http://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
-  * Plays: 2
+* [Board Game Geek](http://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
+* Plays: 2
 
 This is the \#6 family game on BGG, and with good reason.
 

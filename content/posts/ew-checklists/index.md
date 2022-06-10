@@ -21,6 +21,7 @@ These are your basic proofreading and line editing checklists as well as documen
 * These checklists can be given to other people. When we have a really big document and not a lot of time, we will often enlist the help of non-editors to do some proofreading. They really appreciate having a checklist to work from.
 
 ## Context-specific checklists
+
 This is where the bulk of the institutional knowledge gets stored. These are checklists for specific document types, clients or audiences. In my case, we focus on document types.
 
 For example, directives are our primary regulatory instrument. They are quite technical and are intended for specialist audiences. There are best practices that direct how they should be structured and worded. Bulletins, meanwhile, need to be short and widely readable — comprehensible for the general public and media. Items on context-specific lists may look like the following:

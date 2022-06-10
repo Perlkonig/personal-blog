@@ -189,25 +189,25 @@ Everybody should have a few decks of cards in their home. So many games you can 
 
   Kosmos is a prolific German game publisher. Many of their games are available in North America, though. They have a whole "Games for Two" line. They tend to be card heavy, relatively light, and quick to play. I don't have them all, but I have a lot, and here are the ones that have gotten the most play:
 
-    * [Blue Moon](https://boardgamegeek.com/boardgame/9446/blue-moon)
+  * [Blue Moon](https://boardgamegeek.com/boardgame/9446/blue-moon)
 
-      This is an asymmetric card game where two very different factions vye for the attention of the dragons.
+    This is an asymmetric card game where two very different factions vye for the attention of the dragons.
 
-    * [Caesar & Cleopatra](https://boardgamegeek.com/boardgame/132/caesar-cleopatra)
+  * [Caesar & Cleopatra](https://boardgamegeek.com/boardgame/132/caesar-cleopatra)
 
-      This is a simple card playing game where you try to influence Roman officials. There's a fair bit of bluffing, and while fast and light, I always find it enjoyable to play.
+    This is a simple card playing game where you try to influence Roman officials. There's a fair bit of bluffing, and while fast and light, I always find it enjoyable to play.
 
-    * [Hera & Zeus](https://boardgamegeek.com/boardgame/638/hera-and-zeus)
+  * [Hera & Zeus](https://boardgamegeek.com/boardgame/638/hera-and-zeus)
 
-      Stratego with cards. This is perhaps my favourite. So many gotcha moments.
+    Stratego with cards. This is perhaps my favourite. So many gotcha moments.
 
-    * [Lost Cities](https://boardgamegeek.com/boardgame/50/lost-cities)
+  * [Lost Cities](https://boardgamegeek.com/boardgame/50/lost-cities)
 
-      Perhaps the most popular of the line. I prefer Battle Line myself, but this is still a terrific addition to a collection.
+    Perhaps the most popular of the line. I prefer Battle Line myself, but this is still a terrific addition to a collection.
 
-    * [Odin's Ravens](https://boardgamegeek.com/boardgame/4396/odins-ravens)
+  * [Odin's Ravens](https://boardgamegeek.com/boardgame/4396/odins-ravens)
 
-      This is a racing game. It's simple enough that you can play just fine with kids, but even grownups enjoy making life difficult for their opponent. And there's some strategy in building your backup pile.
+    This is a racing game. It's simple enough that you can play just fine with kids, but even grownups enjoy making life difficult for their opponent. And there's some strategy in building your backup pile.
 
 * [Mage Wars Arena](https://boardgamegeek.com/boardgame/101721/mage-wars-arena)
 

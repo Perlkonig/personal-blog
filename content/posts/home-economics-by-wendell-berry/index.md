@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover13.jpg "Home Economics")
+![Book cover](cover13.jpg "Home Economics")
 
 Wendell Berry, *Home Economics: Fourteen Essays by Wendell Berry* (San Francisco: North Point Press, 1987).
 

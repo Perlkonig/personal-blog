@@ -11,7 +11,7 @@ One thing about editing is that music can be very distracting, especially music 
 
 **Rating:** 4/5
 
-![](cover4-150x150.jpg "Road Movies")
+![Road Movies](cover4-150x150.jpg "Road Movies")
 
 Title: *Road Movies*, Composer: [John Adams](http://en.wikipedia.org/wiki/John_Adams_%28composer%29 "Wikipedia Article"), Performer: Rolf Hind and others
 
@@ -19,7 +19,7 @@ Adams’s music is best described as [minimalist](http://en.wikipedia.org/wiki/M
 
 **Rating:** 5/5
 
-![](cover5-150x150.jpg "Beatus")
+![Beatus](cover5-150x150.jpg "Beatus")
 
 Title: *Beatus*, Composer: [Arvo Pärt](http://en.wikipedia.org/wiki/Arvo_Part "Wikipedia")
 
@@ -27,7 +27,7 @@ I thoroughly enjoy Pärt’s music! He’s an Estonian composer who is clearly i
 
 **Rating:** 5/5
 
-![](cover6-150x150.jpg "Sonates pour violin solo")
+![Sonates pour violin solo](cover6-150x150.jpg "Sonates pour violin solo")
 
 Title: *Sonates pour violin solo*, Composer: [Eugène Ysaÿe](http://en.wikipedia.org/wiki/Eugene_Ysaye "Wikipedia"), Performer: [Thomas Zehetmair](http://en.wikipedia.org/wiki/Thomas_Zehetmair "Wikipedia")
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover6-150x150.jpg "The Introvert Advantage")
+![Book cover](cover6-150x150.jpg "The Introvert Advantage")
 
 Marti Olsen Laney, Psy.D., *The Introvert Advantage: How to Thrive in an Extrovert World* (New York: Workman, 2002).
 

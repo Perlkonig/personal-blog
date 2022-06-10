@@ -21,4 +21,8 @@ Verdict: Superb!
 
 P.S. Here are some pictures! My shots don’t look anything like Grace’s (the original recipe poster), but they’re better than nothing. I didn’t have a cake tray big enough, so we just covered a pizza pan in foil.
 
-[![](tart01-300x200.jpg "Strawberry Tart - Shot 01")](tart01.jpg)[![](tart02-300x200.jpg "Strawberry Tart - Shot 02")](tart02.jpg)[![](tart03-300x200.jpg "Strawberry Tart - Shot 03")](tart03.jpg)
+[![Shot 01](tart01-300x200.jpg "Strawberry Tart - Shot 01")](tart01.jpg)
+
+[![Shot 02](tart02-300x200.jpg "Strawberry Tart - Shot 02")](tart02.jpg)
+
+[![Shot 3](tart03-300x200.jpg "Strawberry Tart - Shot 03")](tart03.jpg)

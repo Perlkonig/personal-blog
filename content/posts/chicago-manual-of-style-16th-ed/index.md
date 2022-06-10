@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover6-300x300.jpg "CMOS")
+![Book cover](cover6-300x300.jpg "CMOS")
 
  University of Chicago Press, *The Chicago Manual of Style*, 16th ed. (University of Chicago: 2010).
 

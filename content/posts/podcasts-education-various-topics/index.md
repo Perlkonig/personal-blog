@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **![package_favorite](/images/package_favorite.png) [Caustic Soda](http://www.causticsodapodcast.com/feed/podcast) ([info](http://www.causticsodapodcast.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60–90 minutes
 - Content: frequent strong language, some adult or disturbing content
@@ -29,7 +29,7 @@ From bones to sexism, from heroin to “kids who kill,” this podcast talks abo
 
 **[More or Less Behind the Stats](http://downloads.bbc.co.uk/podcasts/radio4/moreorless/rss.xml) ([info](http://www.bbc.co.uk/programmes/b006qshd))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 30 minutes
 - Content: family friendly
@@ -38,7 +38,7 @@ A BBC Radio 4 show that examines numbers and statistics in the news. Always fasc
 
 **[Stuff You Should Know](http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss) ([info](http://www.stuffyoushouldknow.com/podcasts/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: 45–60 minutes
 - Content: family friendly, occasional adult topics

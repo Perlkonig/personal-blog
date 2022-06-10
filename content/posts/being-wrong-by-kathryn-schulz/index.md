@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover3-150x150.jpg "Being Wrong")
+![Book cover](cover3-150x150.jpg "Being Wrong")
 
 Kathryn Schulz, *Being Wrong: Adventures In The Margin Of Error* (New York: Ecco, 2010).
 

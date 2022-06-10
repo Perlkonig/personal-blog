@@ -27,13 +27,13 @@ If you want to listen on the go, then find a podcatching app for your platform t
 
 * `Rating` is how I rate the show. Obviously I like the podcasts or I wouldn't even bother listing them. I'm using a 4-point scale:
 
-  * 4: My &uuml;ber favourites that I think just about everyone would enjoy. I never miss an episode.
+* 4: My &uuml;ber favourites that I think just about everyone would enjoy. I never miss an episode.
 
-  * 3: I love these shows and never miss an episode.
+* 3: I love these shows and never miss an episode.
 
-  * 2: I occasionally skip portions of episodes. I rarely skip an entire episode (usually because I'm just getting too far behind).
+* 2: I occasionally skip portions of episodes. I rarely skip an entire episode (usually because I'm just getting too far behind).
 
-  * 1: I regularly skip portions of episodes and even entire episodes if the specific topic doesn't appeal to me or if I need to catch up. *But again, this doesn't mean it's a bad show! It's all relative.*
+* 1: I regularly skip portions of episodes and even entire episodes if the specific topic doesn't appeal to me or if I need to catch up. *But again, this doesn't mean it's a bad show! It's all relative.*
 
 * `Warnings` lets you know if the podcast contains offensive language or disturbing themes. Most are occasional. A couple are more pervasive, which I mention in the notes for the specific show.
 
@@ -129,11 +129,11 @@ We Have Concerns,[(website)](http://wehaveconcerns.com/), [(feed)](http://simple
 
 This is a great show about design. Here are a few recent favourite episodes:
 
-  * \#231 "Half a House" about a sustainable housing project in Chile
+* \#231 "Half a House" about a sustainable housing project in Chile
 
-  * \#230 "Project Cybersyn" about a futuristic project of President Salvador Allende, again in Chile
+* \#230 "Project Cybersyn" about a futuristic project of President Salvador Allende, again in Chile
 
-  * \#220 "The Mind of an Architect" about the sources of creativity
+* \#220 "The Mind of an Architect" about the sources of creativity
 
 [(back to the table)](#the-list)
 
@@ -159,11 +159,11 @@ A weekly music show that features almost exclusively covers. Lots of great artis
 
 A great podcast of interesting crime-related stories. Here are a few excellent episodes:
 
-  * \#51 "Money Tree" about a woman whose identity was stolen and the aftermath of tracking down the culprit
+* \#51 "Money Tree" about a woman whose identity was stolen and the aftermath of tracking down the culprit
 
-  * \#49 "The Editor" about an illiterate prison inmate who became an encyclopedia fact checker
+* \#49 "The Editor" about an illiterate prison inmate who became an encyclopedia fact checker
 
-  * \#32 "It Looked Like Fire" about how a picture does not always tell the whole truth
+* \#32 "It Looked Like Fire" about how a picture does not always tell the whole truth
 
 [(back to the table)](#the-list)
 
@@ -207,11 +207,11 @@ This Italian-language podcast is a national radio show (RAI3) that gives bite-si
 
 I'm a member of [the Church of Jesus Christ of Latter-day Saints](http://mormon.org). This podcast addresses difficult topics and helps you understand them within the framework of faith. There are many different podcasts on this feed, and not all of them are applicable to everyone, but a few recent episodes were particularly powerful:
 
-  * 08 Oct 2016 "Interview with Dr. Lous C. Midgley": I particularly liked his views on testimony at the very end.
+* 08 Oct 2016 "Interview with Dr. Lous C. Midgley": I particularly liked his views on testimony at the very end.
 
-  * 12 Oct 2016 "Homosexuality and the Gospel with Ty Mansfield": The matrix he defines that separates attraction from identity, and some of his personal experiences, were very helpful in understanding this subject.
+* 12 Oct 2016 "Homosexuality and the Gospel with Ty Mansfield": The matrix he defines that separates attraction from identity, and some of his personal experiences, were very helpful in understanding this subject.
 
-  * And all the Michael R. Ash "Faith and Reason" episodes are good, too.
+* And all the Michael R. Ash "Faith and Reason" episodes are good, too.
 
 [(back to the table)](#the-list)
 
@@ -225,11 +225,11 @@ A deconstruction of current events and media coverage that you won't hear anywhe
 
 Has some fascinating stories:
 
-  * 15 Jul 2016 "Flip the Script" about how doing the opposite of what your natural instinct is can transform a situation
+* 15 Jul 2016 "Flip the Script" about how doing the opposite of what your natural instinct is can transform a situation
 
-  * 08 Jul 2016 "Frame of Reference" about Aspergers and a treatment called TMS
+* 08 Jul 2016 "Frame of Reference" about Aspergers and a treatment called TMS
 
-  * 24 Jun 2016 "The Personality Myth" about how personalities change over time
+* 24 Jun 2016 "The Personality Myth" about how personalities change over time
 
 [(back to the table)](#the-list)
 
@@ -273,11 +273,11 @@ This is the grand-daddy of boardgaming podcasts. If you like boardgames, then th
 
 Vox's Ezra Klein interviews various public figures about what they do and how they got there. Even more great book recommendations here! Here are some of my favourite recent episodes:
 
-  * 20 Sep 2016 "Dr. Leana Wen on why the opposite of poverty is health"
+* 20 Sep 2016 "Dr. Leana Wen on why the opposite of poverty is health"
 
-  * 08 Aug 2016 "Trevor Noah: a very serious conversation with a very funny man"
+* 08 Aug 2016 "Trevor Noah: a very serious conversation with a very funny man"
 
-  * 02 Aug 2016 "Atul Gawande on surgery, writing, Obamacare, and indie music"
+* 02 Aug 2016 "Atul Gawande on surgery, writing, Obamacare, and indie music"
 
 [(back to the table)](#the-list)
 
@@ -293,7 +293,7 @@ My favourite daily podcast. It's just the best morning show ever. Scott and Bria
 
 [(back to the table)](#the-list)
 
-###The Phileas Club <a id="phileas"></a>
+### The Phileas Club <a id="phileas"></a>
 
 Patrick Beja brings together guests from around the world to bring a global perspective to current events. Very enlightening!
 
@@ -327,11 +327,10 @@ Another audio play from the makers of [Welcome to Night Vale](#nightvale). I'm n
 
 So many awesome stories! Every episode is a winner. Here are a few recent favourites:
 
-  * 23 Sep 2016 "The Primitive Streak" about embryo development in the first fourteen days
+* 23 Sep 2016 "The Primitive Streak" about embryo development in the first fourteen days
 
-  * 24 Feb 2016 "K-poparazzi" about the South Korean poparazzi
+* 24 Feb 2016 "K-poparazzi" about the South Korean poparazzi
 
-  * 23 Aug 2015 "Elements" about the Periodic Table of the Elements
+* 23 Aug 2015 "Elements" about the Periodic Table of the Elements
 
 [(back to the table)](#the-list)
-

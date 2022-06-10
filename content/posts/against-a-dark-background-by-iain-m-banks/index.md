@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover2-300x300.jpg "Against a Dark Background")
+![Book cover](cover2-300x300.jpg "Against a Dark Background")
 
 Iain M. Banks, *Against a Dark Background* (London: Orbit, 1995).
 

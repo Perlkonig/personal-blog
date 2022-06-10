@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1-199x300.jpg "Debt")
+![Book cover](cover1-199x300.jpg "Debt")
 
 David Graeber, *Debt: The First 5,000 Years* (New York: Melville House, 2011).
 

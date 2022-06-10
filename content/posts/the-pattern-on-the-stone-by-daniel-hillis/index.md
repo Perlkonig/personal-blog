@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](http://perlkonig.com/wp-content/uploads/2011/03/cover4.jpg "The Pattern on the Stone")
+![Book cover](http://perlkonig.com/wp-content/uploads/2011/03/cover4.jpg "The Pattern on the Stone")
 
 Daniel Hillis, *The Pattern on the Stone: The Simple Ideas that Make Computers Work* (New York: Basic Books, 1998).
 

@@ -17,7 +17,6 @@ Actual yield: N/A
 
 Verdict: Keeper!
 
-[![](top-down-300x212.jpg "Glaze from the top")](top-down.jpg)Glaze from above
+[![Glaze from the top](top-down-300x212.jpg "Glaze from the top")](top-down.jpg)Glaze from above
 
-[![](side-slice-300x214.jpg "Slice from the side")](side-slice.jpg)Slice from the side
-
+[![Slice from the side](side-slice-300x214.jpg "Slice from the side")](side-slice.jpg)Slice from the side

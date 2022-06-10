@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover.jpg "Developmental Editing")
+![Book cover](cover.jpg "Developmental Editing")
 
 Scott Norton, *Developmental Editing: A Handbook for Freelancers, Authors, and Publishers* (University of Chicago Press, 2009).
 

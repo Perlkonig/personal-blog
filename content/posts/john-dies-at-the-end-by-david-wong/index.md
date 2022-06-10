@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover-300x300.jpg "John Dies at the End")
+![Book cover](cover-300x300.jpg "John Dies at the End")
 
 David Wong, *John Dies at the End* (New York: St. Martin’s Griffin, 2010).
 

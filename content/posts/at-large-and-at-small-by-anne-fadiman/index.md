@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover13-300x300.jpg "At Large and At Small")
+![Book cover](cover13-300x300.jpg "At Large and At Small")
 
 Anne Fadiman, *At Large and At Small: Familiar Essays by Anne Fadiman* (New York: Farrar, Straus, and Giroux, 2007).
 

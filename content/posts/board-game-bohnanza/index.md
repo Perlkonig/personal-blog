@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-[![](box-214x300.jpg "Bohnanza Box")](http://boardgamegeek.com/boardgame/11/bohnanza "BoardGameGeek.com") [“Bohnanza”](http://boardgamegeek.com/image/69366/bohnanza "BoardGameGeek.com") by [Rio Grande Games](http://www.riograndegames.com/games.html?id=36 "Rio Grande Games")
+[![Bohnanza box](box-214x300.jpg "Bohnanza Box")](http://boardgamegeek.com/boardgame/11/bohnanza "BoardGameGeek.com") [“Bohnanza”](http://boardgamegeek.com/image/69366/bohnanza "BoardGameGeek.com") by [Rio Grande Games](http://www.riograndegames.com/games.html?id=36 "Rio Grande Games")
 
 If you’ve known me for long, you know I’m an avid gamer. While I enjoy games in any medium, nothing beats face-to-face, tabletop gaming. (I still think [Bridge](http://en.wikipedia.org/wiki/Duplicate_bridge "Wikipedia Entry") is the greatest of man’s creations.) And when it comes to face-to-face gaming with a group of non- or semi-gamers, nothing beats a rousing round of Bohnanza.
 

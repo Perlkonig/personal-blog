@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover12.jpg "Innumeracy")
+![Book cover](cover12.jpg "Innumeracy")
 
 John Allen Paulos, *Innumeracy: Mathematical Illiteracy and its Consequences* (New York: Hill and Wang, 1988).
 

@@ -16,4 +16,3 @@ These are essentially frozen custards. They are delicious, but mine didn’t loo
 Actual yield: I doubled the recipe and ended up with 48 cupcake-sized custards.
 
 Verdict: Keeper. Though the kids had a hard time eating them frozen (they’re cold to hold and bite in to), they still reported enjoying them and a few of them have had them multiple days in a row.
-

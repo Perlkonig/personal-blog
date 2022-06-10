@@ -38,7 +38,8 @@ A more secure alternative is to use some sort of cloud storage to backup your wo
 
 Reasonable minds disagree about the sufficiency of cloud services under [Canadian privacy laws](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/). You should seek legal advice if you are concerned. And here are a couple of articles that may interest you:
 
-  * [Canadian Bar Association, "Cloud Storage: The Nitty, Gritty Details" (February 27, 2017)](https://www.cba-alberta.org/Publications-Resources/Resources/Law-Matters/Law-Matters-Winter-2016-17/Cloud-Storage-The-Nitty,-Gritty-Details)
-  * [Office of the Privacy Commissioner of Canada, "PIPEDA compliance help" (January 8, 2018)](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/)
+* [Canadian Bar Association, "Cloud Storage: The Nitty, Gritty Details" (February 27, 2017)](https://www.cba-alberta.org/Publications-Resources/Resources/Law-Matters/Law-Matters-Winter-2016-17/Cloud-Storage-The-Nitty,-Gritty-Details)
+
+* [Office of the Privacy Commissioner of Canada, "PIPEDA compliance help" (January 8, 2018)](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/)
 
 Finally, you can carry your files on some sort of removable media (portable hard drive or thumb drive). I feel this is safer than storing the files directly on the laptop, which is the most likely target for thieves. But you must be extra vigilant. Keep your portable drive in a separate location from the laptop itself, and you absolutely must encrypt your files so they are not exposed if you lose the drive.

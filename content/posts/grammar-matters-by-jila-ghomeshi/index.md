@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover2-150x150.jpg "Grammar Matters")
+![Book cover](cover2-150x150.jpg "Grammar Matters")
 
 Jila Ghomeshi, *Grammar Matters: The Social Significance of How We Use Language* (Winnipeg, MB: Arbeiter Ring Publishing, 2010).
 

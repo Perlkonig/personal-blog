@@ -15,31 +15,31 @@ Spent time with some in-laws over Christmas and the new year and got some gaming
 
 No home should be without a few decks of regular old playing cards. I never travel without them. I even keep cards in the glove box of my car, just in case. I have so many fond memories of playing cards as a kid, both with grownups and with other kids. They're cheap and eminently versatile. You can play so many different games! The best place I've found to learn new card games is [Pagat.com](https://www.pagat.com/). I think just about every game ever invented is there somewhere. This trip I played the following plain card games:
 
-  * [99](https://www.pagat.com/exact/99.html): I play this with my parents. It's a trick-taking game for exactly three players. The only problem is that I suck at it. My dad kills us all the time.
-  * [Golf](https://www.pagat.com/draw/golf.html): I learned the 4-card version, with Jacks being worth zero. The seven-year-old ate this game up.
-  * [Palace](https://www.pagat.com/beating/shithead.html): A simple "get rid of your cards" game for the kids.
+* [99](https://www.pagat.com/exact/99.html): I play this with my parents. It's a trick-taking game for exactly three players. The only problem is that I suck at it. My dad kills us all the time.
+* [Golf](https://www.pagat.com/draw/golf.html): I learned the 4-card version, with Jacks being worth zero. The seven-year-old ate this game up.
+* [Palace](https://www.pagat.com/beating/shithead.html): A simple "get rid of your cards" game for the kids.
 
 ## Boardgame List
 
 First just a list and then the notes.
 
-  * [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)
-  * [Alhambra](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
-  * [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)
-  * [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
-  * [Can't Stop](https://boardgamegeek.com/boardgame/41/cant-stop)
-  * [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
-  * [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter)
-  * [Farkle](https://boardgamegeek.com/boardgame/3181/farkle)
-  * [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
-  * [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
-  * [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-  * [Mysterium](https://boardgamegeek.com/boardgame/113997/tajemnicze-domostwo)
-  * [Red November](https://boardgamegeek.com/boardgame/36946/red-november)
-  * [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
-  * [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
-  * [Ticket to Ride: Europe](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
-  * [Tiny Epic Galaxies](https://boardgamegeek.com/boardgame/163967/tiny-epic-galaxies)
+* [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)
+* [Alhambra](https://boardgamegeek.com/boardgame/45358/alhambra-big-box)
+* [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)
+* [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
+* [Can't Stop](https://boardgamegeek.com/boardgame/41/cant-stop)
+* [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+* [Cosmic Encounter](https://boardgamegeek.com/boardgame/39463/cosmic-encounter)
+* [Farkle](https://boardgamegeek.com/boardgame/3181/farkle)
+* [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)
+* [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+* [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
+* [Mysterium](https://boardgamegeek.com/boardgame/113997/tajemnicze-domostwo)
+* [Red November](https://boardgamegeek.com/boardgame/36946/red-november)
+* [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+* [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+* [Ticket to Ride: Europe](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe)
+* [Tiny Epic Galaxies](https://boardgamegeek.com/boardgame/163967/tiny-epic-galaxies)
 
 ## Notes
 
@@ -79,9 +79,9 @@ A great cooperative game involving gnomes, and doomed submarine, and lots of gro
 
 This is an actual new game in my collection, and I absolutely love it. It kills all other social deduction games. Everybody gets a secret role. Most are liberals, but some are fascists, and one of those is the "secret Hitler." Every turn the next player in sequence becomes the president and nominates a chancellor. A vote is held. Once a government is formed, the president chooses the top three policies from a deck of policies (some of which are liberal and some of which are fascist). The president discards one and gives the remaining two to the chancellor. The chancellor discards one and enacts the other. The liberals win if they pass 5 liberal policies or kill Hitler. The fascists win if they pass 6 fascist policies or if after a certain point in the game the secret Hitler is elected as chancellor.
 
-  * This game is clearer than [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). The theme is less distracting and you only ever have two people revealing information at a time.
-  * The policy deck is an important innovation. In The Resistance, for example, the first mission only requires two team members. Best strategy is to never fail the first mission, otherwise you're much more likely to be discovered. The only way to break this rote opening is to let the group decide on what mission to do first, but that introduces a second vote every round. The policy deck obviates this problem.
-  * The later fascist policy spaces have special powers usable by the president, regardless of affiliation. To kill Hitler, for example, you need to pass a fascist policy. Delicious tension!
+*This game is clearer than [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). The theme is less distracting and you only ever have two people revealing information at a time.
+*The policy deck is an important innovation. In The Resistance, for example, the first mission only requires two team members. Best strategy is to never fail the first mission, otherwise you're much more likely to be discovered. The only way to break this rote opening is to let the group decide on what mission to do first, but that introduces a second vote every round. The policy deck obviates this problem.
+*The later fascist policy spaces have special powers usable by the president, regardless of affiliation. To kill Hitler, for example, you need to pass a fascist policy. Delicious tension!
 
 This is not a game for everybody. Your group needs to be able to compartmentalize. I've seen couples stop talking to each other after games like this. You *will* be accused of lying, and you will likely have to actually lie to somebody you care about to win. It's a game. Enjoy it :)
 

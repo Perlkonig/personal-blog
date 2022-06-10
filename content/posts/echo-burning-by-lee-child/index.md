@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover8.jpg "Echo Burning")
+![Book cover](cover8.jpg "Echo Burning")
 
 Lee Child, *Echo Burning* (New York: Jove Books, 2008).
 

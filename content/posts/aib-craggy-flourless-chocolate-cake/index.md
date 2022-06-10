@@ -17,4 +17,4 @@ Actual yield: N/A
 
 Verdict: Keeper, for the right occasion.
 
-[![](craggy-300x224.jpg "Craggy Flourless Cake")](craggy.jpg)Craggy Flourless Cake
+[![Craggy flourless cake](craggy-300x224.jpg "Craggy Flourless Cake")](craggy.jpg)Craggy Flourless Cake

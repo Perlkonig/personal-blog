@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 1/5
 
-![](cover9-204x300.jpg "The Redemption of Althalus")
+![Book cover](cover9-204x300.jpg "The Redemption of Althalus")
 
 David & Leigh Eddings, *The Redemption of Althalus* (Del Rey, 2001).
 

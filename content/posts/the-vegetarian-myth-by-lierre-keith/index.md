@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover3-150x150.jpg "The Vegetarian Myth")
+![Book cover](cover3-150x150.jpg "The Vegetarian Myth")
 
 Lierre Keith, *The Vegetarian Myth: Food Justice, and Sustainability*, 4th ed. (Crescent City, CA: Flashpoint Press, 2009).
 

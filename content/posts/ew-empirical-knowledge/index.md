@@ -10,7 +10,7 @@ author: aaron
 
 ===
 
-<p style="font-style: italic">This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s <a href="https://aarondalton.ca/empiricaleditors">“Empirical Research for Editors” list</a>.</p>
+*This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s [“Empirical Research for Editors” list](https://aarondalton.ca/empiricaleditors).*
 
 Do you have the curse of knowledge?
 

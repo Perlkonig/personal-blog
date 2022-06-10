@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover3-169x300.jpg "Killing Floor")
+![Book cover](cover3-169x300.jpg "Killing Floor")
 
 Lee Child, *Killing Floor* (New York: Jove Books, 1997).
 

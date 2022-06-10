@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover5-197x300.jpg "Panic Virus")
+![Book cover](cover5-197x300.jpg "Panic Virus")
 
 Seth Mnookin, *The Panic Virus* (New York: Simon & Schuster, 2011).
 

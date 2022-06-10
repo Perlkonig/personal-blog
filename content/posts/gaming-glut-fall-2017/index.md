@@ -17,45 +17,45 @@ According to my records, we played 29 games 100 times, not counting just regular
 
 I've said it before and I'll say it again&mdash;no home should be without a few decks of regular old playing cards. I never travel without them. The best place I've found to learn new card games is [Pagat.com](https://www.pagat.com/). This trip I played the following card games:
 
-  * [99](https://www.pagat.com/exact/99.html): A trick-taking game for exactly three players.
-  * [German Whist](https://www.pagat.com/whist/german_whist.html): A two-player whist game. There's a variant my stepmom taught me that I don't see on Pagat. I like them both.
-  * [Golf](https://www.pagat.com/draw/golf.html): Kids love this one.
-  * [James Bond](https://www.pagat.com/commerce/jamesbond.html): A simple speed game for two or three players.
-  * Poker: Yes, my sister's kids love playing Texas Hold 'Em.
+* [99](https://www.pagat.com/exact/99.html): A trick-taking game for exactly three players.
+* [German Whist](https://www.pagat.com/whist/german_whist.html): A two-player whist game. There's a variant my stepmom taught me that I don't see on Pagat. I like them both.
+* [Golf](https://www.pagat.com/draw/golf.html): Kids love this one.
+* [James Bond](https://www.pagat.com/commerce/jamesbond.html): A simple speed game for two or three players.
+* Poker: Yes, my sister's kids love playing Texas Hold 'Em.
 
 ## Boardgame List
 
 First just a list and then the notes.
 
-  * [Airlines Europe](https://boardgamegeek.com/boardgame/90419/airlines-europe)
-  * [Alien Frontiers](https://boardgamegeek.com/boardgame/174610/alien-frontiers-big-box)
-  * [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
-  * [Bang: The Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)
-  * [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
-  * [Bottom of the 9th](https://boardgamegeek.com/boardgame/166286/bottom-9th)
-  * [Cave Troll](https://boardgamegeek.com/boardgame/4491/cave-troll)
-  * [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
-  * [Colossal Arena](https://boardgamegeek.com/boardgame/105/colossal-arena)
-  * [Concept](https://boardgamegeek.com/boardgame/147151/concept)
-  * [Defenders of the Realm](https://boardgamegeek.com/boardgame/65532/defenders-realm)
-  * [Deus](https://boardgamegeek.com/boardgame/162082/deus)
-  * [Forbidden Desert](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
-  * [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
-  * [Innovation](https://boardgamegeek.com/boardgame/63888/innovation)
-  * [Jaipur](https://boardgamegeek.com/boardgame/54043/jaipur)
-  * [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
-  * [Lords of Waterdeep](https://boardgamegeek.com/boardgame/110327/lords-waterdeep)
-  * [Mission: Red Planet](https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition)
-  * [O Zoo le Mio](https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio)
-  * [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
-  * [Set](https://boardgamegeek.com/boardgame/1198/set)
-  * [Sentinels of the Multiverse](https://boardgamegeek.com/boardgame/102652/sentinels-multiverse)
-  * [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
-  * [Survive: Escape from Atlantis!](https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
-  * [Tak](https://boardgamegeek.com/boardgame/197405/tak)
-  * [Tash Kalar](https://boardgamegeek.com/boardgame/146278/tash-kalar-arena-legends)
-  * [Tiny Epic Kingdoms](https://boardgamegeek.com/boardgame/148951/tiny-epic-kingdoms)
-  * [Tiny Epic Quest](https://boardgamegeek.com/boardgame/201921/tiny-epic-quest)
+* [Airlines Europe](https://boardgamegeek.com/boardgame/90419/airlines-europe)
+* [Alien Frontiers](https://boardgamegeek.com/boardgame/174610/alien-frontiers-big-box)
+* [Android: Netrunner](https://boardgamegeek.com/boardgame/124742/android-netrunner)
+* [Bang: The Dice Game](https://boardgamegeek.com/boardgame/143741/bang-dice-game)
+* [Bohnanza](https://boardgamegeek.com/boardgame/11/bohnanza)
+* [Bottom of the 9th](https://boardgamegeek.com/boardgame/166286/bottom-9th)
+* [Cave Troll](https://boardgamegeek.com/boardgame/4491/cave-troll)
+* [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+* [Colossal Arena](https://boardgamegeek.com/boardgame/105/colossal-arena)
+* [Concept](https://boardgamegeek.com/boardgame/147151/concept)
+* [Defenders of the Realm](https://boardgamegeek.com/boardgame/65532/defenders-realm)
+* [Deus](https://boardgamegeek.com/boardgame/162082/deus)
+* [Forbidden Desert](https://boardgamegeek.com/boardgame/136063/forbidden-desert)
+* [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+* [Innovation](https://boardgamegeek.com/boardgame/63888/innovation)
+* [Jaipur](https://boardgamegeek.com/boardgame/54043/jaipur)
+* [King of Tokyo](https://boardgamegeek.com/boardgame/70323/king-tokyo)
+* [Lords of Waterdeep](https://boardgamegeek.com/boardgame/110327/lords-waterdeep)
+* [Mission: Red Planet](https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition)
+* [O Zoo le Mio](https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio)
+* [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+* [Set](https://boardgamegeek.com/boardgame/1198/set)
+* [Sentinels of the Multiverse](https://boardgamegeek.com/boardgame/102652/sentinels-multiverse)
+* [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+* [Survive: Escape from Atlantis!](https://boardgamegeek.com/boardgame/2653/survive-escape-atlantis)
+* [Tak](https://boardgamegeek.com/boardgame/197405/tak)
+* [Tash Kalar](https://boardgamegeek.com/boardgame/146278/tash-kalar-arena-legends)
+* [Tiny Epic Kingdoms](https://boardgamegeek.com/boardgame/148951/tiny-epic-kingdoms)
+* [Tiny Epic Quest](https://boardgamegeek.com/boardgame/201921/tiny-epic-quest)
 
 ## Notes
 
@@ -148,7 +148,6 @@ This is an excellent addition to a family game library.
 ### Hanabi
 
 Another excellent card game. This is also cooperative, and the twist is that you can't see your own cards. The goal is to communicate to each other what cards each other holds and to cooperatively build a tableau. Try to get a perfect score. It's simple but challenging. An excellent family game.
-
 
 ### Innovation
 

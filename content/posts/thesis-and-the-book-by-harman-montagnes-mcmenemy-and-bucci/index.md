@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover9-300x300.jpg "Thesis and the Book")
+![Book cover](cover9-300x300.jpg "Thesis and the Book")
 
 Eleanor Harman, Ian, Montagnes, Siobhan McMenemy, and Chris Bucci (eds.), *The Thesis and the Book: A Guide for First-Time Academic Authors*, 2nd edition (University of Toronto Press, 2003).
 

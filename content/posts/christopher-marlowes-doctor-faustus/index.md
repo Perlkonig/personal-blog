@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1.jpg "Doctor Faustus")
+![Book cover](cover1.jpg "Doctor Faustus")
 
 Christopher Marlowe, *Doctor Faustus*, ed. John D. Jump (New York: Routledge, 2002).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover1-150x150.jpg "Infectious Greed")
+![Book cover](cover1-150x150.jpg "Infectious Greed")
 
 Frank Partnoy, *Infectious Greed: How Deceit and Risk Corrupted the Financial Markets* (Revised ed.) (New York: Public Affairs, 2009).
 

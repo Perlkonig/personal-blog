@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover13-150x150.jpg "The Lightness of Being")
+![Book cover](cover13-150x150.jpg "The Lightness of Being")
 
 Frank Wilczek, *The Lightness of Being: Mass, Ether, and the Unification of Forces* (New York: Basic Books, 2008).
 

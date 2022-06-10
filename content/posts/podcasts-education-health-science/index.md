@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **[Astronomy Cast](http://feeds.feedburner.com/astronomycast) ([info](http://www.astronomycast.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: every 1–2 weeks
 - Duration: 30 minutes
 - Content: family friendly
@@ -29,7 +29,7 @@ An accessible discussion of astronomy and astrophysics. They talk about specific
 
 **[Brain Science Podcast](http://brainsciencepodcast.libsyn.com/rss) ([info](http://brainsciencepodcast.com/))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: monthly
 - Duration: 60 minutes
 - Content: family friendly
@@ -38,7 +38,7 @@ Dr. Ginger Campbell interviews authors of books about brain science. The music i
 
 **[The Checkup](http://feeds.feedburner.com/TheCheckup_WBUR_Slate) ([info](http://www.slate.com/articles/podcasts/the_checkup.html))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: every 2 weeks
 - Duration: 20–30 minutes
 - Content: no explicit language, some adult content
@@ -47,7 +47,7 @@ A podcast about health. It’s hit and miss.
 
 **![package_favorite](/images/package_favorite.png) [Quirks and Quarks](http://www.cbc.ca/podcasting/includes/quirksaio.xml) ([info](http://www.cbc.ca/radio/quirks))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: family friendly
@@ -56,7 +56,7 @@ CBC’s science show. I love the format, and the topics are usually fascinating.
 
 **![package_favorite](/images/package_favorite.png) [Sawbones: A Marital Tour of Misguided Medicine](http://sawbones.libsyn.com/rss) ([info](http://www.maximumfun.org/shows/sawbones))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: roughly weekly
 - Duration: 30–45 minutes
 - Content: no explicit language, occasional disturbing content
@@ -65,7 +65,7 @@ CBC’s science show. I love the format, and the topics are usually fascinating.
 
 **![package_favorite](/images/package_favorite.png) [The Therapy Show](http://myextralife.com/ftp/radio/therapy.xml) ([info](http://frogpants.com/podcasts/therapy/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly (on hiatus)
 - Duration: 60 minutes
 - Content: family friendly

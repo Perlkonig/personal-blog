@@ -24,7 +24,7 @@ Acronyms are helpful during the writing process. But it’s easier to read three
 
 At the very least, be sure to have a list of acronyms and their definitions at the front of the document, even for acronyms you think are familiar. It will reduce misunderstandings and errors.
 
-### Further reading:
+### Further reading
 
 * [Acronyms and abbreviations](https://dx.doi.org/10.1111/j.1440-1754.2009.01508.x)
 * [An analysis of Acronyms in Written Text](https://dx.doi.org/10.1177/154193128603000920)

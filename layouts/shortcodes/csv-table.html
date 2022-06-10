@@ -13,7 +13,7 @@
     <tr>
       {{ range . }}
         {{ if (findRE "^\\d+$" .) }}
-          <td class="numeric">{{ . }}</td>
+          <td class="numeric">{{ . | markdownify }}</td>
         {{ else }}
           <td>{{ . | markdownify }}</td>
         {{ end }}

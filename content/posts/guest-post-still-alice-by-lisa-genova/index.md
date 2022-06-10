@@ -11,7 +11,7 @@ This is our first guest post. My wife, Adele, has been doing some reading and wa
 
 **Rating:** 5/5
 
-![](cover2-150x150.jpg "Still Alice")
+![Book cover](cover2-150x150.jpg "Still Alice")
 
 Lisa Genova, *Still Alice* (New York: Pocket Books, 2009).
 

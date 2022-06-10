@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover1-199x300.jpg "The Name of the Wind")
+![Book cover](cover1-199x300.jpg "The Name of the Wind")
 
 Patrick Rothfuss, *The Name of the Wind* (New York: DAW, 2008).
 

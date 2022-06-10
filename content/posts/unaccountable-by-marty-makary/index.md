@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover1-197x300.jpg "Unaccountable")
+![Book cover](cover1-197x300.jpg "Unaccountable")
 
 Marty Makary, MD, *Unaccountable: What Hospitals Won’t Tell You and How Transparency Can Revolutionize Health Care* (New York: Bloomsbury Press, 2012).
 

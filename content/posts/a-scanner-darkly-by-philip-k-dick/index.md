@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover2.jpg "A Scanner Darkly")
+![Book cover](cover2.jpg "A Scanner Darkly")
 
 Philip K. Dick, *A Scanner Darkly* (New York: Doubleday, 2011 [1977]).
 

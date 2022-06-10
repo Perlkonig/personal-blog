@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](Wheat-Belly-Amazon.jpg "Wheat Belly")
+![Book cover](Wheat-Belly-Amazon.jpg "Wheat Belly")
 
  William Davis, *Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health* (New York: Rodale, 2011).
 

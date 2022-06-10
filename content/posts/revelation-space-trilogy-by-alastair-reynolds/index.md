@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover.jpg "Revelation Space")
+![Book cover](cover.jpg "Revelation Space")
 
 Alastair Reynolds, *Revelation Space* (Ace/Berkeley Pub., 2000).
 

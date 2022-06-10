@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **[The Allusionist](http://feeds.theallusionist.org/Allusionist) ([info](http://www.theallusionist.org/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: every 2 weeks
 - Duration: 15 minutes
 - Content: family friendly
@@ -29,7 +29,7 @@ Comedian Helen Zaltzman takes a word and humorously discusses its etymology and
 
 **[Lexicon Valley](http://feeds.feedburner.com/SlateLexiconValley) ([info](http://www.slate.com/articles/podcasts/lexicon_valley.html))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: every 2 weeks
 - Duration: 30 minutes
 - Content: occasional strong language
@@ -38,7 +38,7 @@ Discussions of modern language issues, etymology, and other language topics, inc
 
 **[Supreme Podcast](http://www.supremepodcast.com/SupremePodcast.com/A_Weekly_Podcast_Concerning_the_United_States_Supreme_Court/rss.xml) ([info](http://supremecourtreview.com/default/podcast/view/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: usually 10–15 minutes
 - Content: family friendly
@@ -47,7 +47,7 @@ A weekly discussion of the U.S. Supreme Court’s most recent opinions, oral arg
 
 **[Amicus](http://feeds.feedburner.com/slateamicuswithdahlialithwick) ([info](http://www.slate.com/articles/podcasts/amicus.html))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: every 2 weeks
 - Duration: 30–45 minutes
 - Content: family friendly
@@ -56,7 +56,7 @@ A discussion of goings on at the U.S. Supreme Court with the main host and diffe
 
 **![package_favorite](/images/package_favorite.png) [Dan Carlin’s Hardcore History](http://feeds.feedburner.com/dancarlin/history?format=xml) ([info](http://www.dancarlin.com/hh-55/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: sporadic (lately every few months)
 - Duration: multiple hours
 - Content: no offensive language, some disturbing content
@@ -65,7 +65,7 @@ Dan’s oral essays on historical events. He just wrapped up a tremendous six-pa
 
 **[Mormon FAIR-Cast](http://www.fairblog.org/feed/podcast) ([info](http://blog.fairmormon.org/mormon-fair-cast/))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: mostly weekly
 - Duration: various (10–60 minutes)
 - Content: family friendly

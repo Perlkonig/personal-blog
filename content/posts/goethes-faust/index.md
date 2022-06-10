@@ -7,7 +7,7 @@ tags:  [drama,Faust,Goethe,unrated]
 author: aaron
 ---
 
-![](cover23.jpg "Faust")
+![Book cover](cover23.jpg "Faust")
 
 Johann Wolfgang von Goethe, *Faust: A Tragedy*, trans. Walter Arndt, ed. Cyrus Hamlin, 2nd edition (NewYork: W. W. Norton & Company, 2001).
 
@@ -19,39 +19,39 @@ Like any work of literature, it places significant demands on the reader. Modern
 
 In light of all my Wendell Berry reading of late, a particular exchange jumped out at me. It occurs between Faust and Mephistopheles shortly after the bargain has been struck. It is the scene “Witch’s Kitchen” in which Mephistopheles takes Faust to visit a witch for a potion to make him younger. Once there, he begins to have second thoughts. Here are the opening lines (2337–2365):
 
-> **Faust**. I find this magic-mongery abhorrent;
->  And I am to be cured, you warrant,
->  In this hotchpotch of lunacy?
->  Do I seek counsel from some skirted quack?
->  Will this absurd swill-cookery
->  Charm thirty winters off my back?
->  If that’s your best, then woe is me!
->  My hopes already seem confounded.
->  Might there not be some balm, some remedy
->  By nature or a noble mind compounded?
+> **Faust**. I find this magic-mongery abhorrent;<br>
+> And I am to be cured, you warrant,<br>
+> In this hotchpotch of lunacy?<br>
+> Do I seek counsel from some skirted quack?<br>
+> Will this absurd swill-cookery<br>
+> Charm thirty winters off my back?<br>
+> If that’s your best, then woe is me!<br>
+> My hopes already seem confounded.<br>
+> Might there not be some balm, some remedy<br>
+> By nature or a noble mind compounded?<br>
 >
-> **Mephistopheles**. The know-it-all, as always! Look—
->  True, nature’s way to youth is apter;
->  However, that comes in a different book, and it’s a curious chapter.
+> **Mephistopheles**. The know-it-all, as always! Look—<br>
+> True, nature’s way to youth is apter;<br>
+> However, that comes in a different book, and it’s a curious chapter.<br>
 >
-> **Faust**. I want to know it.
+> **Faust**. I want to know it.<br>
 >
-> **Mephistopheles**. Very well; it comes your way
->  Without physician, gold, or magic-rigging:
->  Go out into the fields, today, Fall to a hoeing, digging,
->  Contain yourself, your mind and mood,
->  within the narrowest of spheres,
->  Subsist on uncommingled food,
->  Live as a beast with beasts and spurn not chores unsung,
->  In person spread your crop-fields with manure;
->  This is the best resource, you may be sure,
->  Through eighty years to stay forever young!
+> **Mephistopheles**. Very well; it comes your way<br>
+> Without physician, gold, or magic-rigging:<br>
+> Go out into the fields, today, Fall to a hoeing, digging,<br>
+> Contain yourself, your mind and mood,<br>
+> within the narrowest of spheres,<br>
+> Subsist on uncommingled food,<br>
+> Live as a beast with beasts and spurn not chores unsung,<br>
+> In person spread your crop-fields with manure;<br>
+> This is the best resource, you may be sure,<br>
+> Through eighty years to stay forever young!<br>
 >
-> **Faust**. I am not used to that, to goes against my marrow
->  To put my hand to hoe or harrow.
->  A narrow life would suit me not at all.
+> **Faust**. I am not used to that, to goes against my marrow<br>
+> To put my hand to hoe or harrow.<br>
+> A narrow life would suit me not at all.<br>
 >
-> **Mephisotpheles**. So back to witching after all.
+> **Mephisotpheles**. So back to witching after all.<br>
 
 Two primary themes jump out at me. First, the whole idea of the “quick fix” and how we’re often willing to do, sacrifice, or risk just about anything for instant gratification. Second is this persistent and mistaken equating of narrowness with shallowness, and breadth with depth. I simply don’t buy it. I think it comes down to what your narrow focus is. While, like Faust, I don’t feel I could just go out and be a farmer tomorrow, I think the essence of the agrarian life can still be retained even in the city. A focus on nature, family, and community; a focus on activities that bring one joy; an acknowledgment that we are but a part of a much larger whole, these are things that really can be pursued even in an urban setting. Certainly it is more difficult given the industrial economy we find ourselves in, but I really think it is possible to be “in the world but not of the world.” This is obviously something Faust flatly rejects, instead pursuing lust, knowledge, and power at the expense of any sort of profound connection or relationship.
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover9-300x300.jpg "Pie in the Sky")
+![Book cover](cover9-300x300.jpg "Pie in the Sky")
 
 Susan G. Purdy, *Pie in the Sky: Successful Baking at High Altitudes; 100 Cakes, Pies, Cookies, Breads, and Pastries Home-Tested for Baking at Sea Level, 3000, 5000, 70000, and 10000 feet (and Anywhere in Between)* (New York: William Morrow, 2005).
 

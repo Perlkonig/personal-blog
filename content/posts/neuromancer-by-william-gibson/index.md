@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 2/5
 
-![](cover7-225x300.jpg "Neuromancer")
+![Book cover](cover7-225x300.jpg "Neuromancer")
 
 William Gibson, *Neuromancer* (Ace, 1984).
 

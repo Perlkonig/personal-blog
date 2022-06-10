@@ -7,7 +7,7 @@ tags:  [John Bunyan,religion,unrated]
 author: aaron
 ---
 
-![](cover.jpg "Pilgrim's Progress")
+![Book cover](cover.jpg "Pilgrim's Progress")
 
 John Bunyan, *The Pilgrim’s Progress: From This World to That Which Is to Come*, ed. John F. Thornton and Susan B. Varenne (New York: Vintage Books, 2004).
 

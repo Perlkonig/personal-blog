@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover5.jpg "Colour")
+![Book cover](cover5.jpg "Colour")
 
 Victoria Finlay, *Colour: Travels Through the Paintbox* (London: Sceptre, 2002).
 

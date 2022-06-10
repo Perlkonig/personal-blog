@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **![package_favorite](/images/package_favorite.png) [Freakonomics Radio](http://feeds.feedburner.com/freakonomicsradio) ([info](http://freakonomics.com/radio/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 45–60 minutes
 - Content: family friendly, occasional adult topics
@@ -29,14 +29,14 @@ The authors of the book *Freakonomics* explore a huge variety of topics from th
 
 **[NPR Planet Money](http://www.npr.org/rss/podcast.php?id=510289) ([info](http://www.npr.org/sections/money/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 15–30 minutes
 - Content: family friendly
 
 **[Slate Money](http://feeds.feedburner.com/slatemoney) ([info](http://www.slate.com/articles/podcasts/slate_money.html))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 45–60 minutes
 - Content: occasional mild language

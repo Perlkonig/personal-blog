@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **![package_favorite](/images/package_favorite.png) [The Bugle](http://feeds.feedburner.com/thebuglefeed) ([info](http://thebuglepodcast.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: frequent strong language (bleeped)
@@ -29,7 +29,7 @@ In *The Bugle*, comedians [John Oliver](https://en.wikipedia.org/wiki/John_Olive
 
 **![package_favorite](/images/package_favorite.png) [Hypothetical Help](http://feeds.frogpants.com/hypohelp_feed.xml) ([info](http://frogpants.com/podcasts/hypothetical-help/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 45 minutes
 - Content: occasional very mild language
@@ -38,7 +38,7 @@ In *The Bugle*, comedians [John Oliver](https://en.wikipedia.org/wiki/John_Olive
 
 **[The Late Show Podcast (w/ Stephen Colbert)](http://feed.theplatform.com/f/kYEXFC/zVfDzVbQRltO)**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: 20 minutes
 - Content: family friendly
@@ -47,7 +47,7 @@ Adele and I were huge *Colbert Report* fans. We’re excited to see what he doe
 
 **![package_favorite](/images/package_favorite.png) [The Morning Stream](http://myextralife.com/ftp/radio/morningstream.xml) ([info](http://frogpants.com/tms/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekdays
 - Duration: 90 minutes
 - Content: occasional very mild language, discussions of news events can include adult topics
@@ -56,7 +56,7 @@ Perhaps my favourite daily podcast. Not only is it hilarious, it has a great for
 
 **[My Brother, My Brother And Me](http://mbmbam.libsyn.com/rss) ([info](http://www.maximumfun.org/shows/my-brother-my-brother-and-me))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: pervasive strong language and adult themes
@@ -65,7 +65,7 @@ Perhaps my favourite daily podcast. Not only is it hilarious, it has a great for
 
 **![package_favorite](/images/package_favorite.png) [Stop Podcasting Yourself](http://stoppodcastingyourself.libsyn.com/rss) ([info](http://www.maximumfun.org/shows/stop-podcasting-yourself))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: occasional strong language and adult themes
@@ -74,7 +74,7 @@ Perhaps my favourite daily podcast. Not only is it hilarious, it has a great for
 
 **![package_favorite](/images/package_favorite.png) NPR’s [Wait Wait…Don’t Tell Me!](http://www.npr.org/rss/podcast.php?id=35) ([info](http://www.npr.org/programs/wait-wait-dont-tell-me/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 1 hour
 - Content: no strong language or disturbing themes
@@ -83,7 +83,7 @@ NPR’s weekly quiz show about current news and events. I always enjoy it.
 
 **[We Have Concerns](http://simplecast.fm/podcasts/1041/rss) ([info](http://www.wehaveconcerns.com/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: 2–3 times a week
 - Duration: 20 minutes
 - Content: frequent strong language
@@ -92,7 +92,7 @@ This is a new podcast for me. [Anthony Carboni](http://anthonycarboni.com/) and 
 
 **[Welcome to Night Vale](http://nightvale.libsyn.com/rss) ([info](http://commonplacebooks.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: twice monthly
 - Duration: 30 minutes
 - Content: no offensive language, potentially frightening content

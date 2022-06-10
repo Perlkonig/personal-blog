@@ -7,7 +7,7 @@ tags:  [4star,card games,Fantasy Flight Games]
 author: aaron
 ---
 
-[![](condottiere-158x300.jpg "Condottiere")](condottiere.jpg)
+[![Condottiere box](condottiere-158x300.jpg "Condottiere")](condottiere.jpg)
 
 **Rating:** 4/5
 

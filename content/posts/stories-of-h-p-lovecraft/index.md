@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover8.jpg "The Call of Cthulhu and Other Weird Stories")
+![Book cover](cover8.jpg "The Call of Cthulhu and Other Weird Stories")
 
 S. Joshi (ed.), *The Call of Cthulhu and Other Weird Stories* (Penguin Classics, 1999).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover-300x300.jpg "Rereadings")
+![Book cover](cover-300x300.jpg "Rereadings")
 
 Anne Fadiman (ed.), *Rereadings* (New York: Farrar, Straus and Giroux, 2005).
 

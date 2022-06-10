@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 2/5
 
-![](player-300x300.jpg "Player of Games")
+![Book cover](player-300x300.jpg "Player of Games")
 
 Iain M. Banks, *The Player of Games* (London: Orbit, 1989).
 

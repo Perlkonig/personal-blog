@@ -56,15 +56,11 @@ Make the rolls or loaf up and let proof. (The book doesn’t say how long, but u
 
 The book goes into all sorts of different ways to make rolls. I went with the cloverleaf rolls, where you make little balls of dough and put three or four in a muffin tin. As they rise and bake, you get these great pull-apart rolls.
 
-[![](2012-11-12-14.09.33-300x225.jpg "Cloverleaf-style brioche rolls in the pan")](2012-11-12-14.09.33.jpg)Cloverleaf-style brioche rolls in the pan, before baking
-
-
+[![Cloverleaf-style brioche rolls in the pan](2012-11-12-14.09.33-300x225.jpg "Cloverleaf-style brioche rolls in the pan")](2012-11-12-14.09.33.jpg)Cloverleaf-style brioche rolls in the pan, before baking
 
 After baking you get:
 
-[![](2012-11-12-17.19.53-225x300.jpg "Cloverleaf-style brioche rolls")](2012-11-12-17.19.53.jpg)Cloverleaf-style brioche rolls, after baking
-
-
+[![Cloverleaf-style brioche rolls](2012-11-12-17.19.53-225x300.jpg "Cloverleaf-style brioche rolls")](2012-11-12-17.19.53.jpg)Cloverleaf-style brioche rolls, after baking
 
 ## Angel Food Cake
 

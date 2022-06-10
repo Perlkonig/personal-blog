@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 2/5
 
-![](cover3-186x300.jpg "Die Trying")
+![Book cover](cover3-186x300.jpg "Die Trying")
 
 Lee Child, *Die Trying* (New York: Berkeley Books, 1998).
 

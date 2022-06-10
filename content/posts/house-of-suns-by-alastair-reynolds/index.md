@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover2.jpg "House of Suns")
+![Book cover](cover2.jpg "House of Suns")
 
 Alastair Reynolds, *House of Suns* (Gollancz, 2009).
 

@@ -1,0 +1,31 @@
+.blogroll a {
+	display: block;
+	padding: 0.8em 0;
+	position: relative;
+	text-decoration: none;
+}
+
+.blogroll ul {
+	list-style: none;
+	margin: 0;
+    padding: 0;
+}
+
+.blogroll li {
+	border-top: 1px solid #eaeaea;
+	border-top: 1px solid rgba(51, 51, 51, 0.1);
+	position: relative;
+}
+
+.blogroll > ul > li:first-child,
+.blogroll > li:first-child {
+	border-top: 0;
+}
+
+.blogroll .description {
+	font-size: smaller;
+}
+
+.no-js .blogroll ul ul {
+	display: block;
+}

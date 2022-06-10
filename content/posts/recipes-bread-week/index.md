@@ -39,8 +39,6 @@ Bake at 425F (220C) for about 30 minutes until golden brown.
 
 [![A loaf of ciabatta bread](2012-10-20-20.28.51-225x300.jpg "Ciabatta")](2012-10-20-20.28.51.jpg)My first attempt at ciabatta bread
 
-
-
 ## Cuban
 
 The next bread I tried the book called Cuban. If you go online and search “Cuban bread”, you get very different recipes, so I’m not sure what makes this bread Cuban, but it tastes great. This bread has more sugar in it than the others, it’s also the quickest to make (still measured in hours, though).
@@ -56,8 +54,6 @@ Soften/activate your yeast in the water, add the salt and sugar to the water to 
 Divide the dough into two balls. Round them, place them on the sheet, and score the top with a cross. Proof until doubled in size. Bake at 400F (200C) until nice and golden brown (about 20 minutes).
 
 [![Cuban](2012-10-26-20.52.15-225x300.jpg "Cuban")](2012-10-26-20.52.15.jpg)My first loaves of Cuban bread
-
-
 
 ## French
 
@@ -84,11 +80,7 @@ Scale the dough (makes 2 large loaves or 4 mini-loaves) and proof on sheet pans 
 
 [![French bread](2012-10-28-10.43.06-300x225.jpg "French bread")](2012-10-28-10.43.06.jpg)My first attempt at French bread (2 loaves)
 
-
-
 [![French bread](2012-11-09-10.48.20-225x300.jpg "French bread")](2012-11-09-10.48.20.jpg)My second attempt at French bread (4 mini-loaves)
-
-
 
 ## Focaccia
 

@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **NPR’s [Pop Culture Happy Hour](http://www.npr.org/rss/podcast.php?id=510282) ([info](http://www.npr.org/sections/monkeysee/129472378/pop-culture-happy-hour/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 45 minutes
 - Content: family friendly
@@ -29,7 +29,7 @@ Yes things can get a little pretentious, but there are some interesting discuss
 
 **[Slate Audio Book Club](http://feeds.feedburner.com/slateaudiobookclub) ([info](http://www.slate.com/articles/arts/the_audio_book_club.html))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: monthly
 - Duration: 30–60 minutes
 - Content: frequent mild language
@@ -38,7 +38,7 @@ Various people discuss a book.
 
 **![package_favorite](/images/package_favorite.png) [Slate Culture Gabfest](http://feeds.feedburner.com/SlateCultureGabfest) ([info](http://www.slate.com/articles/podcasts/culturegabfest.html))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 45–60 minutes
 - Content: frequent mild language, occasional strong language
@@ -47,7 +47,7 @@ I enjoy all the Slate “gabfests.” Three diverse, knowledgeable individuals d
 
 **[Slate Spoiler Specials](http://feeds.feedburner.com/SlateSpoilerSpecials)**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: occasional
 - Duration: various
 - Content: various
@@ -56,7 +56,7 @@ On this sporadic series, various experts discuss books or movies (and spoil the
 
 **![package_favorite](/images/package_favorite.png) [Film Sack](http://www.myextralife.com/ftp/radio/filmsack.xml) ([info](http://filmsack.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60–90 minutes
 - Content: occasional mild language
@@ -65,7 +65,7 @@ My favourite movie review podcast. As a rule, they only review movies available
 
 **[The Flop House](http://theflophouse.libsyn.com/rss) ([info](http://www.flophousepodcast.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: every 2 weeks
 - Duration: 60–90 minutes
 - Content: occasional strong language

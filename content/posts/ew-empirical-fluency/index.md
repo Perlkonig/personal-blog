@@ -10,7 +10,7 @@ author: aaron
 
 ===
 
-<p style="font-style: italic">This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s <a href="https://aarondalton.ca/empiricaleditors">“Empirical Research for Editors” list</a>.</p>
+*This article is part of a series that draws lessons from some of the research collected in Aaron Dalton’s [“Empirical Research for Editors” list](https://aarondalton.ca/empiricaleditors).*
 
 “Fluency” refers to how easy or difficult it is to do or process something. I interpret the science in this area through the lens of plain language, since its goal is to maximize fluency. Plain language writing is something the audience can ideally understand *the first time they read it*. The science in this area explains why this is a good strategy.
 

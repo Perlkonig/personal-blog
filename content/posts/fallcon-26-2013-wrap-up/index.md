@@ -34,8 +34,6 @@ I am so glad I preordered this game, and I can’t wait to pull it out at the ne
 
 [![About to start a game of Robinson Crusoe.](2013-09-27-21.31.42-300x225.jpg)](2013-09-27-21.31.42.jpg)About to start a game of Robinson Crusoe.
 
-
-
 ### Legends of Andor
 
 Saturday morning was a hosted session of [Legends of Andor](http://boardgamegeek.com/boardgame/127398/legends-of-andor). This is another cooperative game (all the hosted games I played this year ended up being co-op) with a heavy fantasy theme and multiple scenarios. Mike taught us this game, and we played two four-player games. We played the first two scenarios and lost them both. (We were actually creamed in the second scenario.)
@@ -43,8 +41,6 @@ Saturday morning was a hosted session of [Legends of Andor](http://boardgamegeek
 Ultimately I really did not enjoy this game. The scenarios are far too scripted. Once you play a scenario a couple of times, you know what’s coming and how to best prepare for it. This limits the replayability. There’s also no character progression. You don’t get stronger as you work through the scenarios. And finally, the scenarios are just too damn hard. We came really close in the first scenario, but the second scenario wiped us off the board. Unlike Robinson Crusoe, however, I never felt hopeful that we *could* win. That second scenario seemed impossible! You have to defeat monsters to keep them from overrunning the castle, but killing a monster also progresses the game clock. And halfway through the game, you get yet another scenario objective that essentially requires everyone to be there to beat it. You want to feel harried and a little picked on in a good co-op, but this was too much. It’s no wonder I’ve yet to talk to someone who has ever beaten the sixth and final scenario. I could spend many playthroughs just trying to beat scenario two, but I just didn’t feel motivated to keep trying. It just fell flat for me.
 
 [![About to start a game of Legends of Andor (scenario #1).](2013-09-28-08.47.09-300x225.jpg)](2013-09-28-08.47.09.jpg)About to start a game of Legends of Andor (scenario #1).
-
-
 
 ### Antike
 
@@ -65,8 +61,6 @@ Legendary has good flavour and has many more moving parts compared to Dominion. 
 I like the city mechanic and I like that you get new heroes to recruit every turn, instead of drawing from a fixed number of piles. There are good synergies between different types of cards, allowing you to create some powerful chained attacks. The problem was that I just didn’t have fun! I don’t love, love deck builders in the first place, so keep that in mind. I would prefer Legendary over Dominion, but I wouldn’t play Legendary again unless in a group that really wanted to play. If you like deck builders, and you want something more dynamic than Dominion, take a look at Legendary.
 
 [![About to start a game of Marvel Legendary.](2013-09-28-13.27.21-300x225.jpg)](2013-09-28-13.27.21.jpg)About to start a game of Marvel Legendary.
-
-
 
 ### Pathfinder Adventure Card Game
 
@@ -100,19 +94,11 @@ In this game you each get a character with various powers and you must fulfill t
 
 [![A fatty and his entourage makes an appearance.](2013-09-28-21.21.03-300x225.jpg)](2013-09-28-21.21.03.jpg)A fatty and his entourage makes an appearance.
 
-
-
 [![Amy (my character) prepares to cleave a zombie in half with her katana.](2013-09-28-21.21.07-300x225.jpg)](2013-09-28-21.21.07.jpg)Amy (my character) prepares to cleave a zombie in half with her katana.
-
-
 
 [![Ned (centre) is bravely drawing fire, but I don't think he's going to make it.](2013-09-28-22.09.02-300x225.jpg)](2013-09-28-22.09.02.jpg)Ned (centre) is bravely drawing fire, but I don’t think he’s going to make it.
 
-
-
 [![Indeed, Ned falls bravely (or was it foolhardiness)?](2013-09-28-22.29.02-300x225.jpg)](2013-09-28-22.29.02.jpg)Indeed, Ned falls bravely (or was it foolhardiness)?
-
-
 
 ### Seasons
 

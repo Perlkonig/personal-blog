@@ -38,9 +38,9 @@ He took a lengthy paragraph from a research paper and rewrote it using
 principles of plain language. He then sent both versions to almost 2,800
 subject-matter experts and asked two questions:
 
-1.  Which style do you prefer to read when you read scientific texts?
+1. Which style do you prefer to read when you read scientific texts?
 
-2.  Which style do you think is more appropriate for scientific texts?
+2. Which style do you think is more appropriate for scientific texts?
 
 Seventy-four per cent of respondents preferred the plain language version, but
 only 57 per cent said the plain language version was appropriate for

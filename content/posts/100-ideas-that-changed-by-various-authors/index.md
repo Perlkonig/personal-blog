@@ -16,4 +16,3 @@ Overall I enjoyed the books. If you just want a high-level overview of the devel
 The typography of all the books really bothered me, though. They used justified columns (which is a good thing) but they made no attempt to smooth out the word spacing. If you are going to justify text, you *must* allow hyphenation and you *will* have to review the layout for awkward spacing. They just seemed to drop the text in and printed the book. This was particularly disturbing/ironic in the graphic design book.
 
 Ultimately, I think I would rank the books as follows, from favourite to least favourite: fashion, film, architecture, and graphic design. Enjoy!
-

@@ -92,16 +92,12 @@ space. Just apply the formatting.
 For more information, simply search for terms such as "msword wildcards" and
 "regular expression tutorial." Here are a few resources to start with:
 
--   WordMVP wildcard tutorial with examples:
-    <https://wordmvp.com/FAQs/General/UsingWildcards.htm>
+- WordMVP wildcard tutorial with examples: <https://wordmvp.com/FAQs/General/UsingWildcards.htm>
 
--   A regular expression primer:
-    <https://ryanstutorials.net/regular-expressions-tutorial/>
+- A regular expression primer: <https://ryanstutorials.net/regular-expressions-tutorial/>
 
--   Real-time regular expression tester: <https://regexr.com/>
+- Real-time regular expression tester: <https://regexr.com/>
 
--   [Editing software
-    packages](https://activevoice.editors.ca/spring-summer-2018/tech-talk-editing-technology/)
-    that include features to simplify global edits
+- [Editing software packages](https://activevoice.editors.ca/spring-summer-2018/tech-talk-editing-technology/) that include features to simplify global edits
 
 Any tips, tricks or special tools that *you* use? Please share below!

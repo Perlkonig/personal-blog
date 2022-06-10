@@ -43,7 +43,7 @@ Here, [Dan Carlin](https://en.wikipedia.org/wiki/Dan_Carlin) talks about the new
 - Duration: 60 minutes
 - Content: very occasional mild language
 
-Another [Frogpants ](http://frogpants.com/)show where Scott and Tom have various guests to discuss the week’s geek news. The pop quiz segment is the best.
+Another [Frogpants](http://frogpants.com/) show where Scott and Tom have various guests to discuss the week’s geek news. The pop quiz segment is the best.
 
 **![package_favorite](/images/package_favorite.png) [Daily Tech News Show](http://feeds.feedburner.com/DailyTechNewsShow) ([info](http://www.dailytechnewsshow.com/))**
 

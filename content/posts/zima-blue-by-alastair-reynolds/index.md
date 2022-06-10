@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover-210x300.jpg "Zima Blue")
+![Book cover](cover-210x300.jpg "Zima Blue")
 
 Alastair Reynolds, *Zima Blue* (London: Gollancz, 2009).
 

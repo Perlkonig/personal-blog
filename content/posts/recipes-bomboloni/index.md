@@ -15,4 +15,4 @@ Yield: I cut the dough to 2.75&Prime; circles and ended up with less than 3 doze
 
 Verdict: If you have a deep fryer, go and make these now. If you don’t have a deep fryer, you may wish to consider obtaining one just for the privilege of having fresh bomboloni from time to time. The kids went gaga over them. We’ll be making more this weekend. They are just that good.
 
-[![](bomboloni-300x186.jpg "Bomboloni")](bomboloni.jpg)
+[![Bomboloni](bomboloni-300x186.jpg "Bomboloni")](bomboloni.jpg)

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover19.jpg "The Untied States of America")
+![Book cover](cover19.jpg "The Untied States of America")
 
 Juan Enriquez, *The Untied States of America: Polarization, Fracturing, and Our Future* (New York: Random House, 2005).
 

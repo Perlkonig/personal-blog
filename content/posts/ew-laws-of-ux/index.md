@@ -60,12 +60,12 @@ others do things, query it.
 
 These three laws are closely correlated:
 
--   “Elements tend to be perceived [as] groups if they are sharing an area with
+- “Elements tend to be perceived [as] groups if they are sharing an area with
     a clearly defined boundary.”
 
--   “Objects that are near … to each other tend to be grouped together.”
+- “Objects that are near … to each other tend to be grouped together.”
 
--   “Elements that are visually connected are perceived as more related than
+- “Elements that are visually connected are perceived as more related than
     elements with no connection.”
 
 When looking at a user interface, be aware of what your eye — or the user’s eye

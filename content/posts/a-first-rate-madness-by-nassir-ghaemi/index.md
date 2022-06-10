@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover.jpg "First-Rate Madness")
+![Book cover](cover.jpg "First-Rate Madness")
 
 Nassir Ghaemi, *A First-Rate Madness* (New York: Penguin, 2011).
 
@@ -26,4 +26,3 @@ The book reeks of selection bias. While he starts with numerous disclaimers and 
 ## Conclusion
 
 I agree with Ghaemi that the stigmas surrounding mental illness need to be done away with. I think he raises some important points (intentionally and unintentionally) about mental illness, its diagnosis, and treatment, that deserve to be discussed. If any of these topics interest you, then the few hours it takes to read the book will not be wasted.
-

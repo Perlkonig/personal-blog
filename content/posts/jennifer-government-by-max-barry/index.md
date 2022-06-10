@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover2.jpg "Jennifer Government")
+![Book cover](cover2.jpg "Jennifer Government")
 
 Max Barry, *Jennifer Government* (Vintage, 2004).
 

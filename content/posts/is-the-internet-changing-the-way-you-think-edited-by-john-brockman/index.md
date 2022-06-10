@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover17.jpg "Is the Internet Changing the Way You Think?")
+![Book cover](cover17.jpg "Is the Internet Changing the Way You Think?")
 
 John Brockman (ed.), *Is the Internet Changing the Way You Think?: The Net’s Impact on Our Minds and Future* (New York: Harper Perennial, 2011).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover4-200x300.jpg "Androids")
+![Book cover](cover4-200x300.jpg "Androids")
 
 Philip K. Dick, *Do Androids Dream of Electric Sheep?* (New York: Ballantine Books, 1996).
 

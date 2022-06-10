@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover12.jpg "Wanderlust")
+![Book cover](cover12.jpg "Wanderlust")
 
 Rebecca Solnit, *Wanderlust: A History of Walking* (New York: Viking, 2000).
 

@@ -20,7 +20,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **[Blue Peg, Pink Peg](http://feeds.feedburner.com/bluepegpinkpeg) ([info](http://bluepegpinkpeg.com/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: every 2 weeks
 - Duration: 60 minutes
 - Content: family friendly
@@ -29,7 +29,7 @@ In this podcast, two couples discuss board games. Good humour and diverse viewp
 
 **[Boop](http://myextralife.com/ftp/radio/boop.xml) ([info](http://frogpants.com/podcasts/boop/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: Mondays and Thursdays
 - Duration: 30–40 minutes
 - Content: occasional mild language
@@ -38,7 +38,7 @@ In this video gaming podcast, [Scott Johnson (of Frogpants)](http://frogpants.co
 
 **![package_favorite](/images/package_favorite.png) [The Dice Tower](http://dicetower.coolstuffinc.com/rss) ([info](http://www.dicetower.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60–90 minutes
 - Content: family friendly
@@ -47,7 +47,7 @@ The ur-podcast; the granddaddy. If you enjoy boardgaming, then this is the one p
 
 **[DLC](http://feeds.5by5.tv/dlc) ([info](http://5by5.tv/dlc))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: 90–120 minutes
 - Content: occasional mild language
@@ -56,7 +56,7 @@ This is primarily a video game podcast, but it has a boardgaming segment at the 
 
 **![package_favorite](/images/package_favorite.png) [Flip the Table](http://flipthetable.libsyn.com/rss) ([info](http://tableflipsyou.blogspot.ca/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: monthly
 - Duration: 60 minutes
 - Content: family friendly
@@ -65,7 +65,7 @@ A hilarious show that reviews cheesy old boardgames. They end every episode wit
 
 **![package_favorite](/images/package_favorite.png) [Gamers With Jobs Conference Call](http://www.gamerswithjobs.com/taxonomy/term/408/0/feed) ([info](http://www.gamerswithjobs.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: very occasional strong language
@@ -74,7 +74,7 @@ This is a video game podcast with occasional discussions of board games. I reall
 
 **[Ludology](http://ludology.libsyn.com/rss) ([info](http://www.ludology.libsyn.com/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes (full episodes); 5–10 minutes (GameTek episodes)
 - Content: family friendly
@@ -83,7 +83,7 @@ As its name suggests, this is a scientific look at board games. How do they wor
 
 **[Pixels](http://feeds.feedburner.com/pixelsshow) ([info](http://frenchspin.com/category/pixels/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: every 2 weeks
 - Duration: 90 minutes
 - Content: occasional mild language
@@ -92,7 +92,7 @@ Another discussion of video gaming news.
 
 **[Plaid Hat Podcast](http://plaidhatpodcast.libsyn.com/rss) ([info](http://www.plaidhatgames.com/podcast))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: 1–2 weeks
 - Duration: 60–90 minutes
 - Content: family friendly
@@ -110,7 +110,7 @@ This super-long podcast talks about boardgaming and RPGs. I routinely skip the s
 
 **[The Spiel](http://thespiel.net/feed.xml) ([info](http://thespiel.net/))**
 
-- **Rating:** 1/3 
+- **Rating:** 1/3
 - Frequency: monthly
 - Duration: 2–3 hours
 - Content: family friendly

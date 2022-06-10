@@ -20,12 +20,12 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **![package_favorite](/images/package_favorite.png) [Current Geek](http://www.myextralife.com/ftp/radio/currentgeek.xml) ([info](http://frogpants.com/currentgeek/))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 60 minutes
 - Content: very occasional mild language
 
-Another [Frogpants ](http://frogpants.com/)show where Scott and Tom have various guests to discuss the week’s geek news. The pop quiz segment is the best.
+Another [Frogpants](http://frogpants.com/) show where Scott and Tom have various guests to discuss the week’s geek news. The pop quiz segment is the best.
 
 **![package_favorite](http://perlkonig.com/wp-content/uploads/2015/06//images/package_favorite.png) [Daily Tech News Show](http://feeds.feedburner.com/DailyTechNewsShow) ([info](http://www.dailytechnewsshow.com/))**
 
@@ -34,7 +34,7 @@ Another [Frogpants ](http://frogpants.com/)show where Scott and Tom have various
 - Duration: 45–60 minutes
 - Content: family friendly
 
-And another [Frogpants ](http://frogpants.com/)show! Tom brings on a rotation of guests and discusses current tech news. Tom does a great job of explaining complex topics and is very balanced in his approach.
+And another [Frogpants](http://frogpants.com/) show! Tom brings on a rotation of guests and discusses current tech news. Tom does a great job of explaining complex topics and is very balanced in his approach.
 
 **[InDesign Secrets](http://feeds.feedburner.com/IndesignSecrets) ([info](http://indesignsecrets.com/))**
 

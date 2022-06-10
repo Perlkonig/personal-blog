@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-300x300.jpg "Petroleum Geology")
+![Book cover](cover-300x300.jpg "Petroleum Geology")
 
 Norman J. Hyne, *Nontechnical Guide to Petroleum Geology, Drilling and Production* (Tulsa: Pennwell, 2001).
 

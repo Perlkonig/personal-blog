@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover-150x150.jpg "Remembering our Childhood")
+![Book cover](cover-150x150.jpg "Remembering our Childhood")
 
 Karl Sabbagh, *Remembering Our Childhood: How Memory Betrays Us* (Oxford University Press, 2011).
 

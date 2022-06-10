@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](phlebas-300x300.jpg "Consider Phlebas")
+![Book cover](phlebas-300x300.jpg "Consider Phlebas")
 
 Iain M. Banks, *Consider Phlebas* (London: Orbit, 1988).
 

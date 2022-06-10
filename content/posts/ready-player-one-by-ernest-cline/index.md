@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover2.jpg "Ready Player One")
+![Book cover](cover2.jpg "Ready Player One")
 
 Ernest Cline, *Ready Player One* (New York: Crown Publishers, 2011).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover1-197x300.jpg "Jerusalem")
+![Book cover](cover1-197x300.jpg "Jerusalem")
 
 Simon Sebag Montefiore, *Jerusalem: The Biography* (New York: Alfred A. Knopf, 2011).
 

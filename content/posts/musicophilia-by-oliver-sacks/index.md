@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover21.jpg "Musicophilia")
+![Book cover](cover21.jpg "Musicophilia")
 
 Oliver Sacks, *Musicophila: Tales of Music and the Brain* (New York: Alfred A Knopf, 2008).
 

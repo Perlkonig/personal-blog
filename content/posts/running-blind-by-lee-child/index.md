@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover7-300x300.jpg "Running Blind")
+![Book cover](cover7-300x300.jpg "Running Blind")
 
 Lee Child, *Running Blind* (New York: Berkley Books, 2005).
 

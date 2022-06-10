@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 3/5
 
-![](cover3-203x300.jpg "How I Killed Pluto")
+![Book cover](cover3-203x300.jpg "How I Killed Pluto")
 
  Mike Brown, *How I Killed Pluto and Why It Had It Coming* (New York: Spiegel & Grau, 2010).
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover-209x300.jpg "The Martian Chronicles")
+![Book cover](cover-209x300.jpg "The Martian Chronicles")
 
  Ray Bradbury, *The Martian Chronicles* (New York: Avon, 2011).
 

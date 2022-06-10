@@ -22,7 +22,7 @@ Again, let me know if you have any questions, and don’t hesitate to make sugge
 
 **[Le rendez-vous Tech](http://feeds2.feedburner.com/lerendezvoustech) ([info](http://frenchspin.com))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: every 2 weeks
 - Duration: 90 minutes
 - Content: occasional mild language
@@ -33,7 +33,7 @@ Patrick Beja brings on various guests to discuss current tech-related events.
 
 **[Digitalia](http://digitalia.fm/digitalia.xml) ([info](http://digitalia.fm/))**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekly
 - Duration: 90 minutes
 - Content: occasional mild language
@@ -42,7 +42,7 @@ Four friends sit around and discuss tech news. They also occasionally do comment
 
 **![package_favorite](/images/package_favorite.png) [Lezioni di musica](http://www.radio.rai.it/radio3/podcast/rssradio3.jsp?id=5539) ([info](http://www.radio3.rai.it/dl/radio3/programmi/PublishingBlock-4e02a2ec-4046-486f-b7b2-54b8a5ab86ab.html))**
 
-- **Rating:** 3/3 
+- **Rating:** 3/3
 - Frequency: weekly
 - Duration: 30 minutes
 - Content: family friendly
@@ -51,7 +51,7 @@ RAI’s Radio 3 show about musicology! Each episode takes a particular genre, co
 
 **[Radio3Scienza](http://www.radio.rai.it/radio3/podcast/rssradio3.jsp?id=273) (info)**
 
-- **Rating:** 2/3 
+- **Rating:** 2/3
 - Frequency: weekdays
 - Duration: 30 minutes
 - Content: family friendly

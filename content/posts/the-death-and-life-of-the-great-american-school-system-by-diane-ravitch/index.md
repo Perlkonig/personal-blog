@@ -7,7 +7,7 @@ tags:  [3star,5star,Diane Ravitch,education,Mark Bauerline,technology,Todd Oppen
 author: aaron
 ---
 
-![](cover14.jpg "Great American School System")
+![Great American School System](cover14.jpg "Great American School System")
 
 **Rating:** 3/5
 
@@ -17,7 +17,7 @@ Well I’ve decided to stop reading books about education for a while. I just ge
 
 I also won’t recommend the book unless it’s something you’re really interested in. The book is actually poorly written. It could really use some hardcore structural editing. I was surprised a relatively major publisher would print something this potentially important in its current state.  I’ve read two other books on the educational system last year that are far better written and provide better value for your time.
 
-![](cover15.jpg "The Dumbest Generation")
+![The Dumbest Generation](cover15.jpg "The Dumbest Generation")
 
 **Rating:** 5/5
 
@@ -25,7 +25,7 @@ Mark Bauerline, *The dumbest generation: How the digital age stupefies young Ame
 
 The title is intentionally dramatic. It is a reasoned look at the state of education in America. It’s a relatively quick read but very powerful. While he states his arguments in no uncertain terms, his approach is still very balanced.
 
-![](cover16.jpg "The Flickering Mind")
+![The Flickering Mind](cover16.jpg "The Flickering Mind")
 
 **Rating:** 5/5
 

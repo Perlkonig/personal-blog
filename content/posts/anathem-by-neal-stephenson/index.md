@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![Anathem](cover-199x300.jpg)
+![Anathem book cover](cover-199x300.jpg)
 
 Neal Stephenson, *Anathem* (New York, NY: William Morrow, 2008).
 

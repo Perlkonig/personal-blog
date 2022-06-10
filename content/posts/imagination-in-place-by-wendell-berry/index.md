@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 5/5
 
-![](cover20-201x300.jpg "Imagination in Place")
+![Book cover](cover20-201x300.jpg "Imagination in Place")
 
 Wendell Berry, *Imagination in Place* (Berkeley, CA: Counterpoint Press, 2010).
 

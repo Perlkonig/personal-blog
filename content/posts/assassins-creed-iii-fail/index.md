@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 2/5
 
-![](cover-234x300.jpg "Assassin's Creed III")
+![Cover](cover-234x300.jpg "Assassin's Creed III")
 
 This past weekend I had the opportunity of visiting with a brother- and sister-in-law, their daughter, and their newborn son. My brother-in-law also went out and bought [Assassin’s Creed III](http://www.metacritic.com/game/playstation-3/assassins-creed-iii) (AC3)
 
@@ -30,11 +30,16 @@ Combat was not improved at all. If anything it was simpler and more boring. Yes 
 There’s unfortunately lots to say here.
 
 1. The game was booooring and simply not fun. There was no excitement! Brotherhood had good stealth missions; Revelations had parachute assassinations in a sequence that ended with combat while in free-fall; AC3 had nothing even close. 1. The stealth missions were lame. I recently played [Deus Ex: Human Revolution](http://www.deusex.com/). *That’s* how you do stealth missions. You need to give the player some degree of strategic depth.
+
 2. The race missions were rage inducing! The final boss battle: the worst such race followed by a no-different-from-any-other-battle button masher. It was the very definition of anti-climactic.
+
 3. Oh, and my favourite were the breathtakingly exciting missions between cut scenes where you were instructed to walk some stupidly short distance from point A to point B, or to escort somebody some stupidly short distance from point A to point B, or to press a button in the middle of a cinematic to finally end it (more below).
-2. The game was super, super short. We finished the entire story line (including multiple retries of some extraordinarily frustrating missions) in about 20 hours. There might have been lots of side-quest content, but there was zero motivation to pursue them. Why amass money if there’s nothing to spend it on? Why include the whole homestead customization system (which was never fully explained in game, I must add—we never did figure out how to hire artisans) if it has no meaningful affect on how you play the game?
-3. The naval system, while novel, was really nothing. You have a whopping three speeds (including full stop) and a few guns. I never saw any in-game information that led me to believe I could upgrade or otherwise customize my ship. Sure, they say when you first get it that you can add guns, but they never tell you how, and there’s never any need. There are only two mandatory naval missions in the main story line (if I remember correctly), and we completed them on the first try.
-4. My biggest complaint goes back to my first one, and that is that the game was hardly a game. It was more like an interactive movie. I am all for great visuals and cinematic cut scenes. I love them. But they don’t make the game. Ubisoft seems to think that you turn a movie into a game by sporadically giving you control, but they never give you control when it matters, when it can affect the story. I’m stuck walking down the hallway to move to the next scene, or a scene tells me to press a certain button (usually when I have my knife at my opponent’s throat), at which point I strike the killing blow, but it’s not like I have a choice. It’s not like I can spare his life. So why bother me with the prompt? Just do it already!
+
+4. The game was super, super short. We finished the entire story line (including multiple retries of some extraordinarily frustrating missions) in about 20 hours. There might have been lots of side-quest content, but there was zero motivation to pursue them. Why amass money if there’s nothing to spend it on? Why include the whole homestead customization system (which was never fully explained in game, I must add—we never did figure out how to hire artisans) if it has no meaningful affect on how you play the game?
+
+5. The naval system, while novel, was really nothing. You have a whopping three speeds (including full stop) and a few guns. I never saw any in-game information that led me to believe I could upgrade or otherwise customize my ship. Sure, they say when you first get it that you can add guns, but they never tell you how, and there’s never any need. There are only two mandatory naval missions in the main story line (if I remember correctly), and we completed them on the first try.
+
+6. My biggest complaint goes back to my first one, and that is that the game was hardly a game. It was more like an interactive movie. I am all for great visuals and cinematic cut scenes. I love them. But they don’t make the game. Ubisoft seems to think that you turn a movie into a game by sporadically giving you control, but they never give you control when it matters, when it can affect the story. I’m stuck walking down the hallway to move to the next scene, or a scene tells me to press a certain button (usually when I have my knife at my opponent’s throat), at which point I strike the killing blow, but it’s not like I have a choice. It’s not like I can spare his life. So why bother me with the prompt? Just do it already!
 
 ## Conclusion
 

@@ -9,7 +9,7 @@ author: aaron
 
 **Rating:** 4/5
 
-![](cover10-194x300.jpg "Guns, Germs, and Steel")
+![Book cover](cover10-194x300.jpg "Guns, Germs, and Steel")
 
 Jared Diamond, *Guns, Germs, and Steel* (W. W. Norton, 1997).
 
