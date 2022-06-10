@@ -1,7 +1,6 @@
 baseURL = "https://perlkonig.com"
 title = "Perlkönig"
 theme = "hugo-theme-bootstrap" # install via git submodule
-# theme = "github.com/razonyang/hugo-theme-bootstrap" # install via hugo module
 copyright = "Copyright © 2006-{year} Aaron Dalton. All Rights Reserved."
 
 # Multilingual mode
@@ -10,7 +9,7 @@ defaultContentLanguage = "en"
 #disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # Uncomment in order to disable one or more language
 
 # Pagination
-paginate = 10
+paginate = 5
 # paginatePath = "page"
 
 # Disqus
@@ -31,8 +30,8 @@ pygmentsUseClasses = true
   hrefTargetBlank = true
 
 [mediaTypes]
-  [mediaTypes."application/manifest+json"]
-    suffixes = ["json"]
+#  [mediaTypes."application/manifest+json"]
+#    suffixes = ["json"]
 
 [outputFormats]
 #  [outputFormats.MANIFEST]
