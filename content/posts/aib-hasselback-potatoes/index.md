@@ -1,36 +1,10 @@
 ---
-
 title: 'AiB: Hasselback Potatoes'
 slug: aib-hasselback-potatoes
-
 date: 2011-09-20
-
-
-
-
-
-
-
-
-
-
-
 categories:  [Food]
 tags:  [Adventures in Baking]
 author: aaron
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 [Part of the Adventures in Baking (AiB) series.](../adventures-in-baking-aib-overview "Adventures in Baking (AiB): Overview")
@@ -42,4 +16,3 @@ I made crockpot roast and potatoes tonight. It was also my first attempt at grav
 Actual yield: N/A
 
 Verdict: Nice switch from straight baked potatoes. Tasty!
-

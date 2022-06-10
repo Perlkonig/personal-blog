@@ -1,5 +1,6 @@
 public/
 node_modules/
+resources/_gen/
 themes/hugo-theme-bootstrap
 .hugo_build.lock
 hugo_stats.json
