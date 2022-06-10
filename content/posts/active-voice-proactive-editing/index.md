@@ -11,7 +11,7 @@ author: aaron
 *This is a very brief summary of a conference presentation
 I gave at the 2018 Editors Canada conference in Saskatoon.*
 
-===
+<!--more-->
 
 The challenge most in-house editors face is that by the time documents get to them, their ability to influence is limited. If a project has structural flaws, there’s rarely sufficient time to address them. Where I work (the [Alberta Energy Regulator](https://www.aer.ca)), in an attempt to improve the quality of the writing *before* it comes to the editing team, we began exploring ways to help writers before they put pen to paper – or fingers to keyboard.
 

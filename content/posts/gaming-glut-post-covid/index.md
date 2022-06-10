@@ -9,7 +9,7 @@ author: aaron
 
 After a long hiatus, I was finally able to go see my sister in BC and play games with her kids. My records indicated that I hadn't played a board game since February 2020! So I was super excited not just to visit with family, but to also play as many games as we could squeeze in. There's never enough time, and there were a number of favourites we couldn't get to, but we did get through a fair bit.
 
-===
+<!--more-->
 
 According to my records, we played 20 games over 60 times, not counting just regular old card games. I use an app called [ScorePal](https://scorepalapp.com) to log my plays. It hasn't been updated in a while, but it syncs everything with [BoardGameGeek](https://boardgamegeek.com) and is a great way to log and analyze plays. The games were played by me and kids between 14 and 18 years old.
 

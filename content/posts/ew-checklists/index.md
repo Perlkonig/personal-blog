@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=6277), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 I’ve spent most of my career in-house. Currently I work with dozens of individual authors from all across the organization on a diverse array of document types. Though our editorial team works as a pool, a certain degree of specialization is unavoidable. We need to be able to record and share institutional knowledge amongst ourselves and also bring new editors up to speed quickly. Whether you’re in-house or freelance, one way of sharing knowledge is through checklists.
 

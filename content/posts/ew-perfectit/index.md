@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=9587), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 Disclaimer: I received a free year of access to [The Chicago Manual of
 Style Online](https://www.chicagomanualofstyle.org/home.html) (CMOS *Online*)

@@ -9,7 +9,7 @@ author: aaron
 
 I've finally found a basic butter chicken sauce recipe that I've tweaked and am very happy with. I love how flexible it is. Adjust to taste! I used it to make butter chicken meatballs for a work event. I liked them so much I made them at least three or four times over the holidays.
 
-===
+<!--more-->
 
 ### Sauce
 

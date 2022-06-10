@@ -9,7 +9,7 @@ author: aaron
 
 Finally took a summer vacation and went and visited some family in BC. Got a little gaming done the first week, got a lot done the second. Here's what we played.
 
-===
+<!--more-->
 
 According to my records (I now use [ScorePal on Android](https://play.google.com/store/apps/details?id=com.hfd.scorepal), which syncs with BoardGameGeek), we played 19 games 52 times, not counting just regular old card games. On my very last day, with my sister's kids, we actually got through 12 different games. And there were many favourites we just didn't have time to get to. So many games, so little time!!
 

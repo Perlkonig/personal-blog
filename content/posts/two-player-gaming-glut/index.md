@@ -9,7 +9,7 @@ author: aaron
 
 I had a chance to spend a few days with some cousins, and that meant some dedicated hours of two-player gaming. Most of the games I discuss here can be played by more than two players, but my reviews will focus on the two-player experience. I'm just going to list them in alphabetical order.
 
-===
+<!--more-->
 
 ## 7 Wonders Duel
 

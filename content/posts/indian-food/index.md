@@ -9,7 +9,7 @@ author: aaron
 
 I've been trying to be more adventurous in my cooking lately. It was getting to the point where there were really only a handful of dishes I could reliably make. It gets boring! I'm also trying to find more meals with fewer carbs and more meals with leftovers I can bring to work.
 
-===
+<!--more-->
 
 It has taken a few years, but I've really started to enjoy the flavours of Indian food (I want to put cumin seeds in everything). I still don't like things to be too hot, but that's a benefit of home cooking&mdash;you can adjust the heat to your liking but still keep all the flavour. And spicy food is just more filling.
 

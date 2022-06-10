@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=5946), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 ## Background
 

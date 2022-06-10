@@ -10,7 +10,7 @@ author: aaron
 
 *This is the second in a series of articles on technology as it relates to editing.*
 
-===
+<!--more-->
 
 Nobody’s perfect, but smart use of technology can get us pretty close. There are a number of resources out there that can make your editing life easier and reduce your error rate.
 

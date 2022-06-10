@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=6858), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 UX stands for “user experience.” It’s the discipline that looks at how users
 navigate (usually digital) interfaces and tries to maximize fluency.

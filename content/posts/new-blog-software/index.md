@@ -9,7 +9,7 @@ author: aaron
 
 To further reduce my hosting costs (which were already quite low), I decided to move away from [WordPress](http://wordpress.org) (which requires a relatively expensive database backend) and move to a flat-file system&mdash;specifically, [Grav](https://getgrav.org/).
 
-===
+<!--more-->
 
 Benefits:
 

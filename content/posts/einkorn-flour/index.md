@@ -9,7 +9,7 @@ author: aaron
 
 [I’ve read a few things about einkorn flour](../wheat-belly-by-william-davis), so have kept my eye out for it. I happened across some BC-grown einkorn in my local organic food store. I thought I’d give it a try. The package insisted it could used one for one for regular whole wheat flour. The only way to find out is to try!
 
-===
+<!--more-->
 
 I started with [my favourite whole wheat bread recipe](../recipes-more-bread). While everything turned out OK, I’m afraid the assertions on the package don’t hold.
 

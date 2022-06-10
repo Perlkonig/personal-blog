@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=6373), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 I had occasion recently to teach someone how to write effective editorial comments. It was an interesting exercise as it forced me to articulate principles I had absorbed over many years, some learned from painful experience. Here’s what came to mind:
 

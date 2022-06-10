@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=6136), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 I used to speak of plain language in terms of it being “the right thing to do” and also the most effective thing to do from a utilitarian perspective (i.e., it gets results). But then I came across Russell Willerton’s book [*Plain Language and Ethical Action: A Dialogic Approach to Technical Content in the 21st Century*](https://www.amazon.ca/Plain-Language-Ethical-Action-Technical/dp/0415741041), which completely changed the way I approach teaching plain language.
 

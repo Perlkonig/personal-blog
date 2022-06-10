@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=9625), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 ## What Is Plain Language? Part 3: When You Assume …
 

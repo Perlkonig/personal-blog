@@ -10,7 +10,7 @@ author: aaron
 
 *This is the first in a series of articles on technology as it relates to editing.*
 
-===
+<!--more-->
 
 Whether you work in-house or freelance, chances are you'll eventually be called upon to work while on vacation or otherwise travelling. Fortunately, editing is the sort of work that can be done remotely with relative ease.
 

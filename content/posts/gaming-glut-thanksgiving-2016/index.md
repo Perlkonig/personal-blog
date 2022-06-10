@@ -9,7 +9,7 @@ author: aaron
 
 I got away last week and was able to spend time with a bunch of nieces and nephews (ages 9&ndash;18). I brought *three suitcases* of games and we got through most of them. The total ended up being 25 individual games played over 60 times. Here's an alphabetical list of games we played, including a link to Board Game Geek (where you can get more information on the game) and a count of the number of times we played. This is a long post, so dig in.
 
-===
+<!--more-->
 
 ## Where can I buy these games?
 

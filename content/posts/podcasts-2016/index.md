@@ -9,7 +9,7 @@ author: aaron
 
 Just finished a 26-hour (return) road trip that was saved only by the many, many podcasts I had on hand. Then I realized I hadn't talked about my podcasts yet this year. So here we go! Instead of breaking up my podcast list over multiple posts as I've done in previous years, I'm going to just list them all 78 of them in a single table that you can sort and look through.
 
-===
+<!--more-->
 
 ## How do I listen?
 

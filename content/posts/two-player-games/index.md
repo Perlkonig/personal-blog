@@ -9,7 +9,7 @@ author: aaron
 
 Someone at work asked me for some good two-player games. Since this is a whole topic in itself, I thought I'd write a blog post about it. It's a long one, so get comfortable.
 
-===
+<!--more-->
 
 <a name="top"></a>
 There are three broad categories of games I want to discuss:

@@ -11,7 +11,7 @@ author: aaron
 
 A huge thank you to the FallCon committee and volunteers for making the convention possible!
 
-===
+<!--more-->
 
 FallCon offers a number of different experiences:
 

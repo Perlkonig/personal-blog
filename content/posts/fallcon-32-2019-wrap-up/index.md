@@ -11,7 +11,7 @@ author: aaron
 
 Before going further, let me just say how great the FallCon team is. Every team member I interacted with was happy to be there. Every game host taught with patience and enthusiasm. From Brent's warm welcome at the door that first night to the "see you next year" as I left Sunday afternoon, everybody was smiling and helpful. And the fellow attendees were similarly great. I've yet to have an unpleasant experience at the table (*knocks on wood*), and you start to recognize people from year to year. The venue is also great&mdash;easy to get to, plenty of room, and a few food options nearby. It's just a great way to spend a weekend.
 
-===
+<!--more-->
 
 I'm a planner, and I usually go to FallCon solo, so the hosted events are my favourite. I know exactly what and when I'm going to play, and somebody else teaches the game. FallCon also gives me a chance to play games I can't usually get to the table. Since I play mostly with my nieces and nephews or at family gatherings, I play a lot of lighter games&mdash;and I *do* enjoy them, don't get me wrong&mdash;but I really do love a solid medium-weight, 2&ndash;4 hour euro game. It's just really hard to get them to the table. This year there were plenty to choose from.
 

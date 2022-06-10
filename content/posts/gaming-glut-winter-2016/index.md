@@ -9,7 +9,7 @@ author: aaron
 
 Spent time with some in-laws over Christmas and the new year and got some gaming in. Here's what we played.
 
-===
+<!--more-->
 
 ## Aside
 

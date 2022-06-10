@@ -9,7 +9,7 @@ author: aaron
 
 After our bunny Sport died, his brother, Mr. Floopy, needed lots more personal attention. (Rabbits are very social animals. Single rabbits need at least 2 hours a day of interaction.) Floopy also happens to enjoy watching TV. The result has been me being "forced" (Ouch! Stop twisting my arm!) to sit and groom Floopy most weeknights while watching Netflix. So I did more binge watching than usual last year. A few people had asked for recommendations, so I thought I'd just do a quick list of the shows I've seen and mostly liked. I'm not going to talk about stuff I ended up not liking. Enjoy!
 
-===
+<!--more-->
 
 If you want to jump to a particular genre, click below:
 

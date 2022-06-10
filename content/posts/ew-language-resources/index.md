@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](http://blog.editors.ca/?p=5946), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 I teach plain language workshops, and I was recently approached by a non-native English speaker. His language skills were excellent. He said he learned English mostly through standardized exams, and he felt there was a gap between the mode of English he was taught and the plain language approach I was preaching. His question was this: Did I know of any resources that would help people who learned English in a professional context to transition into more natural speaking patterns?
 

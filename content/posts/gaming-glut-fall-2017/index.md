@@ -9,7 +9,7 @@ author: aaron
 
 Had the privilege of looking after a cousin's kids for a few weeks over September and October. They live close to my sister, too, so I also get to spend extra time with them. I was still working, and now that the kids are older there was much driving around, so things were really busy, but I made sure to bring lots of games because I knew there would be at least a few days where we could game ourselves sick. I brought maybe half my collection. It's hard to say. Two huge suitcases and a box full.
 
-===
+<!--more-->
 
 According to my records, we played 29 games 100 times, not counting just regular old card games. On my very last day, with my sister's kids, we actually got through 10 different games in one day.
 

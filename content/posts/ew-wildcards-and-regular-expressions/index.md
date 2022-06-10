@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=7297), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 Recently, I’ve seen some problems involving global text edits that were easily
 solved with Microsoft Word’s **Advanced Find and Replace** feature. Spending

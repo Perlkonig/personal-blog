@@ -8,7 +8,7 @@ author: aaron
 
 **This article was [originally published on *The Editors' Weekly*](https://blog.editors.ca/?p=7022), the official blog of the [Editors' Association of Canada](http://editors.ca).**
 
-===
+<!--more-->
 
 *This post is part of a series of case studies by and for in-house editors. The
 focus of this series is on the personal experiences and various roles of

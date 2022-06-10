@@ -8,7 +8,7 @@ author: aaron
 
 I don't know why I never thought of it before, but you *can* go and buy egg whites in a carton at the store. How do they work when making meringues? Actually, they work really well!
 
-===
+<!--more-->
 
 Perhaps our favourite dessert is [angel food cake](../recipes-pizza-brioche-and-angel-food). I had run out of frozen egg whites but we needed a cake. Someone mentioned store-bought egg whites, which I had never considered, so we tried an experiment. It turns out that the half-litre cartons are exactly 500 g, which is perfect for a single 10&Prime; angel food cake.
 

@@ -9,7 +9,7 @@ author: aaron
 
 Some friends and I were complaining that we never had time to play games. I commonly say that one has to "*make* time for games," so I decided to organize a weekend where we would just block the time off and play as many games as want. Since there's already [a big boardgame convention in the fall](https://www.fallcon.com/), I thought booking one in the spring would be best. Since my birthday is in May, that was the month we chose. Not everyone could make it, but we got some playtime in regardless. We played Friday night and Saturday afternoon and evening. Here's what we played, in alphabetical order.
 
-===
+<!--more-->
 
 ## 7 Wonders Duel
 
