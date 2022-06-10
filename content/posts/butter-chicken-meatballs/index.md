@@ -60,4 +60,4 @@ Preparation is simple: combine everything in a bowl, shape into balls of desired
 
 Now just put the meatballs in a greased crockpot, cover with the sauce, and cook on low for 3&ndash;4 hours. The internal temperature of the meatballs (whether chicken or turkey) should be 165&deg;F.
 
-Serve with rice and any number of vegetable sides I talk about in [my other posts on Indian cooking](/tag:Indian).
+Serve with rice and any number of vegetable sides I talk about in [my other posts on Indian cooking](/tags/indian).

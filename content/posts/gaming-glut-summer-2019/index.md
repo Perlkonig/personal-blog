@@ -50,7 +50,7 @@ First just a list and then the notes.
 
 ## Notes
 
-Most of these games have also been discussed [in previous posts](/category:Games), so some will not have as much detail. You can search the previous posts for more information on a particular game you're interested in.
+Most of these games have also been discussed [in previous posts](/categories/games), so some will not have as much detail. You can search the previous posts for more information on a particular game you're interested in.
 
 ### Airlines Europe
 

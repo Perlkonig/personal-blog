@@ -30,7 +30,7 @@ I realized I've never discussed this on the blog before. Maybe one day I'll crea
 
   Board games also teach kids important skills like strategic planning (how am I going to approach the game overall), tactical response (what am I going to do now that my opponent took the card I wanted), and how to win and lose gracefully. And of course different games teach other specific skills like memory, pattern recognition, dexterity, etc.
 
-I realize I'm more enamoured with board games than most, but I think every family could benefit from having a few good games in their closet. Designer games are available more widely than ever before. Hopefully this list and [other similar posts I've made on this blog](/category:Games) will help you find games you and your family will love.
+I realize I'm more enamoured with board games than most, but I think every family could benefit from having a few good games in their closet. Designer games are available more widely than ever before. Hopefully this list and [other similar posts I've made on this blog](/categories/games) will help you find games you and your family will love.
 
 ## And now, the games
 

@@ -28,11 +28,11 @@ I’ve divided the model into three sections:
 * Implementation
 * Continuous improvement
 
-[![A model for developing writer training for staff writers](./pyramid.png?cropResize=350,432 "A model for developing writer training for staff writers")](./pyramid.png)
+[![A model for developing writer training for staff writers](./pyramid.png "A model for developing writer training for staff writers")](./pyramid.png)
 
-##Foundation
+## Foundation
 
-###Data, Data and More Data
+### Data, Data and More Data
 
 Before doing anything, you need to understand the problem
 you’re trying to fix. Ideally, you want to answer questions like the following:
@@ -56,7 +56,7 @@ that. There are still informal, ad hoc approaches you can take:
 What’s important is that you gather as much hard data as you
 can.
 
-###Leadership Support
+### Leadership Support
 
 Without the support of your leaders, it will be impossible
 to establish a sustainable training program. This is the primary reason you
@@ -64,7 +64,7 @@ need so much data. Never go to your executive saying, “I want to do X” or �
 think Y would be a good idea.” You want to say instead, “The data show that we
 should do X or Y.”
 
-###Culture of Learning
+### Culture of Learning
 
 The odds of your new program surviving long term are greatly
 improved if learning is already a part of your organizational culture. If
@@ -74,9 +74,9 @@ training can coordinate. And if there is no such culture in your organization,
 your time might be best spent building one. Again, finding like-minded
 colleagues and working together is the best approach.
 
-##Implementation
+## Implementation
 
-###Scope and Priorities
+### Scope and Priorities
 
 Before you can start designing the course, you need to be
 clear about your goals and resources. Do you just want to cover the basics in a
@@ -88,7 +88,7 @@ were sometimes two days long, but once we established that our goal was to get
 the principles of plain language in front of as many employees as possible, we
 realized that a half-day course centred on the basics was the most useful.
 
-###Real-World Examples
+### Real-World Examples
 
 The next step is to build a repository of real-world example
 sentences and documents that illustrate the issues you’re hoping to fix. As
@@ -99,23 +99,23 @@ Try to be fair across areas of the organization, so find
 examples from law, human resources, scientists and leaders. Don’t pick on
 anyone exclusively. And anonymize where necessary.
 
-###Design
+### Design
 
 With a clear idea of the scope and goals of the course, and a bank of examples, you can now develop the materials for the course. There's not room here for me to go into what *I've* done, but I'm also not a trained educator. There's more than one way to approach this. Basically, I developed a workbook for them to leave the class with, and the course is us discussing a principle and then reviewing and correcting sample sentences.
 
-##Continuous Improvement
+## Continuous Improvement
 
 These are the things you’re going to do over and over again
 as you teach the course.
 
-###Deliver
+### Deliver
 
 Now it’s time to actually teach! Ideally, one of the editors
 will be willing to do this. Internal staff are the most knowledgeable about the
 organization and its employees and about what the biggest challenges are. They
 are best situated to fully tailor a course to your unique situation.
 
-###Post-Session Notes
+### Post-Session Notes
 
 Take notes after every class. At least record the dates and
 number of attendees. But also review any questions that came up or areas that
@@ -123,7 +123,7 @@ you felt didn’t go so well. Maybe a participant asked a question you didn’t
 anticipate or highlighted an infelicity in your course materials. Adjust your
 delivery and course design as appropriate.
 
-###Follow-Up Surveys
+### Follow-Up Surveys
 
 You or the group managing learning should also do follow-up surveys. It’s vital that you hear from your students.
 
@@ -136,7 +136,7 @@ You or the group managing learning should also do follow-up surveys. It’s vita
 
 We have made a lot of changes thanks to student feedback.
 
-###More Data
+### More Data
 
 And you need to keep tracking your stats. While it is
 difficult to link large-scale survey results to one specific course, you want
@@ -148,7 +148,7 @@ projects that you think did plain language well (and maybe not so well) and how
 they were received. Are you seeing an improvement in the writing generally? Are
 you finding authors easier to work with?
 
-##Lessons Learned
+## Lessons Learned
 
 * Try to keep the interaction upbeat and positive. I avoid terms like “good” and “bad” writing and focus on “effective” vs. “less effective.”
 * Keep things interactive. I make sure they know up front that the first hour is me talking a lot but that there will be more interaction afterwards.
@@ -157,20 +157,20 @@ you finding authors easier to work with?
 * Put an answer key in the workbook. Not everybody will work on all the examples, so make it possible for them to refer back later and see what you said for each one.
 * Be encouraging and realistic. Perfecting your writing is a career-long endeavour. In the back of the book, I give them a list of all the things we talked about and tell them to put it up on their wall and just pick one thing. Work on that one thing for as long as is reasonable given the amount of writing they do. When they feel comfortable with it, pick something else. Over time, they will improve.
 
-##Benefits
+## Benefits
 
-###To You
+### To You
 
 * When working in-house, there are certain politics involved in getting promotions. Building and delivering this training is a great way to highlight your expertise and demonstrate your value.
 * It looks good on a resumé and can lead to expanded opportunities.
 * Developing and delivering training adds variety to your workday.
 
-###To the Team
+### To the Team
 
 * It raises the profile of the editing team. Editors typically have to do more work than others to establish their bona fides. The content of the course and how you deliver it are opportunities to build strong professional relationships.
 * Those strong relationships lead to smoother and more productive collaborations. As a result of the training, document quality has improved generally, and authors are more willing to engage early and seriously consider editorial comments.
 
-###To the Organization and Stakeholders
+### To the Organization and Stakeholders
 
 * A/B-style focus tests of specific documents (original vs. plain language versions) have definitively shown that people prefer and respond better to plain language documents.
 * When stakeholders see that you’re trying to communicate clearly, it builds trust. This is good for everyone.

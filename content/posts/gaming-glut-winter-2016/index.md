@@ -43,7 +43,7 @@ First just a list and then the notes.
 
 ## Notes
 
-Most of these games have been discussed in detail [in previous posts](/category:Games) (my collection doesn't grow *that* fast). Below I only discuss the games I haven't discussed before.
+Most of these games have been discussed in detail [in previous posts](/categories/games) (my collection doesn't grow *that* fast). Below I only discuss the games I haven't discussed before.
 
 ### Battle Line
 

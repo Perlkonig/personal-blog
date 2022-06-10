@@ -40,7 +40,7 @@ First just a list and then the notes.
 
 ## Notes
 
-Many of these games have also been discussed [in previous posts](/category:Games), so some will not have as much detail. You can search the previous posts for more information on a particular game you're interested in. Of course, the Board Game Geek link will give you more information than you could ever want.
+Many of these games have also been discussed [in previous posts](/categories/games), so some will not have as much detail. You can search the previous posts for more information on a particular game you're interested in. Of course, the Board Game Geek link will give you more information than you could ever want.
 
 ### 6 Nimmt!
 

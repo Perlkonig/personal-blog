@@ -41,7 +41,87 @@ If you want to listen on the go, then find a podcatching app for your platform t
 
 Click on a header to sort. Shift+Click if you want to sort on multiple columns.
 
-[ti file=bp-2016.csv raw="true" /]
+{{< csv-table caption="Podcasts as of 2016" header=true >}}
+Name,Website,Feed,Rating,Category,Frequency,Length,Warnings
+[99 Invisible](#99pi),[(website)](http://99percentinvisible.org/), [(feed)](http://feeds.99percentinvisible.org/99percentinvisible),2,Stories,weekly,30,
+A State of Trance Official Podcast,[(website)](http://www.astateoftrance.com/podcasts/), [(feed)](http://podcast.armadamusic.com/asot/podcast.xml),1,Music,weekly,30,Language
+[Alice Isn't Dead](#alice),[(website)](http://www.nightvalepresents.com/aliceisntdead/), [(feed)](http://aliceisntdead.libsyn.com/rss),3,Fiction,weekly,30,Language/Themes
+Astronomy Cast,[(website)](http://www.astronomycast.com/), [(feed)](http://feeds.feedburner.com/astronomycast),3,Science,weekly,30,
+AVICII - LEVELS PODCAST,, [(feed)](http://officialaviciipodcast.podtree.com/feed/podcast/),1,Music,monthly,60,Language
+"Blue Peg, Pink Peg",[(website)](https://bluepegpinkpeg.com/), [(feed)](http://feeds.feedburner.com/bluepegpinkpeg),2,Gaming,semimonthly,60,
+Brain Science Podcast,[(website)](http://brainsciencepodcast.com/), [(feed)](http://brainsciencepodcast.libsyn.com/rss),1,Science,monthly,60,
+CBC News: Hourly Edition,[(website)](http://www.cbc.ca/radio/podcasts/newscasts/cbc-news-hourly-edition/), [(feed)](http://www.cbc.ca/podcasting/includes/hourlynews.xml),1,News,hourly,10,
+[Common Sense with Dan Carlin](#commonsense),[(website)](http://www.dancarlin.com/common-sense-home-landing-page/), [(feed)](http://feeds.feedburner.com/dancarlin/commonsense?format=xml),3,Opinion,sporadic,60,
+[Coverville](#coverville),[(website)](http://coverville.com/),[(feed)](http://feeds.feedburner.com/CovervilleAAC),4,Music,weekly,90,
+[Criminal](#criminal),[(website)](http://thisiscriminal.com/), [(feed)](http://feeds.feedburner.com/CriminalShow),4,Stories,semimonthly,30,Themes
+Current Geek,[(website)](http://frogpants.com/podcasts/currentgeek/), [(feed)](http://www.myextralife.com/ftp/radio/currentgeek.xml),3,Tech/Geek,weekly,60,
+Daily Tech News Show,[(website)](http://www.dailytechnewsshow.com/), [(feed)](http://feeds.feedburner.com/DailyTechNewsShow),3,Tech/Geek,daily,45,
+[Dan Carlin's Hardcore History](#hardcore),[(website)](http://www.dancarlin.com/), [(feed)](http://feeds.feedburner.com/dancarlin/history?format=xml),4,History,sporadic,60&ndash;300,Themes
+Digitalia,[(website)](http://digitalia.fm/), [(feed)](http://digitalia.fm/digitalia.xml),1,Tech/Geek,weekly,90,
+DLC,[(website)](http://5by5.tv/dlc), [(feed)](http://feeds.5by5.tv/dlc),3,Gaming,weekly,90&ndash;120,
+[Film Sack](#filmsack),[(website)](http://filmsack.com/), [(feed)](http://www.myextralife.com/ftp/radio/filmsack.xml),4,Movies,weekly,60&ndash;90,
+[Flip the Table](#flip),[(website)](http://tableflipsyou.blogspot.ca/), [(feed)](http://flipthetable.libsyn.com/rss),4,Gaming,monthly,60,
+Freakonomics Radio,[(website)](http://freakonomics.com/), [(feed)](http://feeds.feedburner.com/freakonomicsradio),3,Economics,weekly,45&ndash;60,
+Gamers With Jobs Conference Call,[(website)](https://www.gamerswithjobs.com/), [(feed)](http://www.gamerswithjobs.com/taxonomy/term/408/0/feed),3,Gaming,weekly,60,
+Global News - BBC,[(website)](http://www.bbc.co.uk/programmes/p02nq0gn), [(feed)](http://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml),1,News,twice daily,30,
+Hidden Brain,[(website)](http://www.npr.org/podcasts/510308/hidden-brain), [(feed)](http://www.npr.org/rss/podcast.php?id=510308),3,Science,weekly,30,
+[Hotline Monday](#hotline),[(website)](http://frogpants.com/hotlinemonday/), [(feed)](http://feeds.frogpants.com/hotlinemonday_feed.xml),3,Talk/Pop Culture,weekly,60,
+[Hypothetical Help](#hypohelp),[(website)](http://frogpants.com/podcasts/hypothetical-help/), [(feed)](http://feeds.frogpants.com/hypohelp_feed.xml),3,Comedy,weekly,45,Themes
+InDesign Secrets,[(website)](http://indesignsecrets.com/media_types/podcast), [(feed)](http://feeds.feedburner.com/IndesignSecrets),1,Miscellaneous,monthly,45,
+JuRY,[(website)](http://jurytalks.com/), [(feed)](http://feeds.feedburner.com/jurytalks/plHl),1,Talk/Personal,weekly,60,Language
+Le rendez-vous Tech,[(website)](http://frenchspin.fr/), [(feed)](http://feeds2.feedburner.com/lerendezvoustech),1,Tech/Geek,semimonthly,90,
+[Lezioni di musica](#lezioni),[(website)](http://www.radio3.rai.it/dl/portaleRadio/Programmi/Page-b9c58969-fc31-4d5a-ada7-42a913de64f3.html?section=Main), [(feed)](http://www.radio.rai.it/radio3/podcast/rssradio3.jsp?id=5539),2,Music,weekly,30,
+Ludology,[(website)](http://www.ludology.libsyn.com/), [(feed)](http://ludology.libsyn.com/rss),3,Gaming,weekly,5&ndash;60,
+More or Less Behind the Stats,[(website)](http://www.bbc.co.uk/programmes/b006qshd), [(feed)](http://downloads.bbc.co.uk/podcasts/radio4/moreorless/rss.xml),3,Science,weekly,30,
+[Mormon FAIR-Cast](#fair),[(website)](http://www.fairmormon.org/), [(feed)](http://www.fairblog.org/feed/podcast),4,Religion,weekly,10&ndash;60,
+"My Brother, My Brother And Me",[(website)](http://www.maximumfun.org/shows/my-brother-my-brother-and-me), [(feed)](http://mbmbam.libsyn.com/rss),3,Comedy,weekly,60,Language/Themes
+Night Attack Audio Feed,[(website)](http://nightattack.tv/), [(feed)](http://nightattack.tv/feed/audio),1,Comedy,weekly,90,Language/Themes
+[No Agenda](#noagenda),[(website)](http://www.noagendashow.com/), [(feed)](http://feed.nashownotes.com/rss.xml),2,Talk/News,Sun/Thu,180,Language
+NPR: Planet Money Podcast,[(website)](http://www.npr.org/sections/money/), [(feed)](http://www.npr.org/rss/podcast.php?id=510289),3,Economics,weekly,15&ndash;30,
+NPR: Wait Wait Don't Tell Me Podcast,[(website)](http://www.npr.org/programs/wait-wait-dont-tell-me/), [(feed)](http://www.npr.org/rss/podcast.php?id=35),3,Comedy,weekly,60,
+NPR: Hourly News Summary,[(website)](http://www.npr.org/podcasts/500005/hourly-news-summary), [(feed)](http://www.npr.org/rss/podcast.php?id=500005),1,News,hourly,10,
+[NPR: Invisibilia Podcast](#invisibilia),[(website)](http://www.npr.org/podcasts/510307/invisibilia), [(feed)](http://www.npr.org/rss/podcast.php?id=510307),4,Stories,weekly,60,Themes
+NPR: Pop Culture Happy Hour Podcast,[(website)](http://www.npr.org/podcasts/510282/pop-culture-happy-hour), [(feed)](http://www.npr.org/rss/podcast.php?id=510282),1,Culture,weekly,45,
+[Our Debut Album](#debut),[(website)](http://www.ourdebutalbum.com/), [(feed)](http://ourdebutalbum.libsyn.com/rss),3,Music,monthly,60,
+Pixels,[(website)](http://frenchspin.com/), [(feed)](http://feeds.feedburner.com/pixelsshow),2,Gaming,semimonthly,90,
+Plaid Hat Podcast,[(website)](http://www.plaidhatgames.com/podcast), [(feed)](http://plaidhatpodcast.libsyn.com/rss),1,Gaming,semimonthly,60&ndash;90,Language
+Politics Politics Politics,[(website)](http://www.politicspoliticspolitics.com/), [(feed)](http://feeds.feedburner.com/squarespace/WtCx),2,Politics,Mon/Wed/Thu,60,Language
+Quirks and Quarks Complete Show from CBC Radio,[(website)](http://www.cbc.ca/radio/quirks), [(feed)](http://www.cbc.ca/podcasting/includes/quirksaio.xml),4,Science,weekly,60,
+Radio3Scienza,[(website)](http://www.radio3.rai.it/dl/portaleRadio/Programmi/Page-34dde362-abfb-40ab-9828-ecd6f9f044a0.html?section=Main), [(feed)](http://www.radio.rai.it/radio3/podcast/rssradio3.jsp?id=273),2,Science,weekdays,30,
+Radiolab Presents: More Perfect,[(website)](http://www.wnyc.org/shows/radiolabmoreperfect), [(feed)](http://feeds.wnyc.org/moreperfect),3,Law,weekly (hiatus),30&ndash;60,
+[Revisionist History](#revisionist),[(website)](http://revisionisthistory.com/), [(feed)](http://feeds.feedburner.com/RevisionistHistory),2,Stories,weekly,30&ndash;45,
+Sawbones: A Marital Tour of Misguided Medicine,[(website)](http://www.maximumfun.org/shows/sawbones), [(feed)](http://sawbones.libsyn.com/rss),4,Science,weekly,30&ndash;45,Themes
+Slate Money,[(website)](http://www.slate.com/articles/podcasts/slate_money.html), [(feed)](http://feeds.feedburner.com/SlateMoney),3,Economics,weekly,45&ndash;60,Language
+Slate Presents Lexicon Valley,[(website)](http://www.slate.com/articles/podcasts/lexicon_valley.html), [(feed)](http://feeds.feedburner.com/SlateLexiconValley),3,Language,semimonthly,30,Language
+Slate's Amicus with Dahlia Lithwick,[(website)](http://www.slate.com/articles/podcasts/amicus.html), [(feed)](http://feeds.feedburner.com/SlateAmicusWithDahliaLithwick),3,Law,semimonthly,30&ndash;45,
+Slate's Culture Gabfest,[(website)](http://www.slate.com/articles/podcasts/culturegabfest.html), [(feed)](http://feeds.feedburner.com/SlateCultureGabfest),4,Culture,weekly,45&ndash;60,Language
+Slate's Double X Podcasts,[(website)](http://www.slate.com/articles/double_x.html), [(feed)](http://feeds.feedburner.com/DoubleXPodcasts),3,Women,semimonthly,45&ndash;60,Language/Themes
+Slate's Mom and Dad Are Fighting,[(website)](http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting.html), [(feed)](http://feeds.feedburner.com/SlateMomAndDadAreFighting),1,Parenting,semimonthly,45&ndash;60,Language
+Slate's Political Gabfest,[(website)](http://www.slate.com/articles/podcasts/gabfest.html), [(feed)](http://feeds.feedburner.com/SlatePoliticalGabfest),4,Politics,weekly,60,
+Slate's The Gist,[(website)](http://www.slate.com/articles/podcasts/gist.html), [(feed)](http://feeds.feedburner.com/TheGistWithMikePesca),1,Interviews,weekdays,30,Language
+[Song Exploder](#exploder),[(website)](http://songexploder.net/), [(feed)](http://songexploder.libsyn.com/rss),1,Music,semimonthly,15&ndash;30,Language
+[Start the Week with Andrew Marr](#stw),[(website)](http://www.bbc.co.uk/programmes/b006r9xr), [(feed)](http://downloads.bbc.co.uk/podcasts/radio4/stw/rss.xml),1,Interviews,weekly,45,
+[Stop Podcasting Yourself](#spy),[(website)](http://www.maximumfun.org/shows/stop-podcasting-yourself), [(feed)](http://stoppodcastingyourself.libsyn.com/rss),4,Comedy,weekly,60,Language/Themes
+Stuff You Should Know,[(website)](http://www.stuffyoushouldknow.com/podcasts), [(feed)](http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss),1,Talk/Education,weekly,45&ndash;60,
+Supreme Podcast,[(website)](http://supremecourtreview.com/default/podcast/view/type/list), [(feed)](http://www.supremepodcast.com/SupremePodcast.com/A_Weekly_Podcast_Concerning_the_United_States_Supreme_Court/rss.xml),2,Law,weekly,15,
+The Allusionist,[(website)](http://www.theallusionist.org/), [(feed)](http://feeds.theallusionist.org/Allusionist),2,Language,semimonthly,15,
+The Bitterest Pill,[(website)](http://www.danklass.com/pill/), [(feed)](http://feeds.feedburner.com/bitterestpillaudio),3,Talk/Personal,sporadic,45&ndash;90,
+[The Dice Tower](#dicetower),[(website)](http://www.dicetower.com/), [(feed)](http://dicetower.coolstuffinc.com/rss),4,Gaming,weekly,60&ndash;90,
+[The Ezra Klein Show](#ezra),[(website)](http://www.vox.com/ezra-klein-show-podcast), [(feed)](http://feeds.feedburner.com/TheEzraKleinShow),4,Interviews,weekly,60&ndash;90,
+[The Flop House](#flop),[(website)](http://www.flophousepodcast.com/), [(feed)](http://theflophouse.libsyn.com/rss),3,Movies,semimonthly,60&ndash;90,Language
+[The Morning Stream](#stream),[(website)](http://frogpants.com/podcasts/tms/), [(feed)](http://myextralife.com/ftp/radio/morningstream.xml),4,Comedy,weekdays,90,
+The National: Rex Murphy Audio Podcast,[(website)](http://www.cbc.ca/player/news/TV%20Shows/The%20National/Rex%20Murphy), [(feed)](http://www.cbc.ca/mediafeeds/rss/cbc/rexmurphy-audio-podcast.xml),1,Opinion,sporadic,5,
+[The Phileas Club](#phileas),[(website)](http://frenchspin.com/), [(feed)](http://feeds.feedburner.com/ThePhileasClub),2,Talk/News,semimonthly,60&ndash;90,
+The Psychology of Video Games Podcast,[(website)](http://www.psychologyofgames.com/podcast/), [(feed)](http://psychologyofgames.libsyn.com/rss),2,Gaming,monthly,60,
+The Secret Cabal Gaming Podcast,[(website)](http://www.thesecretcabal.com/), [(feed)](http://thesecretcabal.com/scpodcast.xml),2,Gaming,semimonthly,60&ndash;180,Language
+[The Therapy Show](#therapy),[(website)](http://frogpants.com/podcasts/therapy/), [(feed)](http://myextralife.com/ftp/radio/therapy.xml),4,Advice,weekly (hiatus),60,
+Vox's The Weeds,[(website)](http://www.vox.com/the-weeds), [(feed)](http://feeds.feedburner.com/voxtheweeds),3,Politics,weekly,45&ndash;60,
+[Waking Up with Sam Harris](#wakingup),[(website)](https://www.samharris.org/podcast), [(feed)](http://feeds.soundcloud.com/users/soundcloud:users:59753170/sounds.rss),3,Opinion,monthly+,60&ndash;150,
+We Have Concerns,[(website)](http://wehaveconcerns.com/), [(feed)](http://simplecast.fm/podcasts/1041/rss),3,Comedy,weekly+,20,Language
+[Welcome to Night Vale](#nightvale),[(website)](http://www.welcometonightvale.com/), [(feed)](http://nightvale.libsyn.com//rss),4,Fiction,semimonthly,30,
+[Within the Wires](#wires),[(website)](http://www.nightvalepresents.com/withinthewires/), [(feed)](http://withinthewires.libsyn.com/rss),3,Fiction,semimonthly,30,
+[WNYC's Radiolab](#radiolab),[(website)](http://www.radiolab.org/), [(feed)](http://feeds.wnyc.org/radiolab),4,Stories,semimonthly,30,Themes
+{{< /csv-table >}}
 
 ## Notes
 
