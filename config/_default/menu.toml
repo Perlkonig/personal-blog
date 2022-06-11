@@ -4,3 +4,20 @@
   weight = 40
   url = "/about/me"
   pre = '<i class="fas fa-fw fa-user"></i>'
+[[main]]
+  name = "Side Projects"
+  identifier = "projects"
+  weight = 45
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
+[[main]]
+  name = "Empirical Editors"
+  identifier = "empirical"
+  parent = "projects"
+  url = "http://aarondalton.ca/EmpiricalEditors"
+  weight = 2
+[[main]]
+  name = "Bread Calculator"
+  identifier = "bread"
+  parent = "projects"
+  url = "/bread"
+  weight = 3
