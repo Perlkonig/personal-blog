@@ -2,7 +2,7 @@ name = "Aaron Dalton"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
 bio = "Gamer, programmer, editor, baker"
 # company = 'Company'
-company = '<a href="https://aer.ca" target="_blank" rel="noopener noreferrer">Alberta Energy Regulator</a>'
+# company = '<a href="https://aer.ca" target="_blank" rel="noopener noreferrer">Alberta Energy Regulator</a>'
 location = "Alberta, Canada"
 # alternatives:
 # location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
