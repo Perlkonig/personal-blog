@@ -191,14 +191,8 @@ viewer = true # Image Viewer
   title = "Side Projects"
 
 [[blogroll.sites]]
-  name = "Super Duper Games"
-  description = "Long-running site where you can play abstract strategy board games"
-  url = "http://superdupergames.org/"
-  weight = 10
-
-[[blogroll.sites]]
   name = "Abstract Play"
-  description = "Eventual successor to Super Duper Games"
+  description = "Play abstract strategy board games asynchronously against human opponents"
   url = "https://www.abstractplay.com/"
   weight = 20
 
@@ -219,3 +213,21 @@ viewer = true # Image Viewer
   description = "A tool for scaling my favourite bread recipes to various yields"
   url = "/bread"
   weight = 50
+
+[[blogroll.sites]]
+  name = "Weather Generator"
+  description = "A tool for generating random weather sequences for use in RPG campaigns"
+  url = "/weather"
+  weight = 60
+
+[[blogroll.sites]]
+  name = "Dungeon World Bestiary"
+  description = "A tool for generating and cataloging custom monsters for Dungeon World campaigns"
+  url = "/bestiary"
+  weight = 70
+
+[[blogroll.sites]]
+  name = "Full Thrust Ship Builder"
+  description = "A tool for creating ships and SSDs for Full Thrust"
+  url = "/ftShipBuilder"
+  weight = 80
