@@ -17,7 +17,7 @@ at <http://www.bibliotecamusica.it/cmbm/scripts/gaspari/scheda.asp?id=7630>. Pe
 My master’s thesis is entitled *Philippe de Monte’s* Primo libro de madrigalil a
 tre voci *(1582): A Modern Edition and Analysis* and can be downloaded in its
 entirety from [the University of Calgary’s institutional
-repository (doi:10.11575/PRISM/15138)](http://dx.doi.org/10.11575/PRISM/15138). As the title suggests, it’s a
+repository (doi:10.11575/PRISM/40026)](http://dx.doi.org/10.11575/PRISM/40026). As the title suggests, it’s a
 print release of all the madrigals in Monte’s first book of madrigals for three
 voices, together with a brief history of Monte and the madrigal in general and a
 discussion of where the source materials are found and how I
